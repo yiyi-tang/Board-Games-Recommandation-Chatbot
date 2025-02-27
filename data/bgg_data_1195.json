@@ -1,0 +1,2851 @@
+[
+  {
+    "Rank": "N/A",
+    "Name": "Sword and Dagger!",
+    "ID": 301952,
+    "Year": "(2020)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/301952/sword-and-dagger",
+    "Min Players": "0",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Medieval skirmish wargame rules for individually based figures. Each figure is classed for weapon, shield, armour, mount (if applicable), and social class(!). Combat and some movement is adjudicated by ordinary six-sided dice.&#10;&#10;",
+    "Categories": [
+      "Medieval",
+      "Miniatures",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Measurement Movement",
+      "Simulation"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Commit the Garde: Friedland",
+    "ID": 301953,
+    "Year": "(2011)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/301953/commit-the-garde-friedland",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "120",
+    "Play Time": "360",
+    "Weight": "0",
+    "Description": "June 14th, 1807 - Napoleon engages a Russian army attempting to a river crossing.&#10;&#10;A scenario for the Napoleonic rules Commit the Garde!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game",
+      "Book",
+      "Miniatures",
+      "Napoleonic",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Scenario / Mission / Campaign Game",
+      "Simulation"
+    ],
+    "Families": [
+      "Cities: Friedland (Prussia)",
+      "Country: Russia"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Commit the Garde: Raab",
+    "ID": 301954,
+    "Year": "(2015)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/301954/commit-the-garde-raab",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "120",
+    "Play Time": "360",
+    "Weight": "0",
+    "Description": "June 14th, 1809 - Following the disastrous attempt to cross the Danube at Aspern and Essling in May, Napoleon sent Prince Eugene to confront Archduke John&rsquo;s army, the only Austrian force still operating on the right bank.&#10;&#10;Eugene finally confronted John&rsquo;s army at Raab on June 14th, 1809.&#10;&#10;Scenario for Commit the Garde!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Book",
+      "Expansion for Base-game",
+      "Miniatures",
+      "Napoleonic",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Scenario / Mission / Campaign Game",
+      "Simulation"
+    ],
+    "Families": [
+      "Cities: Gy\u0151r (Hungary)"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Commit the Garde: Salamanca",
+    "ID": 301955,
+    "Year": "(2012)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/301955/commit-the-garde-salamanca",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "120",
+    "Play Time": "360",
+    "Weight": "0",
+    "Description": "Wellington's small army, having moved into Spain to threaten Madrid, finds itself being out-marched as Marmont races to cut his supply line. &#10;As the French army maneuvers, it stretches out and Wellington sees his opportunity. Wellington, the master of the defensive battle, shows the French that he can attack!&#10;&#10;A Scenario for Commit the Garde!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game",
+      "Book",
+      "Miniatures",
+      "Napoleonic",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Scenario / Mission / Campaign Game",
+      "Simulation"
+    ],
+    "Families": [
+      "Cities: Salamanca (Spain)",
+      "Country: Spain"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Commit the Garde: Battle of the Pyramids",
+    "ID": 301956,
+    "Year": "(2019)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/301956/commit-the-garde-battle-of-the-pyramids",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "120",
+    "Play Time": "360",
+    "Weight": "0",
+    "Description": "July 21st, 1798 - Napoleon faces the Mameluke forces of Egypt on the banks of the Nile River.&#10;&#10;Scenario for Commit the Garde!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game",
+      "Book",
+      "Miniatures",
+      "Napoleonic",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Scenario / Mission / Campaign Game",
+      "Simulation"
+    ],
+    "Families": [
+      "Country: Egypt",
+      "History: French Revolutionary Wars"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Commit the Garde: Ligny",
+    "ID": 301957,
+    "Year": "(2011)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/301957/commit-the-garde-ligny",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "120",
+    "Play Time": "360",
+    "Weight": "0",
+    "Description": "June 16th, 1815 - Napoleon's last victory!&#10;&#10;Can he beat the Prussians badly enough to force Blucher to abandon Wellington at Waterloo?&#10;&#10;This scenario for Commit the Garde! features a battlefield predominated by villages and towns.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game",
+      "Book",
+      "Miniatures",
+      "Napoleonic",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Scenario / Mission / Campaign Game",
+      "Simulation"
+    ],
+    "Families": [
+      "Cities: Fleurus (Belgium)",
+      "Country: Belgium",
+      "History: Waterloo Campaign"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Commit the Garde: Quatre-Bras",
+    "ID": 301961,
+    "Year": "(2012)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/301961/commit-the-garde-quatre-bras",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "120",
+    "Play Time": "360",
+    "Weight": "0",
+    "Description": "The third add-on scenario for Commit the Garde! covering Napoleon's last campaign.&#10;&#10;Can Wellington's polyglot army hold the vital crossroads and maintain communications with Blucher's army at Ligny?&#10;&#10;Commit the Garde! is a grand-tactical game of the napoleonic wars intended for use with miniature figures on a hex based battlefield.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game",
+      "Book",
+      "Miniatures",
+      "Napoleonic",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Scenario / Mission / Campaign Game",
+      "Simulation"
+    ],
+    "Families": [
+      "Country: Belgium"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Commit the Garde: Leutzen 1813",
+    "ID": 301962,
+    "Year": "(2013)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/301962/commit-the-garde-leutzen-1813",
+    "Min Players": "4",
+    "Max Players": "6",
+    "Min Play Time": "360",
+    "Play Time": "480",
+    "Weight": "0",
+    "Description": "May 2nd, 1813 - Can Napoleon reverse the fortunes of 1812 and defeat the newly united Russian and Prussian armies?&#10;&#10;The French army has been hastily scraped together and of questionable quality, but the allied armies are also in poor condition.  &#10;It is likely to be an ebbing and flowing battle across an open battlefield around the four central villages of Kaja, Rahna, Klein Gorschen, and Gross Gorschen.&#10;&#10;A scenario for the Napoleonic grand tactical rules Commit the Garde!&#10;&#10;The scenario is intended for 4-6 players with brigade sized units, and should easily play in 6-8 hours for experienced players.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game",
+      "Book",
+      "Miniatures",
+      "Napoleonic",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Scenario / Mission / Campaign Game",
+      "Simulation"
+    ],
+    "Families": [
+      "Country: Germany"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Commit the Garde: Aspern Essling",
+    "ID": 301963,
+    "Year": "(2012)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/301963/commit-the-garde-aspern-essling",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "120",
+    "Play Time": "360",
+    "Weight": "0",
+    "Description": "Scenario for Commit the Garde!  (Finally a scenario for the Austrians)&#10;&#10;Napoleon, flush with a string of victories and the capture of Vienna, attempts to force a hasty crossing of the Danube to bring the forces of Archduke Charles to battle.&#10;&#10;Will he win another decisive victory over the Austrians, or suffer defeat ?&#10;&#10;Aspern Essling includes new rules for multi-day battles, allowing steadfast armies to continue an undecided battle.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game",
+      "Book",
+      "Miniatures",
+      "Napoleonic",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Scenario / Mission / Campaign Game",
+      "Simulation"
+    ],
+    "Families": [
+      "Country: Austria"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Commit the Garde: Borodino",
+    "ID": 301964,
+    "Year": "(2012)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/301964/commit-the-garde-borodino",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "120",
+    "Play Time": "360",
+    "Weight": "0",
+    "Description": "A Scenario for Commit the Garde!&#10;&#10;An epic struggle in the cool air of September 1812.&#10;&#10;Napoleon's multi-national Imperial Army faces a determined Russian army before the gates of Moscow.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game",
+      "Book",
+      "Miniatures",
+      "Napoleonic",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Scenario / Mission / Campaign Game",
+      "Simulation"
+    ],
+    "Families": [
+      "Cities: Borodino (Russia)",
+      "Country: Russia"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Commit the Garde: Talavera",
+    "ID": 301965,
+    "Year": "(2012)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/301965/commit-the-garde-talavera",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "120",
+    "Play Time": "360",
+    "Weight": "0",
+    "Description": "A Scenario for the Napoleonic rules Commit the Garde!&#10;&#10;Can the upstart &quot;Sepoy General&quot; Wellesley defeat the cream of the French Army and support the Spanish forces resisting Napoleon?&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game",
+      "Book",
+      "Miniatures",
+      "Napoleonic",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Scenario / Mission / Campaign Game",
+      "Simulation"
+    ],
+    "Families": [
+      "Cities: Talavera (Spain)",
+      "Country: Spain"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Commit the Garde: Wagram",
+    "ID": 301966,
+    "Year": "(2019)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/301966/commit-the-garde-wagram",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "120",
+    "Play Time": "360",
+    "Weight": "0",
+    "Description": "Scenario for Commit the Garde!&#10;&#10;After the defeat at Aspern and Essling, Napoleon has consolidated his army's position, driven Archduke Charles from the field at Raab (or at least his step-son Eugene took care of that), and most of all he has meticulously planned the crossing of the Danube.  &#10;He now finds himself on the Marchfeld, where they hold their major military maneuvers.  &#10;He plans to litterally beat them decisively on their home field.&#10;&#10;Wagram offers multiple battle options, the main sector in a double-sized battlefield (4' x 12' on 4&quot; hex mats), either western or eastern sector sub-battles of the main sector, the Danube sector, or the entire battle spread across three normal sized battle maps.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game",
+      "Book",
+      "Miniatures",
+      "Napoleonic",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Scenario / Mission / Campaign Game",
+      "Simulation"
+    ],
+    "Families": [
+      "Cities: Deutsch-Wagram (Austria)",
+      "Country: Austria"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Paint Chip Poetry",
+    "ID": 301967,
+    "Year": "(2017)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.81",
+    "Link": "https://boardgamegeek.com/boardgame/301967/paint-chip-poetry",
+    "Min Players": "1",
+    "Max Players": "99",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Let the paint chips be your muse! &#10;With a pile of paint names at your fingertips, the poems practically write themselves. &#10;&#10;    Draw a prompt card&#10;     Consult your colors. &#10;     Make a poem.&#10;     Reflect. Express. Laugh. &#10;     Play another round!&#10;&#10;&#10;UNIQUE CREATIVE GAME: Players draw handfuls of paint chips and a prompt card, then rearrange the chips to create spontaneous poems out of the color names.&#10;WORDPLAY FUN: Composing a poem is easy and fun with this colorful and creative game.&#10;ENDLESS POEM COMBINATIONS: With 400 paint chip cards, 40 prompt cards, and 10 variation cards, poems are sure to range from profound to hilarious.&#10;GREAT FOR BRAINSTORMING: This quirky party game is also the perfect way to bust through writer's block.&#10;&#10;",
+    "Categories": [
+      "Word Game"
+    ],
+    "Mechanics": [],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Napoleon and the Armies of Mars: Rules for Napoleonic Battles on Mars",
+    "ID": 301972,
+    "Year": "(2012)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/301972/napoleon-and-the-armies-of-mars-rules-for-napoleon",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Napoleon and the Armies of Mars is the complete set of rules for fighting epic battles between giant war-machines and expert skirmishing infantry on the battle-scared plains of the Red Planet.&#10;&#10;Check out the other booklets in this series, get building and designing your vehicles and unleash them on your opponents!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Book",
+      "Fantasy",
+      "Miniatures",
+      "Napoleonic",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Measurement Movement"
+    ],
+    "Families": [
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Pike & Shot & Zombies",
+    "ID": 301974,
+    "Year": "(2011)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/301974/pike-and-shot-and-zombies",
+    "Min Players": "2",
+    "Max Players": "8",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "0",
+    "Description": "In a world already used to plagues, pestilence, famine and war, things have just got a whole lot worse. Now even the dead won't lie still in their graves. The corpses from a hundred battlefields have risen up and are now intent of devouring the last few remaining flickers of life in this truly accursed land.&#10;&#10;Pike &amp; Shot &amp; Zombies is a post-apocalyptic survival game in a ravaged Renaissance world where small bands of survivors battle the hordes of the undead in a desperate bid to prolong their miserable lives for a few moments more. Each player will control one or two survivors and must withstand the fiendish scenario created by the umpire. The rules include a detailed profile of each survivor character explaining their attributes and skills. A fearsome array of armaments are available - the finest of black-powder technology - not to mention the best of the stabbing, hacking, impaling, smashing, crushing and slicing - close combat weapons available to the Renaissance soldier. But the survivors will need to be prepared, a terrifying array of undead creatures are arrayed against them. The rules describe a variety of different undead threats, from slow, stupid and frankly rather confused zombies, to faster moving more predatory undead creatures and even grossly fat zombies that can explode infections zombie goo all over an unlucky survivor.&#10;&#10;To make matters worse for the survivors, the umpire has at their disposal an extensive deck of &quot;event-cards&quot;. These create a wide variety of unforeseen, awkward and even downright dangerous situations that can trip up the most prepared band of survivors - from fumbling weapon handling and misfires, accidental powder explosions, to bad omens and even accusations of witchcraft. And to start players off, there are two starter missions included and guidelines for creating your own testing and terrifying scenarios using the Pike &amp; Shot &amp; Zombies rules.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Adventure",
+      "Book",
+      "Horror",
+      "Miniatures",
+      "Pike and Shot",
+      "Renaissance",
+      "Wargame",
+      "Zombies"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Measurement Movement"
+    ],
+    "Families": [
+      "Creatures: Zombies",
+      "Theme: Post-Apocalyptic"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Chronicles of Blood: Solo War Game",
+    "ID": 301975,
+    "Year": "(2011)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "10.00",
+    "Link": "https://boardgamegeek.com/boardgame/301975/chronicles-of-blood-solo-war-game",
+    "Min Players": "1",
+    "Max Players": "1",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "1",
+    "Description": "An war game game for just one person - YOU!&#10;&#10;The world of Arax is a world filled with blood and battle, magic and monsters, slaughter and sorcery. It is a world where the weak are crushed and the strong survive, where those who are bigger and more powerful bully those who are weaker and more vulnerable. It is a world at war, with armies clashing violently on the fields of battle. A great general is needed to lead these armies, and that general is you!&#10;&#10;Chronicles of Blood is a game where you, the reader, takes on the role of an army commander in the world of Arax. It is your job to fight lead your troops to glory, destroying the enemy and either saving or conquering the world, depending on the army you choose.&#10;&#10;Arax is a dark and dangerous world and a time of reckoning is approaching. The ancient empires of men, dwarfs and elves are crumbling, beset on all sides by the dark hordes of the orcs, goblins, demons and the undead.&#10;&#10;The once magnificent elven forests, at one time beautiful, green and lush, are now withering and dying, the magically-crafted towers and wondrous tree-cities that lie within broken and shattered. Only the elven talent at manipulating mana, the magical force that permeates Arax, has stopped their race from being wiped out.&#10;&#10;The dwarven fortresses built high in the mountains of Arax are now overrun with goblins, who burrowed up through the earth and attacked from within the otherwise impenetrable fortress walls. One by one the fortresses fall and, although the dwarven courage and skill with weapons is legendary, even they find themselves overwhelmed by the sheer number of goblins pouring in to their homes.&#10;&#10;And humanity find themselves sorely pressed on all sides, their cities and towns constantly raided and besieged. The barbaric orc tribes march down from the north, pillaging everything in their path. The necromantic legions from the southern desert kingdoms shamble forward, unrelenting in their march towards the human lands. Some humans even turn against their own, worshipping demonic powers in secret and plotting the downfall of their race from within.&#10;&#10;The final battles that will decide the fate of Arax are fast approaching. Soldiers line up on opposite sides of the battlefield, ready to lay down their lives in service to their commander. Will you lead your troops to ultimate victory, or will you fail in your leadership and suffer humiliating, crushing defeat?&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Book",
+      "Fantasy",
+      "Miniatures",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Solo / Solitaire Game"
+    ],
+    "Families": [
+      "Misc: Free Wargames",
+      "Players: Solitaire Only Games",
+      "Players: Wargames with Solitaire Rules"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Chronicles of Blood: Heroes of the Battlefield",
+    "ID": 301976,
+    "Year": "(2011)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/301976/chronicles-of-blood-heroes-of-the-battlefield",
+    "Min Players": "1",
+    "Max Players": "1",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Heroes of the Battlefield is a premium expansion for the Chronicles of Blood solo war game. It adds options to include mighty champions, arcane wizards and banner bearers to your regiments in order to enhance them upon the battlefield.&#10;&#10;You may choose any number of these Heroes as an upgrade to a regiment, increasing the points cost of the regiment in the process. However, for each one you choose, you must also choose one for the enemy army as well.&#10;&#10;When added to a regiment, the regiment gains all the benefits that the Hero provides. Regiments can have more than one Hero added to them, and the regiment gains all of the benefits.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game",
+      "Book",
+      "Fantasy",
+      "Miniatures",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game"
+    ],
+    "Families": [
+      "Players: Games with Solitaire Rules"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Quik Frik: Rules for Fast-Action Skirmish Combat in Miniatures Wargaming",
+    "ID": 301977,
+    "Year": "(2020)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/301977/quik-frik-rules-for-fast-action-skirmish-combat-in",
+    "Min Players": "2",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Got a scenario you're dying to try out, but don't want to learn pages of complicated rules?&#10;&#10;New to gaming and ready to get your feet wet?&#10;&#10;Experienced gamer looking for simple rules with a unique approach?&#10;&#10;QUIK FRIK is a one-page rule set (with a bonus page) that offers a unique approach to miniatures skirmish gaming, for scenarios from WWII through sci-fi. These rules emphasize the friction that can mount during combat. They are well suited for small-scale combat, from a handful of figures up to a platoon. They are best for 6-20mm miniatures.&#10;&#10;Rules are included for movement and combat, including vehicles. Combat results can be seen with just one roll of the dice on one combat table. A unique activation sequence is also featured. Forces can be regular or elite, and the bonus page offers many special abilities.&#10;&#10;With QUIK FRIK, your favorite scenario can be as mindblowing as your favorite movie scene, and it can go almost as fast. So get your game on right now.&#10;&#10;",
+    "Categories": [
+      "Book",
+      "Miniatures",
+      "Modern Warfare",
+      "Science Fiction",
+      "Wargame",
+      "World War II"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Measurement Movement"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Relic Worlds Expeditions",
+    "ID": 301978,
+    "Year": "(2020)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.00",
+    "Link": "https://boardgamegeek.com/boardgame/301978/relic-worlds-expeditions",
+    "Min Players": "1",
+    "Max Players": "6",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Seek out ancient treasures and battle your enemies in Relic Worlds Expeditions.  &#10;But beware, secret traps and fierce monsters await within the ruins of an ancient alien civilization. &#10; Build a list and play as treasure hunters, pirates, corporate armies, spies, and more from the vast Relic Worlds universe.  &#10;Then send them out on a custom made board against your friends or in a solo game.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Adventure",
+      "Miniatures",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Action Retrieval",
+      "Dice Rolling",
+      "Role Playing"
+    ],
+    "Families": [
+      "Creatures: Monsters",
+      "Misc: Free Wargames",
+      "Setting: Relic Worlds universe"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Relic Worlds Showdown: Corporate Armies",
+    "ID": 301979,
+    "Year": "(2017)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.00",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/301979/relic-worlds-showdown-corporate-armies",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Back when humanity was on Earth, populations were ruled over by countries. As it spread into the cosmos, corporations took charge of colonies, and soon they were the ruling class of human civilization. Their armies clash with each other, and other factions for dominance over the galaxy. They are the strongest and most powerful of all factions, bringing the most firepower and leadership to any conflict.&#10;&#10;Relic Worlds Showdown uses the Showdown miniatures rules by Pinnacle Entertainment to recreate skirmish battles in the Relic Worlds universe. In it, players find artifacts and other treasures left behind by long-lost alien civilizations. But the characters must be careful, as these alien races also left behind traps, and fierce monsters remain that will prove a deadly challenge to your faction.&#10;&#10;In these pages, you will find rules for turning your Showdown game into a Relic Worlds one, and the faction information for Corporate armies.&#10;&#10;",
+    "Categories": [
+      "Adventure",
+      "Book",
+      "Expansion for Base-game",
+      "Miniatures",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Role Playing",
+      "Scenario / Mission / Campaign Game"
+    ],
+    "Families": [
+      "Creatures: Monsters",
+      "Setting: Relic Worlds universe"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Relic Worlds Showdown: Corporate Spies",
+    "ID": 301980,
+    "Year": "(2017)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.00",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/301980/relic-worlds-showdown-corporate-spies",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Living in the shadows and working for the highest bidder, corporate spies use cunning and wit to focus their attention on their target. They are experts at getting in, accomplishing the mission, and getting out, hopefully with as little notice on them as possible.&#10;&#10;Relic Worlds Showdown uses the Showdown miniatures rules by Pinnacle Entertainment to recreate skirmish battles in the Relic Worlds universe. In it, players find artifacts and other treasures left behind by long-lost alien civilizations. &#10;But the characters must be careful, as these alien races also left behind traps, and fierce monsters remain that will prove a deadly challenge to your faction.&#10;&#10;In these pages, you will find rules for turning your Showdown game into a Relic Worlds one, and the faction information for corporate spies.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Adventure",
+      "Book",
+      "Expansion for Base-game",
+      "Miniatures",
+      "Print & Play",
+      "Science Fiction",
+      "Spies / Secret Agents",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Role Playing",
+      "Scenario / Mission / Campaign Game"
+    ],
+    "Families": [
+      "Creatures: Monsters",
+      "Setting: Relic Worlds universe"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Lords of Hellas: Prophecy Cards",
+    "ID": 301981,
+    "Year": "(2018)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "8.43",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/301981/lords-of-hellas-prophecy-cards",
+    "Min Players": "1",
+    "Max Players": "4",
+    "Min Play Time": "60",
+    "Play Time": "90",
+    "Weight": "0",
+    "Description": "Every time you raise a Temple, the gods notice it. Each temple is a place to contact them to ask for their boons. Sometimes they will let you know the future... but is everything that the gods tell you the truth?&#10;&#10;Rules:&#10;When setting up this game, shuffle and place this deck next to the game board, near the Temples track.&#10;&#10;Prophecy cards will grant you additional one-time boons when you build a temple.&#10;&#10;Every time you build a Temple, draw a card from this deck. Place the drawn card next to your Hero Board.&#10;&#10;You may use this card only when you meet the requirements specified on it.&#10;&#10;Contents: 1 Rules card, 9 Prophecy cards.&#10;&#10;Available as part of the 2020 Dice Tower Kickstarter Adventurers Pack.&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game",
+      "Ancient",
+      "Civilization",
+      "Miniatures",
+      "Science Fiction",
+      "Territory Building"
+    ],
+    "Mechanics": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Hand Management",
+      "Variable Player Powers",
+      "Worker Placement"
+    ],
+    "Families": [
+      "Components: Miniatures",
+      "Country: Greece",
+      "Crowdfunding: Kickstarter",
+      "Game: Lords of Hellas",
+      "Mythology: Greek",
+      "Players: Games with Solitaire Rules"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Fossilis: 2020 Dice Tower Promo Cards",
+    "ID": 301982,
+    "Year": "(2020)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "7.28",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/301982/fossilis-2020-dice-tower-promo-cards",
+    "Min Players": "1",
+    "Max Players": "5",
+    "Min Play Time": "45",
+    "Play Time": "60",
+    "Weight": "0",
+    "Description": "Two promo cards for Fossilis!&#10;&#10;The Hat:&#10;Spend 1 coin to gain 1 energy, then pass this card to someone else. (It remains usable by them as well)&#10;&#10;Red Pennant:&#10;Stack 4 sand from the discard on one open pit. Tiles in this &quot;tower&quot; may never be moved.&#10;&#10;Available as part of the 2020 Dice Tower Kickstarter Builders Pack.&#10;&#10;",
+    "Categories": [
+      "Action / Dexterity",
+      "Expansion for Base-game",
+      "Exploration",
+      "Prehistoric"
+    ],
+    "Mechanics": [
+      "Set Collection",
+      "Tile Placement"
+    ],
+    "Families": [
+      "Animals: Dinosaurs",
+      "Components: Game Trayz Inside",
+      "Crowdfunding: Kickstarter",
+      "Promotional: Dice Tower"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Relic Worlds Showdown: Dark Agents",
+    "ID": 301984,
+    "Year": "(2017)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.00",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/301984/relic-worlds-showdown-dark-agents",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Known by some simply as The Dark Ones, this cult of fanatical authoritarians believe all evidence of past alien civilizations must be destroyed, and those who have been exposed to it must be terminated. (Though they themselves collect the occasional artifact that could help the greater good.)&#10;&#10;Relic Worlds Showdown uses the Showdown miniatures rules by Pinnacle Entertainment to recreate skirmish battles in the Relic Worlds universe. In it, players find artifacts and other treasures left behind by long-lost alien civilizations. But the characters must be careful, as these alien races also left behind traps, and fierce monsters remain that will prove a deadly challenge to your faction.&#10;&#10;In these pages, you will find rules for turning your Showdown game into a Relic Worlds one, and the faction information for the Dark Agents.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Adventure",
+      "Book",
+      "Expansion for Base-game",
+      "Miniatures",
+      "Print & Play",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Role Playing",
+      "Scenario / Mission / Campaign Game"
+    ],
+    "Families": [
+      "Creatures: Monsters",
+      "Setting: Relic Worlds universe"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Relic Worlds Showdown: Space Pirates",
+    "ID": 301986,
+    "Year": "(2017)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.00",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/301986/relic-worlds-showdown-space-pirates",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Some folks prefer the freedom of &ldquo;independent contracting&rdquo; and open space to the restrictions of corporate governments. These wayward spirits are often on the search for untold treasures and riches on the myriad planets across the galaxy.&#10;&#10;Relic Worlds Showdown uses the Showdown miniatures rules by Pinnacle Entertainment to recreate skirmish battles in the Relic Worlds universe. In it, players find artifacts and other treasures left behind by long-lost alien civilizations. But the characters must be careful, as these alien races also left behind traps, and fierce monsters remain that will prove a deadly challenge to your faction. In these pages, you will find rules for turning your Showdown game into a Relic Worlds one, and the faction information for the pirates.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game",
+      "Adventure",
+      "Book",
+      "Miniatures",
+      "Print & Play",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Role Playing",
+      "Scenario / Mission / Campaign Game"
+    ],
+    "Families": [
+      "Creatures: Monsters",
+      "Misc: Free Wargames",
+      "Setting: Relic Worlds universe"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Relic Worlds Showdown: Treasure Hunters",
+    "ID": 301987,
+    "Year": "(2017)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.00",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/301987/relic-worlds-showdown-treasure-hunters",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Though most people overlook ancient artifacts left behind by extinct alien civilizations, treasure hunters know their true value.  Whether xeno-archaeologists or other scientists trying to understand them, or looters searching for treasures they can turn over for a quick buck, these adventurers are trying to recover as many relics as they can.&#10;&#10;Relic Worlds Showdown uses the Showdown miniatures rules by innacle Entertainment to recreate skirmish battles in the Relic Worlds universe. In it, players find artifacts and other treasures left behind by long-lost alien civilizations. But the characters must be careful, as these alien races also left behind traps, and fierce monsters remain that will prove a deadly challenge to your faction.&#10;&#10;In these pages, you will find rules for turning your Showdown game into a Relic Worlds one, and the faction information for the pirates.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Adventure",
+      "Book",
+      "Expansion for Base-game",
+      "Miniatures",
+      "Print & Play",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Role Playing",
+      "Scenario / Mission / Campaign Game"
+    ],
+    "Families": [
+      "Creatures: Monsters",
+      "Misc: Free Wargames",
+      "Setting: Relic Worlds universe"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Sail and Steam Navies: Module 3 \u2013 Denmark & Prussia/Germany",
+    "ID": 301995,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/301995/sail-and-steam-navies-module-3-denmark-and-prussia",
+    "Min Players": "2",
+    "Max Players": "10",
+    "Min Play Time": "120",
+    "Play Time": "300",
+    "Weight": "0",
+    "Description": "Sail and Steam Navies allows you to fight naval battles from the era of early steam power, iron armor, and heavy guns. In this module you have ships from the Danish and Prussian/German navies that were commissioned before 1880 and includes:&#10;&#10;122 Vessel Log Sheets&#10;154  1/1200 Scale Vessel Counters&#10;&#10;&#10;    Ownership of Sail and Steam Navies is required to fully enjoy this module.&#10;&#10;&#10;",
+    "Categories": [
+      "Book",
+      "Expansion for Base-game",
+      "Miniatures",
+      "Nautical",
+      "Post-Napoleonic",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Scenario / Mission / Campaign Game",
+      "Simulation"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Sail and Steam Navies: Module 2 \u2013 Austria & Italy",
+    "ID": 301996,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/301996/sail-and-steam-navies-module-2-austria-and-italy",
+    "Min Players": "2",
+    "Max Players": "10",
+    "Min Play Time": "120",
+    "Play Time": "300",
+    "Weight": "0",
+    "Description": "Sail and Steam Navies allows you to fight naval battles from the era of early steam power, iron armor, and heavy guns. In this module you have ships from the Austrian and Italian navies that were commissioned before 1880 and includes:&#10;&#10;156 Vessel Log Sheets&#10;124  1/1200 Scale Vessel Counters&#10;&#10;&#10;    Ownership of Sail and Steam Navies is required to fully enjoy this module.&#10;&#10;&#10;",
+    "Categories": [
+      "Book",
+      "Expansion for Base-game",
+      "Miniatures",
+      "Nautical",
+      "Post-Napoleonic",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Scenario / Mission / Campaign Game",
+      "Simulation"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Modern Naval Conflicts: European Expansion Vol I \u2013 France & Germany",
+    "ID": 301999,
+    "Year": "(2013)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/301999/modern-naval-conflicts-european-expansion-vol-i-fr",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "0",
+    "Description": "EUROPE HAS ARRIVED!&#10;&#10;This is the first volume of the two-part Euro Expansion for our Modern Naval Conflicts game. This expansion adds the ships, subs, aircraft, helicopters, and SAM systems for France and the Federal Republic of Germany for both the 1970s and 1980s time frame.&#10;&#10;Players can now include the forces of France and West Germany in their MNC scenarios or campaigns: all the major surface ships, submarines, combat aircraft, and land-based SAM systems of both nations are included, along with scenarios to help get you started with the action!&#10;&#10;This expansion features over 70 complete Unit Data Sheets, including units such as the French carrier Clemenceau, the FRG Class 143A Gepard PTG, the deadly Tornado attack aircraft, and the quiet FRG Type 206A submarine class. &#10;Also included is a brief overview/introduction/notes on both nations forces.&#10;&#10;Four scenarios are also included that demonstrate typical situations each nation&rsquo;s forces may have faced in the European/GIUK theatre.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game",
+      "Modern Warfare",
+      "Nautical",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Scenario / Mission / Campaign Game",
+      "Simulation"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Modern Naval Conflicts: European Expansion \u2013 Denmark & Italy",
+    "ID": 302000,
+    "Year": "(2014)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/302000/modern-naval-conflicts-european-expansion-denmark",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "0",
+    "Description": "This is the first half of the second volume of the Euro Expansion for our Modern Naval Conflicts game. This expansion adds the ships, subs, aircraft, helicopters, and SAM systems for Denmark and Italy for both the 1970s and 1980s time frame.&#10;&#10;Players can now include the forces of Denmark and Italy in their MNC scenarios or campaigns: all the major surface ships, submarines, combat aircraft, and land-based SAM / AA systems of both nations are included,!&#10;&#10;This expansion features 50 new Unit Data Sheets.&#10; Use of this expansion requires both Modern Naval Conflicts: 1970s and Modern Naval Conflicts: GIUK 1980s Expansion / Falklands Conflict.&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game",
+      "Modern Warfare",
+      "Nautical",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Scenario / Mission / Campaign Game",
+      "Simulation"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Naval Warfare WW1: Expansion Pack #1 \u2013 Tsushima",
+    "ID": 302002,
+    "Year": "(2013)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/302002/naval-warfare-ww1-expansion-pack-1-tsushima",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "0",
+    "Description": "Naval Warfare WW1: Tsushima Expansion is a exciting addition to your NW:WW1 game. This expansion allows you to play virtually any Russo-Japanese War naval engagment.&#10;&#10;Ownership of the base game is required.&#10;&#10;Features:&#10;&#10;&#10;     180+ additional unit data cards!&#10;&#10;&#10;&#10;     Over 70 new classes of dreadnoughts, pre-dreadnoughts, armored cruisers, light cruisers, destroyers, a seaplane carrier, and torpedo boats!&#10;&#10;&#10;&#10;     New classes of Russian naval warships and all the major Japanese warships for BOTH WW1 and Russo-Japanese War time frames added!&#10;&#10;&#10;&#10;     2 new combat reference charts.&#10;&#10;&#10;&#10;     3 new color maps.&#10;&#10;&#10;&#10;     12 page rule book.&#10;&#10;&#10;&#10;     10 new scenarios covering the most important naval engagements of the Russo-Japanese naval war.&#10;&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game",
+      "Nautical",
+      "Wargame",
+      "World War I"
+    ],
+    "Mechanics": [
+      "Scenario / Mission / Campaign Game",
+      "Simulation"
+    ],
+    "Families": [
+      "History: Russo-Japanese War",
+      "Players: Two-Player Only Games",
+      "Region: Tsushima Strait"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Dreadnoughts At Dawn: Other Powers Expansion",
+    "ID": 302005,
+    "Year": "(2018)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/302005/dreadnoughts-at-dawn-other-powers-expansion",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "60",
+    "Play Time": "180",
+    "Weight": "0",
+    "Description": "Dreadnoughts At Dawn: Other Powers is an expansion to the Dreadnoughts at Dawn rules. It cannot be played without the full rules as it is basically just a ship data record pack upgrade. There are no rules changes included in this expansion.&#10;&#10;It includes new ship classes for the following countries, covering the vast majority of warships available to these powers during the 1st world war. Dreadnoughts, Pre-Dreadnoughts, Battlecruisers (if any), Armored Cruisers, Light Cruisers (all destroyers are the same in these rules) are all covered for:&#10;&#10;France&#10;Russia&#10;Japan&#10;United States of America&#10;Austria&#10;Italy&#10;&#10;",
+    "Categories": [
+      "Book",
+      "Expansion for Base-game",
+      "Nautical",
+      "Wargame",
+      "World War I"
+    ],
+    "Mechanics": [
+      "Dice Rolling"
+    ],
+    "Families": [
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Bulldogs Away!! Fast Attack Craft Rules for the Period from 1950",
+    "ID": 302007,
+    "Year": "(2019)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/302007/bulldogs-away-fast-attack-craft-rules-for-the-peri",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "120",
+    "Play Time": "120",
+    "Weight": "0",
+    "Description": "FAST ATTACK CRAFT RULES FOR THE PERIOD FROM 1950&#10;&#10;A SET OF QUICK REFERENCE SHEETS IS AVAILABLE THROUGH THE PUBLISHER'S WEBSITE&#10;&#10;The rules are for the recreation of small naval engagements with Fast Attack Craft such as missile boats and smaller warships, mainly in coastal waters. The period covered runs from the late 1950&rsquo;s onwards and allows for the use of aircraft and helicopters.&#10;&#10;The new 2nd edition of the rules has been updated to incorporate our standard A&amp;AGE initiative system, where play alternates between both sides, with the winner of initiative deciding who will move the first unit each turn.&#10;&#10;To represent the uncertainty of modern warfare units on both sides may start the battle as unidentified &ldquo;blips&rdquo; or Contact Markers. Forces with inferior technology may be forced to deploy their units on table, rather than being &ldquo;hidden&rdquo;, while superior forces may have more &ldquo;blips&rdquo; than units, making it more difficult for the enemy to detect where the real units are. A Contact Marker may be detected and become a radar contact, though that must be visually identified before it can be attacked. You can only attack (or be attacked) if your unit has been placed on the table as a model.&#10;&#10;Movement is regulated by means of a system of speed settings, which reflect the maximum and minimum speeds at which the vessel may move in the current turn. The settings may be changed at the end of the turn to plan next turn&rsquo;s movement, and they may also be altered due to damage.&#10;&#10;The Combat system allows for guns and missiles of various types, and resolution is split into a Launch Phase, typically when missiles are fired against enemy targets, and a Combat Phase, where hits by all are resolved and damage inflicted. The subtlety here is that each Phase operates separately, with the order of actions alternating between the players. In the Combat Phase, the active ship does all its direct shooting, but at the end of its actions all incoming missile attacks are resolved against it. Damage it now suffers may mean that any missiles it has launched, and which have not yet been resolved, may become ineffective.&#10;&#10;Damage is recorded in a graded system with 5 states from intact to sunk. It is also possible for vessels to suffer Special Damage, which further degrades their ability to function. There are simple rules for operating helicopters from ships, as well as rules for anti-aircraft fire with guns and missiles.&#10;&#10;We have updated the game set up and introduced a simple points value system for players who want a relatively balanced game. There is also now a system of determining victory or defeat, based on the level of damage each force has suffered. This system represents the effect of damage to valuable assets forcing one or even both sides to retire rather than lose ships.&#10;&#10;There are also additional rules for unconventional craft, mine warfare and operations against coastal targets.&#10;&#10;They are rounded off with extensive data tables for missiles, torpedoes, guns, rockets, SAM systems, Air to Air missiles, ships, helicopters and aircraft. (There are 140 sets of ship data from over 40 countries).&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Miniatures",
+      "Modern Warfare",
+      "Nautical",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Measurement Movement",
+      "Paper-and-Pencil",
+      "Simulation"
+    ],
+    "Families": [
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Officer's Handbook: For Tactical Operations in the Second World War Using 15mm Model Tanks and Infantry",
+    "ID": 302008,
+    "Year": "(2017)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/302008/officers-handbook-for-tactical-operations-in-the-s",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "These rules provide players with all they require to fight land wargames set in the Second World War involving the major nations involved. We have included France, Germany, Great Britain and the Commonwealth, Italy, Japan, Poland, the Soviet Union, and the United States of America. This decision was influenced by the availability both of models and of reliable source information to help create the game data. We wished to be able to depict the sometimes subtle differences between different national characteristics, particularly regarding Infantry organization and equipment, and differences in both weapons and vehicles.&#10;&#10;This book contains everything the Player needs to play the game. This means the rules, and the data tables. We decided not to include extensive organization tables or scenarios. There is a wide range of material readily available which Players can use when putting their forces together.&#10;&#10;Players should feel free to prepare their games using historical formations, for which we provide guidelines about Unit structures, or they can be completely free form with Units put together as the players wish. You should not, however, mix both styles. Historically, armies did use some fairly ad hoc formations such as German Kampfgruppen with various arms of service all mixed together in Units. It was also quite common in the Western Desert for both sides to make use of captured equipment, which would give your games an additional exotic flavour.&#10;&#10;The basic Units in the game are Platoons of Infantry or Tanks, and Batteries of Artillery. An Armoured Unit consists typically of 3-5 model vehicles; an Infantry Unit has 2, 3 or 4 Bases of Infantry, each representing a Squad; an Artillery Battery usually has 4 Guns, though there could be fewer or more depending on historical practice. It will normally have an Observer and, if it conducts an attack affecting an area, could be Off-table.&#10;&#10;An Infantry or Cavalry Base represents a squad or troop, based on historic organizations. Some nations have fewer squads making up a platoon, though the individual squads may have larger numbers of men, giving them a better Saving Throw. We do not make use of lower level detail, such as who is actually holding any Special Weapons such as a PIAT or Bazooka.&#10;&#10;There are a number of important features in this set of rules.&#10;&#10;The Game Turn does not follow a strictly IGO-UGO method, though Initiative is determined in a traditional fashion.&#10;&#10;Each Game Turn, the Players get a variable number of Orders which can be assigned to any of their troops. The number available is dependant on the number of Units in action and the effectiveness of their Commanders.&#10;&#10;A Game Turn is split up into a number of Phases, which alternate between Players. In each Phase a Player can Activate one of his Units and carry out one or more Orders, depending entirely on what the Player wants to do. Each Order is regarded as an Action representing 1 to 3 minutes.&#10;&#10;When a Player decides that he has taken all the Actions he wishes to with a Unit, play transfers to his opponent, who Activates one of his Units. This means that as the game develops, each Player must choose which enemy threat to react to, and which can be ignored. When a Player has run out of Orders, he can no longer Activate any Units. His opponent continues to use his Orders, and when he has used his last Order the Game Turn ends.&#10;&#10;This system of alternating Unit Activation means that there are fewer Game Turns, but a large number of Activations and some Units may be able to make sweeping advances across the table (with all the attached risks).&#10;&#10;Each Order expended is deemed to Fatigue a Unit, making subsequent tasks more difficult. In some cases, Fatigue is in fact just that, physically tiring a Unit. In other cases, such as when firing Ranging Rounds for Artillery, which is not going to tire out the troops particularly, Fatigue represents the effect of time being taken to check on fall of shot, etc. Players must make a decision whether to expend a higher proportion of the available Orders on some Units, at the expense of others.&#10;&#10;The Fog of War is also present in the form of Contact Markers. These represent the uncertainty surrounding the location of the enemy. These allow the Commanders to keep the location some of their Units uncertain.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Book",
+      "Miniatures",
+      "Wargame",
+      "World War II"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Hidden Movement",
+      "Order Counters",
+      "Simulation"
+    ],
+    "Families": [
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Bold Made",
+    "ID": 302014,
+    "Year": "(2020)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.44",
+    "Link": "https://boardgamegeek.com/boardgame/302014/bold-made",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "10",
+    "Play Time": "30",
+    "Weight": "1",
+    "Description": "Bold Made is a new and improved twist on the classic card game Old Maid. Bold Made isn&rsquo;t about getting stuck with a card. It&rsquo;s about winning by collecting a team of bold women past and present. Each woman in the deck has made important contributions to her society and to the world at large. The game is fun, of course, but also a powerful way to help kids of both genders find fantastic female role models.&#10;&#10;&mdash;description from the designer&#10;&#10;",
+    "Categories": [
+      "Card Game"
+    ],
+    "Mechanics": [
+      "Hand Management",
+      "Set Collection"
+    ],
+    "Families": [
+      "Crowdfunding: Kickstarter",
+      "Traditional Card Games: Old Maid"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Indie Ploy",
+    "ID": 302015,
+    "Year": "(2020)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/302015/indie-ploy",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "30",
+    "Play Time": "90",
+    "Weight": "0",
+    "Description": "A 2-4 player party game based around taking crowdfunding campaigns, represented by the blue &quot;Pitch&quot; cards, and creating a chain of events resulting in the campaign's failure by taking turns placing &quot;Ploy&quot; cards.&#10;&#10;At the beginning of a round, a Pitch card is drawn to represent that round's campaign. Each player will then take turns playing Ploys that tie in not only with the initial Pitch, but every Ploy currently in play. This cycle will continue as long as players have cards they can contribute.&#10;&#10;Unlike games like Cards Against Humanity and Joking Hazard, the winner of a round is determined by the total amount of cards they played. The winner will then take the Pitch card for their &quot;Hall of Shame&quot;. The first player to get 5 Pitches in their Hall of Shame wins.&#10;&#10;Each card in the game is based around campaigns that were pitched on crowdfunding sites like Kickstarter and Indiegogo.&#10;&#10;&mdash;description from the designer&#10;&#10;",
+    "Categories": [
+      "Humor",
+      "Party Game"
+    ],
+    "Mechanics": [
+      "Card Play Conflict Resolution",
+      "Hand Management"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Who Did This Poo?",
+    "ID": 302016,
+    "Year": "(2019)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.38",
+    "Link": "https://boardgamegeek.com/boardgame/302016/who-did-this-poo",
+    "Min Players": "1",
+    "Max Players": "99",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Who Did This Poo? is a matching and memory game featuring animals (and one human) and the types of droppings they make. There are 54 cards with sets of two: a card with the name and illustration of a creature, and then a card with the name + the word poo and an illustration of the type of poo they make. E.g. Rabbit and Rabbit Poo.&#10;&#10;The game can be played with any number of people. It can be played as a matching game for those who can't read, and as a memory game for those who can read.&#10;&#10;For a matching game, the cards are laid out face up and players take turns to try to match animal cards to the corresponding poo cards. If they find a match, they receive an extra turn. The player with the most cards is the winner.&#10;&#10;For a memory game, the cards are laid out face down and players take turns turning over two cards and trying to find a match. If they find a match, they keep the pair and receive an extra turn. If they don't, they flip the cards back over and play passes to the next player. The player with the most cards is the winner.&#10;&#10;",
+    "Categories": [
+      "Children's Game",
+      "Educational",
+      "Memory"
+    ],
+    "Mechanics": [
+      "Memory"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Hidden Territories: Every Hero Needs a Quest",
+    "ID": 302019,
+    "Year": "(2020)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/302019/hidden-territories-every-hero-needs-a-quest",
+    "Min Players": "1",
+    "Max Players": "4",
+    "Min Play Time": "60",
+    "Play Time": "120",
+    "Weight": "0",
+    "Description": "Hidden Territories is a game of heroic adventure, where mighty &mdash; or cunning&mdash; heroes explore  the kingdom of Westri, the nexus of the multiverse and filled with perilous monsters, nefarious enemies, and fantastical locations. Players choose one of a multitude of adventurers; their characters traverse the land encountering members of the various factions who vie for power or terrible beasts hungry for flesh &mdash; or souls. The kingdom of Westri and its inhabitants are fighting unseen forces, struggling against the grip of chaotic, entropic forces which threaten to rip apart the very fabric of the multiverse.&#10;&#10;Play solitaire or cooperative in this game of exploration, adventure, and heroism. Consult the huge volume of the gazetteer to utilize the pre-programmed paragraph system. It&rsquo;s easy to learn to play, as the programmed event sequence lets you focus on the fun of exploration as your character sets out on a quest. For each event or encounter, you, as one of the included hero player chapters, must make the decisions which will make your quest successful &mdash; or may cost you dearly. Hidden Territories has elements of a complex game designed to recapture the high adventure and heroic struggles of fantasy literature &mdash; and that famous fantasy role-playing game from the 1970s.&#10;&#10;Hidden Territories can be largely played solo, cooperatively, or even with a but of conflict between the players. But victory can only be claimed by uncovering the true nemesis of the kingdom, and defeating a final adversary. It is a race to level up and acquire powerful weapons, armor, artifacts &mdash; even and allies. Game play sessions extend and continue, with linked quests. Time passes, and events are influenced by player choice. Heroes must use strength at arms, guile, or negotiation to defeat a hidden and ancient evil before a magical darkness envelopes all that is good.&#10;&#10;Hidden Territories combines many different elements:&#10;&#10;     Exploration: player characters travel across the hexagonal game board to reach exciting destinations.&#10;     Random encounters: players draw encounter cards each time they enter a new hex.&#10;     Parlay, fight, or flee? many events result in opponents to negotiate with or to fight.&#10;     Random events: players draw event cards each time they enter a new tile&#10;     Leveling up: players improve their characters&rsquo; skills and knowledge of magic and gain equipment.&#10;     Paragraph Reading: an extensive plot is uncovered by reading paragraphs out of a book, discovering secrets only denizens of the kingdom know, or piecing together parts of the conspiracy puzzle. Clues help with solving mysteries and help determine how to win.&#10;&#10;&#10;Hidden Territories features a series of Event and Encounter card decks that set pace of the game and ensures players acquiring experience to level up before they are ready to take on more difficult challenges (events and enemies). Characters acquire new spells and skills as they level up from experience. Finding loot increases wealth, so more equipment, arms and armor, and other items can be acquired. Of course, travel is perilous in this wilderness hexcrawl, so provisions, foraging, and weather all impact the heroes&rsquo; progress &mdash; getting lost in the trackless wastelands can be as dangerous as stumbling about in the darkness of some ruined dungeon.&#10;&#10;Inside the box, Hidden Territories contains:&#10;&#10;     The large map game board, showing cities, villages, castles, and ruins scattered across 500 hexes means hours of game play exploration.&#10;     A huge Gazetteer that details the points of interest and other information about the hexes.&#10;     Standup figures representing archetypal warriors, knights, wizards, priests, and other fantastical characters.&#10;     Various decks of cards for events, encounters, items, spells, skills, and the denizens characters encounter. An analog artificial intelligence ensures outcomes are never fully predictable, and the storyline changes based on player choices.&#10;     Dice - lots of dice. Power up actions based on the dice pool, or sacrifice health or luck when heroic deeds are called for.&#10;     Numerous counters and chits to mark the location of encounters, hoards of loot, and other unknown obstacles to overcome. Use some of these to track weather, time, fatigue, and the ultimate countdown to doom.&#10;&#10;&#10;As scenarios play out and quests are completed, players learn lore, hear rumors, acquire knowledge, train to develop martial or magical powers. Talk, trade, or fight through bizarre encounters to unravel the dark secrets behind the impending chaos.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Adventure",
+      "Exploration",
+      "Fantasy"
+    ],
+    "Mechanics": [
+      "Action Points",
+      "Action Queue",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Role Playing",
+      "Simulation",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ],
+    "Families": [
+      "Crowdfunding: Kickstarter",
+      "Mechanism: Campaign Games",
+      "Mechanism: Legacy",
+      "Players: Games with Solitaire Rules"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Youandi",
+    "ID": 302020,
+    "Year": "(2019)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.00",
+    "Link": "https://boardgamegeek.com/boardgame/302020/youandi",
+    "Min Players": "2",
+    "Max Players": "5",
+    "Min Play Time": "15",
+    "Play Time": "15",
+    "Weight": "0",
+    "Description": "In Youandi players are collecting hearts that can then be exchanged for points. When it's your turn, you can play a card if a heart on the card has the same color as any heart on the table. As a reward you get a heart-token. If you have three hearts of the same color, you can play them to get three heart-tokens. When you have collected 3 identical heart-tokens in front of you you can exchange them for 1 point. But you may instead save them until you have 2 sets of 3 hearts or 6 hearts of the same color. They give you 3 points and everyone else must throw all of their heart-tokens. If you ever have more than 10 heart-tokens, you have to throw them all away without getting any points. Whoever first collects 9 points wins!&#10;&#10;",
+    "Categories": [
+      "Card Game"
+    ],
+    "Mechanics": [
+      "Push Your Luck"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Fantasy Crusaders Chess",
+    "ID": 302023,
+    "Year": "(2017)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/302023/fantasy-crusaders-chess",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Take chess to a whole new level when even the Queen must make a 2d6 roll to see if she can capture that pawn! &#10;Or advance the game even further with piece replacements such as elf archers, dwarven hammerers or zombie pawns all with special abilities and powers that can bring ranged attacks to the chess board and even powers to raise captured pieces as zombies in the undead horde.&#10;&#10;This isn't your regular chess game and the battle is just beginning!&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game",
+      "Abstract Strategy",
+      "Fantasy"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Events"
+    ],
+    "Families": [
+      "Players: Two-Player Only Games",
+      "Traditional Games: Chess"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "F.o.E: Fury of Elyzium \u2013 Fantasy Tabletop Miniatures Game",
+    "ID": 302024,
+    "Year": "(2018)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/302024/foe-fury-of-elyzium-fantasy-tabletop-miniatures-ga",
+    "Min Players": "2",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Cry, Havoc! And let slip your imagination.&#10;&#10;F.o.E: Fury of Elyzium uses a version of the publisher's Fury! rules as seen in Pandora's Fury.&#10;&#10;Designed to let you play anything from a skirmish level game up to a mass battle the rules are designed for use with any scale miniatures you wish. In keeping with the flexible nature of the system, you can use miniatures by any manufacturer in your fantasy wargames using these d10 based rules.&#10;&#10;Whether you want to have a few brave heroes defending a village from brutal bandits, A band of stealthy Cat-man assassins raiding a Ratman camp or a Goblin horde throwing itself against the mighty citadel walls of a magnificent city, FoE is an ideal rule set for you.&#10;&#10;Stage battles in your favourite fantasy lands from literature, TV or your own imagination or use the Elizium setting provided - it's up to you.&#10;&#10;With rules for a wide range of creatures from animals to Wyrm kind, Beast-men to demons, FoE lets you build the army you want to field.&#10;&#10;Customize your own magical items for your armies and characters to wield.&#10;&#10;Clever use of manoeuvres, formations and tactics can swing a game of FoE giving the weaker (on paper) force a fighting chance if its player uses them to best effect.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Fantasy",
+      "Miniatures",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Measurement Movement"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Pandora's Fury!: Post Apocalyptic Table Top Skirmish Rules",
+    "ID": 302025,
+    "Year": "(2016)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/302025/pandoras-fury-post-apocalyptic-table-top-skirmish",
+    "Min Players": "2",
+    "Max Players": "8",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Pandora's fury is a tabletop miniatures game designed to let you play out skirmishes and battles in a Post Apocalyptic landscape.&#10;&#10;Set in the same world as &quot;Pandora's Wake&quot; RPG, the game lets you fight skirmishes and battles with any miniatures and in any scale.&#10;&#10;After the 'Pandora Event' an alien world known to us as 'The Other-Verse' has ripped holes in the skin of our reality, holes through which deadly diseases, carnivorous plants and killer monsters have swept across Earth and destroyed mankind's civilizations.&#10;&#10;In 'Pandora's Fury' you can play gangs of survivors battling for resources or simply fighting to survive or you can play swarms of creatures from 'The Other Verse' as they sweep across the landscape, destroying all they encounter.&#10;&#10;Includes rules to convert your 'Pandora's Wake' RPG characters to the Pandora's Fury miniatures rules.&#10;&#10;The world is ending.&#10;Not in a single, catastrophic moment, but slowly and painfully, screaming out its dying agonies in prolonged death-throes that may last a generation. It is dying,  murdered by another world, a malevolent world, a world that devours all it touches and makes it like itself, a world the survivors of our world have dubbed &ldquo;The OtherVerse&rdquo;.&#10;&#10;In Pandora's Fury the players will create groups of survivors who are struggling to stay alive in a post apocalyptic world that is being over run by the incursion of the Other-Verse and its hostile flora and fauna, which are slowly and inexorably turning our world into a copy of their own.  Survivors must battle these hostile elements of an alien world, gather supplies and deal with other bands of survivors, some hostile, and some not, to try and survive in a world gone mad.&#10;&#10;",
+    "Categories": [
+      "Book",
+      "Miniatures",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Role Playing"
+    ],
+    "Families": [
+      "Theme: Post-Apocalyptic"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Blackwood Chainsaw Massacre: Scenario for Pandora's Fury!",
+    "ID": 302026,
+    "Year": "(2016)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/302026/blackwood-chainsaw-massacre-scenario-for-pandoras",
+    "Min Players": "2",
+    "Max Players": "8",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "In the early years of the fall of human civilisation, several back woodsmen have survived due in no small part to their isolation from larger pockets of habitation. The Alien diseases which ravaged the cities after &ldquo;The Pandora Event&rdquo; ripped a whole in the fabric of our reality, letting the Other-Verse in, have yet to trouble the small community.&#10;&#10;The residents of Blackwood would like to keep it that way.&#10;&#10;The small community has already begun to fortify itself with barbed wire and by constructing other fortifications, including a watch tower. Now they have also begun to clear the woods closest to their micro community in order to create a field of fire and to remove cover form any one or any thing that may try and approach the small community and may seek to do it harm.&#10;&#10;While out felling trees, however, some of the locals discover that there are already creatures from the Other-Verse lurking in their woods, and they are hungry!&#10;&#10;&ldquo;The Blackwood Chainsaw Massacre&rdquo; is a skirmish scenario designed for the &ldquo;Pandora's Fury!&rdquo; rules but which can be easily modified for any other skirmish rules you like. Statistics for the combatants are included, using the Pandora's Fury! rules system. Use any scale or miniatures you like.&#10;&#10;The Scenario pits lumber jacks and townsfolk against the horrors of the Other-Verse in a desperate fight for survival.&#10;&#10;This scenario was featured in the games room at Moria Con 2015.&#10;&#10;",
+    "Categories": [
+      "Book",
+      "Expansion for Base-game",
+      "Miniatures",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Role Playing"
+    ],
+    "Families": [
+      "Theme: Post-Apocalyptic"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Linnoituksen Kingi",
+    "ID": 302027,
+    "Year": "(2020)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/302027/linnoituksen-kingi",
+    "Min Players": "2",
+    "Max Players": "8",
+    "Min Play Time": "30",
+    "Play Time": "60",
+    "Weight": "0",
+    "Description": "Linnoituksen Kingi is a roll and move game that pits players in a race aound the city of Hamina. Players see local places and meet local people all the while trying to be the first ones to cross the finish line.&#10;&#10;The game is made by the city of Hamina.&#10;&#10;&mdash;user summary&#10;&#10;&quot;L&auml;hde seikkailulle Haminan ympyr&ouml;ihin ja voita linnoituksen herruus!&#10;&#10;Kuka peruuttaa sinua p&auml;in haminalaisella luontopolulla? Miten Haminassa googletetaan? Mik&auml; mahtaa olla suosituin v&auml;lipala kauppatorilla? Mit&auml; tarkoittaa, kun jonnee menn&auml;&auml; tuurilla?&#10;&#10;N&auml;ihin ja moneen muuhun kysymykseen l&ouml;yd&auml;t vastauksen t&auml;st&auml; pelist&auml;! L&auml;hde seikkailulle ympyr&auml;kaupunki Haminan linnoitus-keskustaan ja sen ulkopuolelle, kohtaa j&auml;nnitt&auml;vi&auml; tyyppej&auml; ja voita itsellesi Linnoituksen valtiaan titteli!&quot;&#10;&#10;&mdash;description from the back of the box&#10;&#10;",
+    "Categories": [
+      "Educational",
+      "Humor",
+      "Travel"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Operation N.A. 1",
+    "ID": 302030,
+    "Year": "(2019)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "8.00",
+    "Link": "https://boardgamegeek.com/boardgame/302030/operation-na-1",
+    "Min Players": "1",
+    "Max Players": "1",
+    "Min Play Time": "10",
+    "Play Time": "10",
+    "Weight": "0",
+    "Description": "It is the night of December 11th 1942 in the Algiers harbour; the Italian submarine AMBRA has just deployed three SLC (Siluri a Lenta Corsa), manned by ten Gamma subs.&#10;&#10;Their aim is to sink as much Allied vessels as possible!&#10;&#10;Will you manage after six Action Card to reach the Allied ships and then come back to the Ambra submarine and check which one you will able to sink?&#10;&#10;Will you avoid to raise the Alarm Level?&#10;&#10;18 cards ready to let you taste the flavour of the success in this SOLITAIRE game!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Nautical",
+      "Print & Play",
+      "Wargame",
+      "World War II"
+    ],
+    "Mechanics": [
+      "Open Drafting",
+      "Solo / Solitaire Game"
+    ],
+    "Families": [
+      "Players: Wargames with Solitaire Rules",
+      "Theme: Submarines"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Ingogo 1881",
+    "ID": 302031,
+    "Year": "(2018)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/302031/ingogo-1881",
+    "Min Players": "1",
+    "Max Players": "2",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "0",
+    "Description": "Ingogo 1881 is a Ascari Scenario and it has to be played with Ascari rules.&#10;&#10;During the First Boer War, General Colley, commandant of the British troops in Southern Africa, decided to clear his lines of communications from Mount Prospect camp to Newcastle from the Boer threat. He collected a mixed force of 5 companies of the 3/60 Rifles, some artillery and the Mounted Squadron formed by men from 58 Rifle. Arrived at the plateau of Ingogo, known also as Schuinshoogte, he met the Boers who started to fire with precision, pinning the whole column.&#10;The precise aim of the Boers neutralized the guns first and pinned the British on the plateau; to reduce pressure, Colley ordered the Mounted Squadron to attack, but the Boer fire blocked the attempt. As well, the charge of Captain MacGregor with a company failed as well.&#10;A fierce thunderstorm broke down and the situation for the British worsened as they suffered fatigue and exhaustion; as evening fell, Colley realized that his men would be able to stand there and ordered a retreat; the Boers did not guard the British convicted that they were in no position to move from the heights and thus the British managed to escape.&#10;&#10;Will you manage to pass the plateau or will you defeat the Empire with your burghers?&#10;&#10;40 gorgeous counters, a colorful A4 map and English rules wait for you!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game",
+      "Post-Napoleonic",
+      "Print & Play",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Scenario / Mission / Campaign Game"
+    ],
+    "Families": [
+      "History: Boer Wars"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Kassala & Tucruf",
+    "ID": 302033,
+    "Year": "(2019)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/302033/kassala-and-tucruf",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "120",
+    "Play Time": "120",
+    "Weight": "0",
+    "Description": "Kassala &amp; Tucruf is a game with two Scenarios for Adowa, game on the battle in Africa from Acies Edizioni.&#10;&#10;You need to have the game in order to play the Scenarios.&#10;&#10;KASSALA 16th July 1894&#10;The Italian Governor Gen. Baratieri organizes the conquest of Kassala, Dervishes stronghold in Sudan. After a quick advance and a fierce combat, the city is conquered by the Italians.&#10;&#10;TUCRUF 3rd April 1896&#10;The Italian garrison of Kassala, led by Major Stevani, attacks the Dervishes camp at Tucruf but after a fierce combat must return to its base.&#10;&#10;A colorful map, two play aide, two Specific Rules, more than 40 gorgeous units.... you just need to have Adowa!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game",
+      "Post-Napoleonic",
+      "Print & Play",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Scenario / Mission / Campaign Game"
+    ],
+    "Families": [
+      "Country: Sudan",
+      "History: Mahdist War",
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Modderfontein 1901",
+    "ID": 302035,
+    "Year": "(2018)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/302035/modderfontein-1901",
+    "Min Players": "1",
+    "Max Players": "2",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "0",
+    "Description": "Modderfontein 1901 is an Ascari Scenario and it has to be played with Ascari rules.&#10;&#10;During the Second Boer War, the Commandos tactics in guerrilla managed to continue the war, even if the capital cities of the Boer Republic had fallen.&#10;Commandos led by intrepid and young leaders started to harass the British lines of reinforcements and the Empire responded with flying Corps with Mounted Cavalry and the internment of the Boers non combatants into concentration camps.&#10;The Boers decided then to raid directly Cape Colony, where several Boers lived and partake for the Republics; Jan Christian Smuts led the most daring raid.&#10;In the attempt to cross Elands River, the short for ammunition and supplies Boers decide to attack the 17th Lancers camp near Modderfontein, managing to surrender the Lancers and loot the camp... the bitter end is still far away!&#10;&#10;Will you manage to loot the camp and replenish your supplies or will you be defeated by the Empire?&#10;&#10;27 gorgeous counters, a colorful A4 map and English rules wait for you!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game",
+      "Post-Napoleonic",
+      "Print & Play",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Scenario / Mission / Campaign Game"
+    ],
+    "Families": [
+      "Country: South Africa",
+      "History: Boer Wars"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Operation B.G. 4",
+    "ID": 302036,
+    "Year": "(2019)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "4.67",
+    "Link": "https://boardgamegeek.com/boardgame/302036/operation-bg-4",
+    "Min Players": "1",
+    "Max Players": "1",
+    "Min Play Time": "10",
+    "Play Time": "10",
+    "Weight": "1",
+    "Description": "It is the night of September 20th 1941 in the Gibraltar Bay; the Italian submarine Scir&egrave; has just deployed three SLC (Siluri a Lenta Corsa), manned by six Gamma subs.&#10;&#10;Their aim is to force the Gibraltar Harbour and sink British vessels!&#10;&#10;Will you manage after six Action Card to reach the British ships and check which one you will able to sink? Would be an Ark Royal Class carrier or an interned Italian merchant ship?&#10;&#10;Will you avoid to raise the Alarm Level?&#10;&#10;18 cards ready to let you taste the flavour of the success in this SOLITAIRE game!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Nautical",
+      "Print & Play",
+      "Wargame",
+      "World War II"
+    ],
+    "Mechanics": [
+      "Open Drafting",
+      "Solo / Solitaire Game"
+    ],
+    "Families": [
+      "Players: Wargames with Solitaire Rules",
+      "Region: Gibraltar (United Kingdom)",
+      "Theme: Submarines"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "The man who would be king",
+    "ID": 302038,
+    "Year": "(2018)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/302038/the-man-who-would-be-king",
+    "Min Players": "1",
+    "Max Players": "2",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "0",
+    "Description": "The man who would be king is the new Ascari Scenario based on the novel of Rudyard Kipling.&#10;&#10;It is a two players or also a solitaire game!&#10;&#10;This battle is portrayed in the John Huston movie of 1975; Dravot, Carnehan and Billy Fish lead the Bashkai tribe against the Er Heb tribe for their very first battle in Kafiristan.&#10;The British style fusiliers will win the day, with the assistance of the Dravot miracle; despite being hit by an arrow, he is saved by its bandoliers and the Er Heb recognize him as heir of Iskander, Alexander the Great!&#10;&#10;It is necessary to have the Ascari set of rules to play the game; &#10;a nice map, 20 colorful units and two pages of rules are waiting for you!&#10;&#10;Would YOU become a king?&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game",
+      "Post-Napoleonic",
+      "Print & Play",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game"
+    ],
+    "Families": [
+      "History: Mahdist War"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Survey and Explore: A Starport Scum Expansion",
+    "ID": 302040,
+    "Year": "(2016)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.00",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/302040/survey-and-explore-a-starport-scum-expansion",
+    "Min Players": "1",
+    "Max Players": "8",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "One more rock floating in space. &#10;&#10;Welcome to Survey and Explore, an expansion pack for the Starport Scum game rules.&#10;&#10;With this expansion, you will be able to land on any uncharted world and explore, using random scenery, sights and encounter tables to find interesting things to loot, explore or get eaten by.&#10;This emulates the &quot;hex-crawl&quot; gameplay style used by some fantasy roleplaying games, where you explore a world map one hex, grid or region at a time seeing what you find.&#10;This can be used as a travel mechanic for an existing campaign, as a diversion or even as a solo-campaign.&#10;&#10;Random animal stat generation is included as well as well as a few notes to explain core rules terms to those using this with another rules system.&#10;&#10;Survey and Explore is easy to use with other science fiction role playing games and campaign games, though any rules references are for Starport Scum.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game",
+      "Adventure",
+      "Book",
+      "Miniatures",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Scenario / Mission / Campaign Game"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Monopoly: City of Utica",
+    "ID": 302044,
+    "Year": "(2018)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "10.00",
+    "Link": "https://boardgamegeek.com/boardgame/302044/monopoly-city-of-utica",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "City of Utica themed monopoly game.&#10;&#10;",
+    "Categories": [
+      "Economic"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Zombie Pile-Up",
+    "ID": 302046,
+    "Year": "(2020)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "4.92",
+    "Link": "https://boardgamegeek.com/boardgame/302046/zombie-pile-up",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "2",
+    "Play Time": "30",
+    "Weight": "1",
+    "Description": "A fast-paced 1 vs 1 Card Game where the first player to match the ammo type to the zombie type wins the point.&#10;&#10;This game is best played with 3 people, 2 players and a dealer.&#10;&#10;Playthroughs are very fast and 100% skill-based, the winner will be the fasted player who can stay focused for the duration, this is actually very challenging and super fun, especially with more cards.&#10;&#10;For each playthrough, you will need  2 players and a dealer. The dealer plays an enemy card and Player 1 &amp; Player 2 must match the symbol on the enemy card with their player card, the first card placed wins the point.&#10;&#10;Each player's decks are colour coded and numbered for easy scoring at the end of the game. Player 1 has red backs, player 2 has blue backs.&#10;&#10;The dealer plays 1 card at a time from the zombies decks and players must match the symbol on the zombie card with a card from their deck, and do so before the other player.&#10;&#10;When all cards are played, the dealer sorts through the pile to score, all the zombie cards Player 1 got to first are handed to player 1, and all the cards player 2 got to first are handed to player 2, players will have a card taken from them for any wrongfully laid cards,  and the scores are calculated.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Zombies"
+    ],
+    "Mechanics": [
+      "Race"
+    ],
+    "Families": [
+      "Crowdfunding: Kickstarter",
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Jutland: Naval Wargame Rules for the Dreadnought Era 1906-1918",
+    "ID": 302047,
+    "Year": "(2014)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/302047/jutland-naval-wargame-rules-for-the-dreadnought-er",
+    "Min Players": "2",
+    "Max Players": "8",
+    "Min Play Time": "120",
+    "Play Time": "120",
+    "Weight": "0",
+    "Description": "NAVAL WARGAMES RULES FOR THE DREADNOUGHT ERA, 1906-1918&#10;&#10;These rules are quick and simple to play, providing a fast game of naval action in the era of the Dreadnought between 1906 and 1918. In the scale we use, 10cm represents 1 nautical mile to 10cm. The rules incorporate weather, spotting, submarines, aircraft, shore batteries and minefields. They take account of Crew Quality and allow for the use of Contact Markers to represent the initial uncertainty of exactly where the enemy forces might be.&#10;&#10;The gunnery system is simple and you roll 1d10 to hit with each gun. When you score a hit, an innovative damage system takes account of the gun calibre and range to determine which type of dice is used to test for penetration and the amount of damage inflicted. Torpedo and Mine attacks use a similar mechanism, so there is a consistent feel throughout the combat system. Not all guns can engage all vessels, and the largest guns have a minimum range. Simple aircraft rules allow for air attacks against ships and for air to air combat.&#10;&#10;In line with the intention of the rules to provide a simple system, armour is standardised for each type of vessel, and guns are grouped by calibre into 10 classes. Detailed differentiation between the performance of specific guns and ships is not present.&#10;&#10;A collection of ship data is provided covering significant vessels from 10 nations in this period, with over 300 vessels. A simple conversion system allows you to create game data for ships not in the lists provided.&#10;&#10;The rules also include the Order of Battle and pre-prepared data sheets for all the ships that took part in the Battle of Jutland.&#10;&#10;Recommended scale: 1/1200 TO 1/6000&#10;Complexity: 5/10&#10;Level of detail: 4/10&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Book",
+      "Miniatures",
+      "Nautical",
+      "Wargame",
+      "World War I"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Measurement Movement",
+      "Simulation"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Angels 15: Aircraft Data Supplement for Scramble!",
+    "ID": 302048,
+    "Year": "(2008)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.00",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/302048/angels-15-aircraft-data-supplement-for-scramble",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "90",
+    "Play Time": "90",
+    "Weight": "0",
+    "Description": "This data encyclopaedia for Scramble provides over 500 additional aircraft for your Scramble dogfights.&#10;&#10;Information is provided about 5 theatres of operation for World War Two, as well as for minor wars of the 1920&rsquo;s and 1930&rsquo;s. &#10;This enables you to pit appropriate aircraft against each other for the area and date.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game",
+      "Aviation / Flight",
+      "Miniatures",
+      "Wargame",
+      "World War II"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Measurement Movement",
+      "Paper-and-Pencil"
+    ],
+    "Families": [
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Polskie Pa\u0144stwo Podziemne",
+    "ID": 302052,
+    "Year": "(2019)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.00",
+    "Link": "https://boardgamegeek.com/boardgame/302052/polskie-panstwo-podziemne",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "15",
+    "Play Time": "20",
+    "Weight": "0",
+    "Description": "Polskie Pa&#197;&#132;stwo Podziemne is a historical, educational boardgame about the Polish Underground State during WW2.&#10;&#10;Each player will have his own set of tiles, representing different members of the Polish Underground State. The objective of the game will be to associate those characters to the different pillars of the underground structures.&#10;&#10;There are four variants in the game including one, which consists in creating a set of connections between the characters represented in the game.&#10;&#10;The booklet inside the game box includes also a detailed, historical description of all the characters.&#10;&#10;It was designed by employees of the Institute of National Remembrance.&#10;&#10;&mdash;description (translated)&#10;&#10;Polskie Pa&#197;&#132;stwo Podziemne to edukacyjna gra historyczna, przybli&#197;&#188;aj&#196;&#133;ca specyfik&#196;&#153; i kadry polskich struktur podziemnych w trakcie II wojny &#197;&#155;wiatowej.&#10;&#10;Ka&#197;&#188;dy z graczy dysponowa&#196;&#135; b&#196;&#153;dzie zestawem p&#197;&#130;ytek, przedstawiaj&#196;&#133;cych postacie Polskiego Pa&#197;&#132;stwa Podziemnego i jego zadaniem b&#196;&#153;dzie przyporz&#196;&#133;dkowanie tych p&#197;&#130;ytek do odpowiednich obszar&oacute;w dzia&#197;&#130;alno&#197;&#155;ci.&#10;&#10;W grze dost&#196;&#153;pne s&#196;&#133; cztery warianty rozgrywki, w tym jeden, pozwalaj&#196;&#133;cy na tworzenie sieci powi&#196;&#133;za&#197;&#132; pomi&#196;&#153;dzy postaciami.&#10;&#10;W instrukcji znajduje si&#196;&#153; tak&#197;&#188;e obszerny materia&#197;&#130;, przybli&#197;&#188;aj&#196;&#133;cy ka&#197;&#188;d&#196;&#133; z wyst&#196;&#153;puj&#196;&#133;cych w grze postaci.&#10;&#10;Gra zosta&#197;&#130;a zaprojektowana przez pracownik&oacute;w Instytutu Pami&#196;&#153;ci Narodowej.&#10;&#10;",
+    "Categories": [
+      "Educational",
+      "Memory",
+      "Spies / Secret Agents",
+      "World War II"
+    ],
+    "Mechanics": [
+      "Memory",
+      "Set Collection",
+      "Tile Placement"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Elemental Spark",
+    "ID": 302055,
+    "Year": "(2020)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "4.06",
+    "Link": "https://boardgamegeek.com/boardgame/302055/elemental-spark",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "20",
+    "Play Time": "60",
+    "Weight": "0",
+    "Description": "A fantasy brawl battle royale where you fight for the magic of Galecia. Play as 12 distinct characters attuned to one of the four classical elements of Air, Fire, Water, and Earth. Before the fight, use the tileset to create your battlefield. By playing to your strengths, you can out-maneuver and defeat the other players in order to be the last mage standing.&#10;&#10;&mdash;description from the designer&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy",
+      "Fantasy",
+      "Fighting",
+      "Print & Play",
+      "Territory Building"
+    ],
+    "Mechanics": [
+      "Grid Movement",
+      "Line of Sight",
+      "Map Addition",
+      "Map Reduction",
+      "Modular Board",
+      "Pieces as Map",
+      "Player Elimination",
+      "Square Grid",
+      "Team-Based Game",
+      "Tile Placement",
+      "Variable Player Powers"
+    ],
+    "Families": [
+      "Crowdfunding: Kickstarter"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Epic Monster Tea Party: Expansion",
+    "ID": 302056,
+    "Year": "(2020)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.67",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/302056/epic-monster-tea-party-expansion",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "20",
+    "Play Time": "30",
+    "Weight": "0",
+    "Description": "This expansion to the original family-fun, tabletop game of Epic Monster Tea Party takes the 2-4 player adventure and turns it into a game for 2-6 players. (The original game is needed.)&#10;&#10;You play as a thirsty monster plucking heroes from the labyrinth to flavor your tea. Squish the heroes to use their special abilities or drop them into your teacup for a chance to earn victory points after the end up in your stomach.&#10;&#10;The addition of Miss Hiss the Gorgon and Merv Griffin the, well... Griffin, allows 2 extra players to join the game. Don't worry, there will be plenty of heroes to heartily flavor everyone's tea because 22 more of them have wandered into the labyrinth!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game"
+    ],
+    "Mechanics": [],
+    "Families": [
+      "Crowdfunding: Kickstarter"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Stations Manned and Ready (2nd Edition): Rules Support Package",
+    "ID": 302058,
+    "Year": "(2014)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/302058/stations-manned-and-ready-2nd-edition-rules-suppor",
+    "Min Players": "1",
+    "Max Players": "10",
+    "Min Play Time": "120",
+    "Play Time": "120",
+    "Weight": "0",
+    "Description": "STATIONS MANNED AND READY II IS A SET OF NAVAL WARGAMES RULES FOR THE PERIOD 1885 TO 1945 USING SHIPS AND AIRCRAFT&#10;&#10;This file is a set of PDF files in a Zipped Folder, and is for use as support material when playing SMR II, which is required to make use of these files.&#10;&#10;The Documents is the Zip folder are:&#10;&#10;     Game Template Booklet&#10;     Ship Data Description Booklet (two files)&#10;     Maritime Aircraft Data Booklet&#10;     Ship Data catalogue&#10;     Ship Data &quot;Glossary&quot; Booklet (two files)&#10;     Merchant Vessel Booklet&#10;&#10;&#10;In addition, the following &quot;Taster Battles&quot; are included. These allow you to start playing the game and include the ship data sheets for the battle in question. The datasheets included in these files all incorporate the updated ship data and are laid out in the new format.&#10;&#10;&#10;     Pre-Dreadnought:&#10;         Battle of Santiago&#10;         Battle of Port Arthur&#10;    &#10;&#10;&#10;&#10;     WW1&#10;         Battle of Coronel&#10;         Battle of the Falkland Islands&#10;    &#10;&#10;&#10;&#10;     WW2&#10;         Battle of the River Plate&#10;         Battle of Denmark Strait&#10;         Battle of Cape Bon&#10;         Battle of Tassafaronga&#10;         Battle of Kolombangara&#10;    &#10;&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game",
+      "Book",
+      "Miniatures",
+      "Nautical",
+      "Post-Napoleonic",
+      "Wargame",
+      "World War I",
+      "World War II"
+    ],
+    "Mechanics": [
+      "Scenario / Mission / Campaign Game",
+      "Simulation"
+    ],
+    "Families": [
+      "History: Russo-Japanese War",
+      "History: Spanish-American War"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Bushido",
+    "ID": 302059,
+    "Year": "(2019)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "7.55",
+    "Link": "https://boardgamegeek.com/boardgame/302059/bushido",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "20",
+    "Play Time": "30",
+    "Weight": "1",
+    "Description": "Samurai were the most prominent individuals in Japanese society during Feudal Japan. Proud and respected, their lives were a journey of devotion to the arts of war and dueling, with the warrior's path, Bushido, as their code of conduct. In Bushido, go back in time during the era of shoguns and daimios and assume the role of a samurai warrior who will fight to defend the honor of his clan through the sword, in a game of deduction, tactics and concentration, where a wrong move can cost life. Combine your cards and confuse your opponent so that he is not able to predict your next move, either in attack or defense. Your reputation and your honor as a samurai warrior are in your hands!&#10;&#10;&mdash;description from the designer&#10;&#10;",
+    "Categories": [
+      "Card Game"
+    ],
+    "Mechanics": [
+      "Hand Management",
+      "Simultaneous Action Selection",
+      "Variable Player Powers"
+    ],
+    "Families": [
+      "Players: Two-Player Only Games",
+      "Theme: Samurai"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Death in the Dungeon",
+    "ID": 302060,
+    "Year": "(2020)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "7.75",
+    "Link": "https://boardgamegeek.com/boardgame/302060/death-in-the-dungeon",
+    "Min Players": "2",
+    "Max Players": "10",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "&quot;ENTER AT YOUR OWN RISK.&quot;&#10;&#10;Your party creeps slowly into the depths of the dungeon, gold on your minds. Suddenly, you hear voices in the distance. It sounds like a group, gathered and talking. As you move closer, you spot them, another party of dungeon-delvers, standing in a circle by a fire, laughing and showing one another their finds. You want that gold. You deserve that loot. You cry out, sword raised and your party charging behind you. Tonight, the treasure will be yours! Just before you clash, however, several skeletons begin to crawl from out of the ground, shuffling to their feet and now standing between you and the opposition. The battle, now begins...&#10;&#10;Death in the Dungeon is a set of tabletop miniatures rules for skirmishes between dungeon-delving parties. It is presented in a classical zine-style format and will be released in a series of issues, this being the inaugural release. Death in the Dungeon focuses on party progression with attention to scenarios, story and treasure. Use gold to build a team of adventurers, choose their race, class, outfit them with armor, weapons and items, then send them into the dungeons beneath the world of Kith.&#10;&#10;When a game of Death in the Dungeon ends, it truly doesn't. Your party information is saved and tracked and between skirmishes, you can progress the members of your party, buy new weapons, items and more. The game and progression continues until you and your opponent or group decide to end and begin a new campaign.&#10;&#10;Death in the Dungeon was written and created by CPOP owner and founder, Neuicon and pays homage to the old school. Included in the initial release, are: a background and introduction to the world of Kith, the core rules, rules on party and adventurer creation, rules for spellcasting, scenarios, rules for looting, rules on handling progression, advanced weapons and items tables and more.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Adventure",
+      "Book",
+      "Fantasy",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Role Playing",
+      "Scenario / Mission / Campaign Game"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "1944: Combat Shock",
+    "ID": 302061,
+    "Year": "(2016)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/302061/1944-combat-shock",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "With the introduction of CPOP's Retrowave Collection, 1944: Combat Shock has been remastered, restored and resurrected. Return to the fields of battle. Return to the hell of World War II.&#10;&#10;You can now enjoy the game originally published in 2013, with minor changes, including updates and grammatical alterations. 1944: Combat Shock returns in an updated revision.&#10;&#10;In Combat Shock, players construct either platoons or full companies and engage in brutally quick and easy to play skirmishes across the battlefields of World War II. Miniatures in 15mm scale are mounted on bases to represent teams and scenarios determine the kind of battles fought. Players can play small-scale skirmishes on tabletops of 2 by 2 feet, to epic-scale conflicts on 4 by 4 foot tabletops.&#10;&#10;This digital rulebook is in PDF format and includes basic and advanced rules, as well as several playable scenarios, rules for platoon and company construction, force lists for Nazi Germany, the Soviet Union, the United States of America and Great Britain. Also included are rules for battle conditions and more.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Miniatures",
+      "Print & Play",
+      "Wargame",
+      "World War II"
+    ],
+    "Mechanics": [
+      "Dice Rolling"
+    ],
+    "Families": [
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Zombie Game",
+    "ID": 302062,
+    "Year": "(2020)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/302062/zombie-game",
+    "Min Players": "1",
+    "Max Players": "10",
+    "Min Play Time": "90",
+    "Play Time": "180",
+    "Weight": "0",
+    "Description": "Zombie Game is a action board game utilizing 3d Miniatures. Players can choose, draft, or be given random Characters to take on Missions. It is a Tactical level action game. The Zombies themselves are moved by the Zombie Turn Token holder. Each turn this is usually a different player and also the player that goes first that turn. The game uses normal 6 sided dice and with an easy to play rule set. Characters must sneak, fight, and Search for items to survive. It can be played solo, as a co-op party system, or a vs party system.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Dice",
+      "Fighting",
+      "Horror",
+      "Zombies"
+    ],
+    "Mechanics": [
+      "Action Points",
+      "Dice Rolling",
+      "Turn Order: Random"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Toxic Holocaust",
+    "ID": 302063,
+    "Year": "(2019)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/302063/toxic-holocaust",
+    "Min Players": "2",
+    "Max Players": "8",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "GRAXX is home to a wasteland unlike any you have encountered before, from the mutants roaming the highways to the survivors trying with all their might to cling on to any sense of hope, it is here where damnation reigns supreme.&#10;&#10;Toxic Holocaust is a tabletop miniatures game of brutally quick and easy skirmish battles between rival gangs on a post-apocalyptic world, where survival is nothing but a dream, as the reality of living, dying and thrashing is the only truth and one that will kick you in the teeth very, very quickly. Are you ready?&#10;&#10;Revisit the original 2009 first edition of Toxic Holocaust, fully restored and remastered. The rules allow you to create gangs and the members of your gangs entirely from scratch, including weapons, traits, abilities, mutations and much more. Add the ability to field vehicles and customize them, and you're in for one hell of an apocalypse.&#10;&#10;Join us, as the original Toxic Holocaust miniatures game returns, from CPOP.&#10;&#10;We welcome you to the Goremageddon. May you live, die and thrash.&#10;&#10;Goremageddon is heavily inspired by over-the-top violence, exploitation, gore, horror, humor and post apocalyptic films on the 1980s, as well as RetroWave and Thrash Metal music. Goremageddon is also CPOP's flagship project, made popular by a cult following.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Book",
+      "Miniatures",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling"
+    ],
+    "Families": [
+      "Theme: Post-Apocalyptic"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "An Overdose of Death!",
+    "ID": 302064,
+    "Year": "(2019)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/302064/an-overdose-of-death",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "In 2012, CPOP founder Neuicon unleashed his vision of a post-apocalyptic world called GRAXX, set in an alternate reality to ours, where the fantasy world of GROMM once flourished. The game would later become CPOP's flagship title and see a rise in popularity due to its many, many insane influences: thrash metal, synthwave, over-the-top violence, gore, horror, exploitation, action, fantasy and the post-apocalypse, all of which would be mashed up into a bad 80's Italian film and spew forth, the Toxic Holocaust, also known as the Goremageddon. Add to it, the ability to create gangs and every member of your gang from scratch, including their traits, weapons, equipment, abilities, spells, mutations, vehicles, the ability to see action on the very first turn and much, much more, and you have in your hands a game of maximum overdrive.&#10;&#10;An Overdose of Death! allows you to create a gang and every member in that gang from scratch (purchasing the unit's base rank, traits, abilities, equipment, weapons, mental or physical mutations, spells and more), play in three different modes (standard, boss and grudge), fight on battlefields in 2 by 2 to 4 by 4 feet in size, play a variety of scenarios and through several different battlefield conditions, field vehicles and totally customize your vehicles from scratch and much, much more.&#10;&#10;We welcome you to revisit the original second edition, originally released in 2012, along with everything ever released for the game, such as: Toxic Holocaust 2: An Overdose of Death! (introducing six factions: the Wasteland Warriors, Unholy Crux, Skravers, Reptors, Thermonuclear Warriors and Omega Corporation), Waste in Space: the Fatal Feast! (introducing two new factions: the Doom Legion and Prophets of Mars), Saalythic: Rise of Deraathis (introducing the Saalythic faction) and Black Inferno: the Raiders of Atlantis (introducing the Raiders of Atlantis faction).&#10;&#10;Included with your purchase is a 1920 by 1080 HD wallpaper of An Overdose of Death!, so that you may adorn your screen with the madness of the Goremageddon.&#10;&#10;We welcome you to the Goremageddon. May you live, die and thrash.&#10;&#10;Goremageddon is heavily inspired by over-the-top violence, exploitation, gore, horror, humor and post apocalyptic films on the 1980s, as well as RetroWave and Thrash Metal music. Goremageddon is also CPOP's flagship project, made popular by a cult following and already headed into a third edition, due to release soon.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Book",
+      "Horror",
+      "Mature / Adult",
+      "Miniatures",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling"
+    ],
+    "Families": [
+      "Players: Two-Player Only Games",
+      "Theme: Post-Apocalyptic"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Monopoly: Cats vs Dogs",
+    "ID": 302069,
+    "Year": "(2017)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.57",
+    "Link": "https://boardgamegeek.com/boardgame/302069/monopoly-cats-vs-dogs",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "30",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Two teams of players try to capture pet show titles in this variation on Monopoly. When landing on previously claimed spaces, players can opt to pay tribute to the holder or add their own token as they vie for control.&#10;&#10;",
+    "Categories": [
+      "Animals",
+      "City Building"
+    ],
+    "Mechanics": [
+      "Ownership",
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Animals: Cats",
+      "Animals: Dogs"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Too Many Turtles",
+    "ID": 302070,
+    "Year": "(2020)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "9.00",
+    "Link": "https://boardgamegeek.com/boardgame/302070/too-many-turtles",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "20",
+    "Play Time": "35",
+    "Weight": "2",
+    "Description": "The guys at Trei Amici Games (TAG) and their amazing partners at the non-profit organization SEE Turtles proudly presents Too Many Turtles; a game to help save turtles and have fun doing it!&#10;&#10;Players will take turns playing turtles and moving them across the field as quickly as possible, dodging all of the wild effects that their opponent can throw at them.&#10;&#10;Your starting hand will consist of 7 cards and your deck will be placed to the side of the field. Your pond (Discard pile) will be right above your deck. You will draw a card at the start of each turn, unless you are starting a round. The farther you move turtles up the field, the more points you will receive when you get to scoring.&#10;&#10;Your goal is to end the round with the most points on your side of the field, or in other words, your mission is to save your turtles from certain doom!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Animals",
+      "Card Game"
+    ],
+    "Mechanics": [],
+    "Families": [
+      "Animals: Turtles",
+      "Crowdfunding: Kickstarter",
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "The World Undone: 1914 \u2013 East Prussia",
+    "ID": 302071,
+    "Year": "(2021)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "7.53",
+    "Link": "https://boardgamegeek.com/boardgame/302071/the-world-undone-1914-east-prussia",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "90",
+    "Play Time": "150",
+    "Weight": "2.2",
+    "Description": "The World Undone (TWU) is a new operational, division level WW 1 system inspired by the brilliant late John Young&rsquo;s The Marne. What results is an extremely simple, nuanced, and quick playing, immersive simulation of the first big German victories of WW1. Play is broken down into a simple Move-Combat-Move-Combat phase for each side, with units participating in the first combat phase unable to move or fight during the second. The game covers August 13 to September 13th covering both the battles of Tannenberg and the Masurian Lakes. Separate CRTs are used for German and Russian forces to reflect differences in quality and doctrine. This is an extremely low complexity game that I hope will be able to draw new players into wargaming, and remind old players why they started gaming in the first place. The World Undone will be a 3 part series covering East Prussia, Galicia and the Western Front (maybe Serbia/Austria too).&#10;&#10;Victory is determined through a simple Clausewitz-inspired Victory Point ratio system determined by control of towns, important objectives, and casualties.  Scenarios cover Tannenberg, Masurian Lakes, and a &lsquo;Campaign game covering both operations. Variants allow for additional replacements to change the balance of things. The Russian player can win automatically by taking Konigsberg, while the German player can win automatically by eliminating a percentage of Russian SP.  Players can combine the Galicia, East Prussia and Serbia Games together to simulate the entire Eastern Front in 1914.&#10;&#10;SCALE: 1 day turns, 2-3000 men per SP, 7.2 Kilometer hexes (4.5 miles)&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Wargame",
+      "World War I"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Hexagon Grid",
+      "Ratio / Combat Results Table",
+      "Simulation"
+    ],
+    "Families": [
+      "Category: Print-on-Demand",
+      "Country: Germany",
+      "Players: Two-Player Only Games",
+      "Players: Wargames with Rules Supporting Only Two Players",
+      "Series: The World Undone System (Conflict Simulations)"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "BRAINGASM",
+    "ID": 302074,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.00",
+    "Link": "https://boardgamegeek.com/boardgame/302074/braingasm",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "1",
+    "Play Time": "5",
+    "Weight": "0",
+    "Description": "Think of BRAINGASM  as a game of finding a &ldquo;Needle in a Haystack,&rdquo; only instead of a needle, you might be finding two unicorns f!@#ing or a pile of cocaine.&#10;&#10;&mdash;descripiption from the publisher&#10;&#10;(or also, R18+ version of Spot It!)&#10;&#10;",
+    "Categories": [
+      "Party Game"
+    ],
+    "Mechanics": [],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Pizzatown",
+    "ID": 302084,
+    "Year": "(2020)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/302084/pizzatown",
+    "Min Players": "1",
+    "Max Players": "4",
+    "Min Play Time": "30",
+    "Play Time": "60",
+    "Weight": "0",
+    "Description": "Pizzatown is a town that loves their pizza! As an owner of a pizza restaurant, you will create and deliver pizzas&hellip; but be careful, Pizzatown is also home to Pizza-hungry Monsters who want to eat your pizzas! Deliver the pizzas, avoid the monsters, upgrade your ride and earn the most money to win the game!&#10;&#10;In Pizzatown, the game has four phases: Take a pizza order; Buy ingredients to make the pizza; Deliver the pizza; and Earn profit from a successful delivery. However, as the delivery person heads towards their destination, the pizza monsters who live in the sewers might smell the pizza passing by and come out to chase the pizza! If they catch your delivery person, they will eat your pizza and your profits!&#10;&#10;Players can use profits to buy more ingredients from a market that changes every turn. Or buy vehicles and upgrades to make faster deliveries. Improve your restaurant buy purchasing an additional oven. Spend your money wisely however, because the player with the most money at the end of the game, wins!&#10;&#10;&mdash;description from the designer&#10;&#10;",
+    "Categories": [
+      "Children's Game",
+      "Dice",
+      "Economic"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Market",
+      "Pick-up and Deliver"
+    ],
+    "Families": [
+      "Food & Drink: Pizza"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Paper Pinball: Season 2",
+    "ID": 302085,
+    "Year": "(2020)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.38",
+    "Link": "https://boardgamegeek.com/boardgame/302085/paper-pinball-season-2",
+    "Min Players": "1",
+    "Max Players": "1",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Paper Pinball is a dice game that tries to capture the feeling of playing pinball. All you will need is a pencil, three dice, and about five minutes.&#10;&#10;Each round, roll two dice and fill in one of the scoring zones. Some zones need to be filled in a certain way, and most will cause some sort of effect, so the order you fill them in is important. If you ever can't fill a zone, you'll lose a ball. Lose three balls and the game is over. Try to fill as many scoring zones as possible while triggering multipliers, opening tunnels, and getting the coveted multiball.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Dice",
+      "Print & Play",
+      "Video Game Theme"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Pattern Building",
+      "Push Your Luck"
+    ],
+    "Families": [
+      "Mechanism: Roll-and-Write",
+      "Players: Games with Solitaire Rules",
+      "Series: Paper Pinball (Metal Snail Idea Workshop)"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Castle Dice: The King",
+    "ID": 302086,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/302086/castle-dice-the-king",
+    "Min Players": "1",
+    "Max Players": "2",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Originally made by Jay and Jordan as a birthday present for Luke Peterschmidt.  Only 100 copies ever exist.&#10;&#10;Card states:&#10;Play at any time.&#10;Set this entire game aside and play a different game of your choice.  You may return to this game at any time&#10;&#10;",
+    "Categories": [
+      "City Building",
+      "Dice",
+      "Expansion for Base-game",
+      "Medieval"
+    ],
+    "Mechanics": [],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Remoundo \u03c4\u03c5\u03c6\u03bb\u03cc\u03bc\u03c5\u03b3\u03b1 (Blind man's bluff)",
+    "ID": 302087,
+    "Year": "(2019)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/302087/remoundo-tiflomigha-blind-mans-bluff",
+    "Min Players": "3",
+    "Max Players": "6",
+    "Min Play Time": "15",
+    "Play Time": "35",
+    "Weight": "1",
+    "Description": "The original version of the game was played in Ancient Greece. One individual is blind-folded in order to catch or touch one of the others who run around.&#10;&#10;Remoundo games, the publisher of this game, brought this traditional game on the table with the title &quot;&tau;&upsilon;&phi;&lambda;&#207;&#140;&mu;&upsilon;&gamma;&alpha;&quot; which  means &quot;blind fly&quot;.&#10;&#10;There are two different ways to play, depending on the double-sided board.&#10;Side A (blue) : One player, designated as &quot;It&quot;, is blindfolded and the other players choose a pawn. Everybody's places their pawns on the board and they try to avoid the &quot;it&quot; from catching their pawn. If  &quot;it&quot; catches a pawn , he/she places it randomly on the board. The board indicates some sounds (animal sounds, human sounds etc) and the person who had this pawn must immitate this sound. &quot;It&quot; has to recognise him/her . If so, the person who recognised gets a penalty card and becomes the new &quot;it&quot;.&#10;&#10;Side B (green) : The &quot;it&quot; chases the other people by rolling dice. There are also 27 character cards (with 3 dinstict elements each)and everyone takes a secret caracter card trying not to reveal their character as they run to escape from &quot;it&quot;. If the &quot;it&quot; catch a player, he/she can ask them 2 more questions and if he/she find their secret character they take a penalty card and they become the new &quot;it&quot;.&#10;&#10;When a player reaches the 6 penalty cards, everybody checks their own penalty and the person with the fewest cards is the winner of the game.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Party Game"
+    ],
+    "Mechanics": [
+      "Hidden Movement",
+      "Roll / Spin and Move"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Cytress",
+    "ID": 302099,
+    "Year": "(2024)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.73",
+    "Link": "https://boardgamegeek.com/boardgame/302099/cytress",
+    "Min Players": "1",
+    "Max Players": "5",
+    "Min Play Time": "40",
+    "Play Time": "100",
+    "Weight": "2.6667",
+    "Description": "Welcome to Cytress. You play as a rebel merc who has zeroed in on one goal. To get into Stratos &ndash; Earth&rsquo;s largest sky hub. It is in this sky colony where you will find Earth&rsquo;s most powerful, wealthiest, and most influential individuals.&#10;&#10;These people enjoy having the largest portion of the pie, not to mention toying with the lives of everyone else on Earth &ndash; the Underbelly, as the inhabitants of Stratos love to call it. But you are not the type who tolerates these kinds of apathetic, arrogant attitudes. You must challenge these oligarchs and get into Stratos; you consider this action to be a show of defiance, proof that the leviathan city is not exclusive to the powerful few. &#10;But first, you must establish a name in the Underbelly, a strategy that will help in getting you and your crew into Stratos. Unfortunately, this is a journey that's not free from danger. Stratos has tight security, and authorities have their eyes on the gates 24/7. Anyone caught entering illegally is subject to instant termination without trial.&#10;&#10;Fortunately, you have found a way in. The Tubes &ndash; vertical shafts that serve as the city's waste chutes. The Tubes will be your one-way ticket to wonderland, your only chance of acquiring a large portion of the pie. Of course, you will need the help of your crew to get in. So hone your skills, upgrade your abilities, and procure as many supplies as possible to achieve your objective.&#10;&#10;You must employ cunning strategies and pick the juiciest missions among the lot. Regardless of which faction you choose, remember to use their key abilities to your advantage. That&rsquo;s how you can outwit the competition and eventually win the game. So do you have what it takes to become a part of Stratos' elite citizenry? Or do you want to live a continued oppressed existence in the Underbelly?&#10;&#10;&mdash;description from the designer&#10;&#10;",
+    "Categories": [
+      "Economic",
+      "Science Fiction"
+    ],
+    "Mechanics": [
+      "Action Points",
+      "Area Majority / Influence",
+      "Hexagon Grid",
+      "Income",
+      "Modular Board",
+      "Multiple Maps",
+      "Pieces as Map",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Trading",
+      "Variable Phase Order",
+      "Variable Player Powers",
+      "Variable Set-up",
+      "Worker Placement",
+      "Zone of Control"
+    ],
+    "Families": [
+      "Admin: Upcoming Releases",
+      "Crowdfunding: Kickstarter",
+      "Digital Implementations: TableTop Simulator Mod (TTS)",
+      "Mechanism: Tableau Building",
+      "Misc: LongPack Games",
+      "Theme: Cyberpunk"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "InFARMation",
+    "ID": 302100,
+    "Year": "(2020)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/302100/infarmation",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "30",
+    "Play Time": "60",
+    "Weight": "0",
+    "Description": "Your dad is a pretty amazing guy.  He came out west during the gold rush and was one of the few that actually got rich!  Now, he's nearing the end of his life and want's to choose the successor to the plantation he built.&#10;&#10;Dad isn't what anybody would call &quot;normal&quot; in any respect.  So, when he decided to choose his successor using a contest of his own design, nobody was shocked.&#10;&#10;The rules are simple and the prize is becoming the head of the family.  As the head of the family it will fall to you to ensure the plantation stays running and everyone stays fed.&#10;&#10;Dad wants you each to mimic what he did to become the man he is.  So, you'll start with nothing but the clothes on your back and you'll have to gather resources to use/trade/sell in order to &quot;build&quot; each of the main plantation assets.  Obviously these already exist, so you'll be paying dad a number of resources that he has estimated to be the value of each asset.  Once you've &quot;built&quot; an asset, you can work it or assign your workers to work it and gain the resources and points for that asset.&#10;&#10;---&#10;1. Hunt, Gather &amp; Fish for Food&#10;1. Clean animals for Leather&#10;1. Mine Stone for building&#10;1. Mine Gold ore for trading&#10;1. Use the Sawmill to make timber for building&#10;1. Use the pigsty for food AND leather&#10;1. Use the smelter to turn your ore into pure gold&#10;1. Hire workers and assign them to work your assets&#10;1. Bribe away workers from your siblings to gain an edge&#10;&#10;---&#10;&#10;                Dad says, if you want to win**&#10;            &#10;        &#10;    &#10;&#10;&#10;&#10;     You will have to work hard&#10;     You will be smart&#10;     You will be sneaky and shrewd &#10;     You will use all of the inFARMation at hand to build your strategy and create the best plantation in the time allotted.&#10;&#10;&#10;&mdash;&mdash;description from the designer&#10;&#10;",
+    "Categories": [
+      "American West",
+      "Farming"
+    ],
+    "Mechanics": [
+      "Bribery",
+      "Dice Rolling",
+      "Income",
+      "Push Your Luck",
+      "Worker Placement"
+    ],
+    "Families": [
+      "Crowdfunding: Kickstarter"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Dungeon Crawlers: Legends of Runya Season 1",
+    "ID": 302105,
+    "Year": "(2021)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "7.00",
+    "Link": "https://boardgamegeek.com/boardgame/302105/dungeon-crawlers-legends-of-runya-season-1",
+    "Min Players": "1",
+    "Max Players": "8",
+    "Min Play Time": "30",
+    "Play Time": "120",
+    "Weight": "2",
+    "Description": "A brief history of Runya&#10;The Kingdom of Runya is one of the 7 great Kingdoms in this&#10;world.  What makes Runya special is the vast number of games&#10;you can find that are capable of earning your living.  Each week there are large tournaments that pay cash prizes.  Once per month in each of the 8 regions of Runya, the winners of weekly events are invited to a Regional Tournament.&#10;&#10;Regional winners are automatically entered in the annual event held in the capitol city of Liberia.  The National tournament is the largest event in the Kingdom and is played over the course of 7 days.  Players bring their avatars and compete in a series of randomly chosen game types.  Brackets include solo play as well as teams and occasionally players will be forced into co-op situations with competitors.&#10;&#10;This year, the main event of the Nationals is a new dungeon&#10;crawling game, aptly named &ldquo;Dungeon Crawlers&rdquo;.  Who will&#10;come out on top?  Let&rsquo;s find out!&#10;&#10;In this game you'll play as one of 8 Heroes from the 1st Season of the &quot;Legends of Runya&quot; series.&#10;&#10;Game Setup aka (Building the Dungeon)&#10;&#10;1. Ensure all meeples are in the drawing bag and shake them up.&#10;&#10;2. Separate and stack all the decks Floor tiles, find the 4way starting tile, then shuffle the rest and put it on top of the deck.&#10;&#10;Shop cards, shuffle all 20 shop cards and deal them into 4 stacks of 5.&#10;&#10;Potion cards, put 3 potions on top of each stack of 5 shop cards&#10;&#10;Boss/Treasure cards, With the treasure pile or boss faces UP, shuffle them blindly (Yes, this means that you will KNOW which boss is coming up. Place them strategically)&#10;&#10;3. Each player choose an avatar from the 8 Heroes.&#10;&#10;4.  The person who chose an avatar first will place the first tile in the center of your play space.  (This will be the 4way tile with blue lights in the corners).  Place 1 gem in that room and roll the Monster die to see how many monsters are in that room.  (Then draw them at random from the meeple bag.  Continue taking turns clockwise placing tiles and spawning monsters using the Monster die.  This continues until you no longer can place a tile or you have placed all of them.&#10;&#10;THE ENTIRE DUNGEON WILL BE BUILT BEFORE THE GAME BEGINS&#10;&#10;Rules for placing tiles and spawning monsters&#10;1.  You MUST place the 4way tile FIRST&#10;2.  Starter tiles must leave space for the shop cards behind them.                            &#10;3.  As long as at least ONE corridor connects, you can place a tile.&#10;           (Yes, even if 2 other corridors end at a wall)&#10;4.  When you place a starter tile, you do NOT roll the Monster die.&#10;                  (Starter tiles are free of monsters)&#10;5.  When you place a &ldquo;Boss&rdquo; tile, you do NOT roll the Monster die, instead, you take the top card from the Boss/Treasure deck and place it on that tile face-up (Monster details up, Treasure chamber picture up)&#10;6.  Whenever you roll a 5 or 6 on the Monster die, that room gets a gem due to it&rsquo;s difficulty to clear.  Whoever kills the last monster in that room gets the gem.&#10;7.  Once all tiles are placed and Monsters have been spawned, place a shop outside of each starter tile&#10;8.  Place avatars on the starter tiles with the picture of your chosen Hero.  If the starter tile for your Hero didn&rsquo;t get placed, place your avatar in the 4way tile. &#10; ONLY THOSE STANDING IN A STARTER TILE CAN SEE INVENTORY IN THE ATTACHED SHOP  &#10;It is a secret what items you have available in your shop when you start.&#10;&#10;Now you are ready to play!&#10;&#10;&mdash;description from the designer&#10;&#10;",
+    "Categories": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "Mechanics": [
+      "Area Movement",
+      "Critical Hits and Failures",
+      "Dice Rolling",
+      "Semi-Cooperative Game",
+      "Variable Set-up"
+    ],
+    "Families": [
+      "Crowdfunding: Kickstarter",
+      "Digital Implementations: TableTop Simulator Mod (TTS)"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "The Game of Life: Cardgame",
+    "ID": 302125,
+    "Year": "(2016)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "4.00",
+    "Link": "https://boardgamegeek.com/boardgame/302125/the-game-of-life-cardgame",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "10",
+    "Play Time": "10",
+    "Weight": "0",
+    "Description": "Shuffle Game of Life Card Game&#10;The aim of the game is to get 100 life points, the first player to play all of their cards onto the table wins. To play cards on the table players must build sets and runs of cards, rummy style.&#10;&mdash;user summary&#10;&#10;The Shuffle Game of Life is an exciting card game version of the popular board game, perfect for travelling and a quicker game! The game play lasts for approximately 20 minutes and is suitable for ages 7+ with 2-4 players&#10;The aim of the game is to be the first person to get 100 life points by getting rid of all the cards in your hand by playing them onto the table. To play cards onto the table you must be able to make sets and runs or add to other players sets and runs. How to play &ndash; Each card is worth a certain number of points which accumulate as you play them onto the table. At the start of your turn take a card from the draw pile or discard pile (your choice), if you can make a set or runs then play them onto the table in front of you.&#10;A set is three or four cards showing the same career or house but in different colours. A run is three or more consecutively numbered cards of the same colour. If you can add cards to another players set or run on the table during your turn. &#10;You need to play all the cards from you hand as quickly as possible to score life points, that&rsquo;s why it is worth adding to other players sets and runs. The game also includes wild spinner cards these can be any number to complete a set. At the end of your turn you must always discard a card onto the discard pile.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Children's Game"
+    ],
+    "Mechanics": [],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Cartoon Car Crash Course Part 1: The Rules",
+    "ID": 302132,
+    "Year": "(2019)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/302132/cartoon-car-crash-course-part-1-the-rules",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Cartoon Car Crash Course (C4) is an excuse for adults to play with some of the amazing toy cartoon vehicles available at toy &amp; department stores, garage sales, flea markets, &amp; inside &ldquo;children&rsquo;s&rdquo; fast food meals (thank goodness for drive throughs!). We provide rules for six kinds of cartoon vehicles: Conventional, Wacky, Spooky, Futuristic, Superhero, &amp; Supervillain. You choose a vehicle type &amp; a theme that fits your vehicle. Next you pay points to purchase Add-Ons (cartoon weapons, special abilities, hazards, tricks, &amp; so on) that fit your theme. A wide variety of possibilities are included so you can create (or recreate) almost any cartoon vehicle; the points system keeps them balanced.&#10;&#10;From 2 to 6 players race their toy cartoon cars using a simple simultaneous movement system; attacks are also simultaneous. Collisions &amp; attacks are resolved quickly. If a car loses all of its damage points, it Blows Up, loses some Cheers (which you collect to be able to win the race), moves back 2d6&rdquo;, then keeps on going. All of this means lots of action &amp; very little down time for players.&#10;&#10;C4 plays quickly &amp; is suitable for both younger players &amp; older players with short attention spans (like most gaming groups, in our experience). It plays faster than most other car combat games &amp; can get pretty hilarious at times.&#10;&#10;With 6 vehicle types, 6 cartoon themes, 15 customizable weapon types &amp; more than 40 customizable add-ons to choose from, you&rsquo;ll be able to create or recreate just about any &lsquo;toon vehicle imaginable &ndash; as long as you have a toy vehicle that can represent it. The points system keeps them balanced, so a Wacky baby bird in a jalopy or a beagle sitting on a doghouse with imaginary machine guns can cause just as much mayhem as a Superhero in a specially designed ubermobile.&#10;&#10;",
+    "Categories": [
+      "Book",
+      "Miniatures",
+      "Racing",
+      "Sports"
+    ],
+    "Mechanics": [
+      "Dice Rolling"
+    ],
+    "Families": [
+      "Components: Miniature agnostic",
+      "Series: Auto Games (University Games)"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Butine!",
+    "ID": 302135,
+    "Year": "(2020)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.64",
+    "Link": "https://boardgamegeek.com/boardgame/302135/butine",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "1",
+    "Description": "In the meadow of Butine! (which is French for &quot;forage&quot;), many flowers bloom. Their diversity will allow you to produce a delicious honey by collecting combinations of three flowers, with these combinations being revealed only to you on your cards &mdash; but the task can be exhausting for a bee! Identify the possible routes that will permit the bee to make these combinations by moving only on the flowers that are in its immediate vicinity, but all players play with the same bee counter, so it's up to you to anticipate their choices!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Animals",
+      "Environmental"
+    ],
+    "Mechanics": [
+      "Point to Point Movement",
+      "Tile Placement"
+    ],
+    "Families": [
+      "Misc: LongPack Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Castle Dukes: Within The Walls",
+    "ID": 302138,
+    "Year": "(2020)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "10.00",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/302138/castle-dukes-within-the-walls",
+    "Min Players": "1",
+    "Max Players": "4",
+    "Min Play Time": "60",
+    "Play Time": "90",
+    "Weight": "0",
+    "Description": "The official expansion to Castle Dukes, this game focuses on minimizing luck and vastly pushing up the ability to control just about any resource. It also introduces villagers and their little homes, which will litter the fields within the sturdy walls of the castle. These folks are the key to giving you that extra edge over your rivals! Planting of greenery will also give you additional stuff, which allow better control over the dreaded Construction cards.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game",
+      "Action / Dexterity",
+      "City Building",
+      "Medieval"
+    ],
+    "Mechanics": [
+      "Action Points"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "ASAT: Fighter Expansion",
+    "ID": 302142,
+    "Year": "(2014)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "8.00",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/302142/asat-fighter-expansion",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "0",
+    "Description": "This expansion to ASAT: Orbital Combat adds 15 fighters and 6 satellites.  Paper cut-out miniatures of all spacecraft are also included:  Standard black background and a duplicate set with a toner-friendly white background.&#10;&#10;Eleven new spacecraft&#10;&#10;&#10;     Copperhead:  Tiny defensive fighter with short-range armament&#10;     Spitfire:  Light fighter with twin wing-mounted lasers&#10;     Ocelot:  Rugged fighter with a single heavy laser&#10;     Avenging Angel: Torpedo bomber with strong defensive capability&#10;     Rabid Bat:  Heavy fighter with array of railguns, lasers, and a particle beam cannon&#10;     Itano: Heavy fighter with major missile armament&#10;     Su-53: Converted atmospheric fighter with laser and missiles &#10;     F-22V: Converted atmospheric fighter with long-range missiles&#10;     Swallow (three versions):  light, fast cargo spacecraft. &#10;     FSY Pegasus:  Dedicated rescue craft&#10;     Cargo Shuttle:  unarmed utility spacecraft&#10;&#10;&#10;Four variants of existing spacecraft&#10;&#10;&#10;     Double Dart: Twin-fuselage fighter with upgraded weaponry&#10;     Torpedo Dart: Simple fighter with a single torpedo as an outrigger&#10;     Hornet II:  Upgraded fighter with quad mini-lasers and twin engines&#10;     Corsair B:  Long-range fighter with six railguns&#10;&#10;&#10;New Satellites&#10;&#10;&#10;     TN-120 Killsat: Killer satellite armed with a 120mm tank cannon&#10;     PAS-TOR Killsat:  Killer satellite that carries a single torpedo&#10;     Las Killsat:  Tiny satellite with a laser weapon&#10;     UTF-17 Refueling Station:  Large utility satellite that can refuel other spacecraft&#10;     Rescue Satellite:  Orbital lifeboat for crippled fighters&#10;     RS-49 Recsat: Unarmed reconnaissance sateliite&#10;&#10;&#10;This expansion also includes expanded rules for:&#10;&#10;&#10;     Torpedoes:  Drone spacecraft with nuclear warheads&#10;     Atmospheric flight:  Spacecraft with wings can &ldquo;stop&rdquo; in the atmosphere&#10;     Air Intakes:  Spacecraft equipped with these can re-enter orbit from the atmosphere, or stay in the atmosphere with no fuel cost&#10;     Cargo Bays:  fuel, ammunition, and repair parts can be carried into orbit to service other spacecraft&#10;     Repair Crews:  Spacecraft can be repaired, refueled, and re-armed in orbit&#10;     Rescue Crews and Medical Centers:  Rescue an injured crewman and restore him to health.&#10;&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game",
+      "Miniatures",
+      "Print & Play",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Simultaneous Action Selection"
+    ],
+    "Families": [
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Battleline: 2250 \u2013 Space Combat in the 23rd Century",
+    "ID": 302143,
+    "Year": "(2019)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "9.00",
+    "Link": "https://boardgamegeek.com/boardgame/302143/battleline-2250-space-combat-in-the-23rd-century",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "The monotonous calm order of the flag bridge was broken with a crisp exclamation, &ldquo;Energy signatures detected! Classified as Federation Dayton-class heavy cruisers. Contact count is sixteen vessels. Contact bearing 165 Red, Mark Zed 55!&#10;&#10;Alarms sounded throughout the ships of 3rd Frontier fleet as the men and woman of the Rhinelander Confederation Sterne-Marine moved purposefully to their battle stations.  An oppressive foreboding permeated the atmosphere of the ships that the air handlers could not clear. The next few hours might well be their last&hellip;&#10;&#10;Battleline 2250 is a table top card game designed for two players.&#10;&#10;Each player fills the role of a space fleet commander for a faction engaged in conflict.&#10;&#10;Over the course of a game the players will form battle fleets, decide how to engage in combat and then resolve the action of the ensuing battle.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Aviation / Flight",
+      "Card Game",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Card Play Conflict Resolution",
+      "Hand Management"
+    ],
+    "Families": [
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Anaconda: Capital Navies \u2013 Naval Warfare in Virginia 1861-1865",
+    "ID": 302144,
+    "Year": "(2017)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "9.00",
+    "Link": "https://boardgamegeek.com/boardgame/302144/anaconda-capital-navies-naval-warfare-in-virginia",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Ramming Speed!&#10;&#10;During the American Civil War the Union and Confederate navies clashed for control of the rivers of Virginia, fighting for control of the waterways leading to the capital cities of both sides. Now you can take part in this struggle with Anaconda: Capital Navies.&#10;&#10;Anaconda: Capital Navies is a campaign framework designed to generate tabletop miniature games simulating riverine naval battles of the American Civil War. The purpose is to link together a series of tabletop battles in a framework that provides players with reasons for fighting battles beyond the mere presence of the enemy.  Victory goes to the side best able to meet their objectives and not merely who wins the tactical battles.&#10;&#10;Anaconda: Capital Navies includes a strategic map of rivers and bays of Virginia and the surrounding area. Anaconda: Capital Navies is designed for use with any set of tabletop ACW naval war game rules. The game requires but does not include; dice, miniatures and tactical rules for resolving combat on the tabletop.&#10;&#10;Anaconda: Capital Navies is NOT compatible with Anaconda. Capital Navies does NOT require a copy of Anaconda to conduct the campaign. Capital Navies is a stand alone product.&#10;&#10;",
+    "Categories": [
+      "American Civil War",
+      "Book",
+      "Miniatures",
+      "Nautical",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Scenario / Mission / Campaign Game"
+    ],
+    "Families": [
+      "States: Virginia"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Anaconda: Expanded Points List",
+    "ID": 302145,
+    "Year": "(2016)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "10.00",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/302145/anaconda-expanded-points-list",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "In the decade plus since Anaconda was released, the proliferation of knowledge regarding naval aspects of the Civil War advanced at a rapid rate. Old assumptions have been challenged and &lsquo;lost&rsquo; data has been deduced through diligent research and conservative conjecture. Some ships that were so shadowy in detail to border as myths have been documented and detailed and made worthy of hitting the game table. When coupled with the explosion in the availability of gaming models in both 1/600 and 1/1200, it is clear that Anaconda required an expanded points list.&#10;Yes, the game includes the basic calculations that allow gamers to generate the point values, but hey &ndash; here at Blue Water Designs, we got your back!&#10;&#10;This is an expansion of the point lists within Anaconda. You must have a copy of Anaconda to make use of this product.&#10;&#10;",
+    "Categories": [
+      "American Civil War",
+      "Expansion for Base-game",
+      "Miniatures",
+      "Nautical",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Scenario / Mission / Campaign Game"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Star Patrol Micro",
+    "ID": 302152,
+    "Year": "(2017)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "3.00",
+    "Link": "https://boardgamegeek.com/boardgame/302152/star-patrol-micro",
+    "Min Players": "1",
+    "Max Players": "1",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Take on the role of starship captain and patrol the border worlds to keep people safe from the pirate threat. Manage your shields and missiles to defeat the enemy ships and use the reward money to keep your ship performing to it's highest potential.&#10;&#10;When you're comfortable try your hand at a campaign boosting your ships status and facing off against larger threats and unique missions. Can you stop the pirates once and for all?&#10;&#10;All on one double-sided page. Use 1 six-sided dice and track your status using either a piece of scrap paper or number of paper clips on the status tracks allowing for a big game in a small space.&#10;&#10;",
+    "Categories": [
+      "Adventure",
+      "Book",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Paper-and-Pencil",
+      "Scenario / Mission / Campaign Game"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Line Up",
+    "ID": 302153,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/302153/line-up",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "The aim of the game is to get an orthogonal line of 5 pieces of your color in a row. The grid size is 8 x 8.&#10;It is an old game (from a series that also includes Cross Over and Target) that has been out of stock for decades.&#10;&#10;&mdash;user summary&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy"
+    ],
+    "Mechanics": [
+      "Pattern Building",
+      "Pattern Recognition"
+    ],
+    "Families": [
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Target",
+    "ID": 302154,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "3.00",
+    "Link": "https://boardgamegeek.com/boardgame/302154/target",
+    "Min Players": "0",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "The aim of the game is to get as many rows of at least 3 pieces of your color as possible, either along the outlines of the circles or along the radia.&#10;It is an old game (from a series that also includes Cross Over and Line Up) that has been out of stock for decades.&#10;&#10;&mdash;user summary&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy"
+    ],
+    "Mechanics": [
+      "Pattern Building",
+      "Pattern Recognition"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "For King or Country",
+    "ID": 302161,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/302161/for-king-or-country",
+    "Min Players": "0",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "For King or Country is a cooperative based game in which players work together as Members of Parliament to enact a velvet revolution in their country, peacefully overthrowing the monarchy and establishing a fully fledged democracy. Like in any government, corruption and self interest make getting things done nearly impossible. It&rsquo;s up to the player to navigate the political landscape keeping the people, the military, the monarch, and others happy while they pursue their goals. By passing and amending legislation, players can change the very makeup of the game, making it easier or more difficult to meet their ultimate end goal.&#10;   &#10;     The main venue of participation players can make it through using MP Cards. MP Cards come in three varieties: Actions, Amendments, and Events. Actions can be played at any time to win over MPs from across the aisle, help more of your party members get elected, and even filibuster a bill you don&rsquo;t want to pass. Amendments on the other hand are attached to a bill in question, only going into effect if it is passed by Parliament. Amendments could change the effects of a bill, alter the rules of the game, and even dish out some pork barrel spending to your constituents. The final type of MP Cards are Event, disastrous circumstances that affect whichever player has drawn the card. These Events can be from a crisis in your district, to an embarrassing scandal that ruins your reputation.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Political"
+    ],
+    "Mechanics": [
+      "Cooperative Game"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Storyteller's Card Game",
+    "ID": 302172,
+    "Year": "(2020)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "4.00",
+    "Link": "https://boardgamegeek.com/boardgame/302172/storytellers-card-game",
+    "Min Players": "3",
+    "Max Players": "99",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Playing Storyteller&rsquo;s Card Game is simple: players take turns to be the Master Storyteller. The Master Storyteller takes a Words For&hellip; card and reads it aloud. The other players each pick the word card in their hand that they think best fits the scenario. The Master Storyteller decides which word card is the best - whether it's the funniest, scariest, or simply the most disgusting. Whoever put down the winning card gets to keep the story card. The first person to collect five story cards wins!&#10;&#10;300 word cards, hilariously illustrated by our team of Hollywood artists&#10;200 story prompts to fire kids&rsquo; imagination&#10;&#10;",
+    "Categories": [
+      "Educational"
+    ],
+    "Mechanics": [
+      "Move Through Deck",
+      "Storytelling",
+      "Voting"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "The Good Life",
+    "ID": 302173,
+    "Year": "(2019)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.45",
+    "Link": "https://boardgamegeek.com/boardgame/302173/the-good-life",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "60",
+    "Play Time": "90",
+    "Weight": "1",
+    "Description": "If you've ever wanted to go 'self-sufficient', here's your chance to give it a try... Use your wheelbarrow to move around the board to collect fruit, vegetables, pigs and chickens. The winner is the first to fill their garden and allotment with the most produce and animals. Seems simple. It is. But the 'Green Fingers' cards turn up unexpected twists and turns. So you'll have to protect your chickens from foxes, sell your crops and livestock at the village fair, and avoid drought, bird flu, and your animals escaping. Now, are you ready for The Good Life? The Good Life board game is great fun for children, but can also be played and enjoyed by adults. There are lots of interesting, funny, and 'eye-opening' facts that players will learn along the way as they play the game. 'The Sunday Times' received a pre-production copy of the game, and have given a great quote to use: &quot;Don't encourage kids to become greedy bankers with Monopoly - keep them green with this Good Life game.&quot;&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Animals",
+      "Dice",
+      "Environmental",
+      "Farming"
+    ],
+    "Mechanics": [
+      "Income",
+      "Roll / Spin and Move"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "The Basketball Champion",
+    "ID": 302175,
+    "Year": "(2020)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "10.00",
+    "Link": "https://boardgamegeek.com/boardgame/302175/the-basketball-champion",
+    "Min Players": "2",
+    "Max Players": "8",
+    "Min Play Time": "40",
+    "Play Time": "90",
+    "Weight": "0",
+    "Description": "Basketball? A Board Game? A Basketball Board Game? YES, that&rsquo;s what we created!&#10;&#10;We transformed one of the best sports in the world into a fun and challenging board game. In this game, you&rsquo;ll build your own basketball team with amazing characters. Play Special Cards to strengthen your team and weaken your opponents. Draft upcoming players and trade wisely. And then, get ready for the BIG TOURNAMENT and defeat your opponents to win the trophy! And don't worry, we created the game in a way that everyone can play, have fun and fall in love with it - You do not need to be a Basketball fan. But maybe you become one, after playing this game.&#10;&#10;The Basketball Champion is a game where you focus on building your arena with players and arena cards that you can play either to strengthen your team or to weaken others. This will be helpful in defeating your opponents in tournament and win championship trophies. Person to win maximum championship trophies wins the game.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Dice",
+      "Fantasy",
+      "Humor",
+      "Sports"
+    ],
+    "Mechanics": [
+      "Closed Drafting",
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Events",
+      "Hand Management",
+      "Highest-Lowest Scoring",
+      "Interrupts",
+      "Open Drafting",
+      "Push Your Luck",
+      "Score-and-Reset Game",
+      "Set Collection",
+      "Take That",
+      "Trading"
+    ],
+    "Families": [
+      "Card Games: Outplay",
+      "Crowdfunding: Kickstarter",
+      "Sports: Basketball"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Serpenti Quadrant Bounty Hunt",
+    "ID": 302176,
+    "Year": "(2019)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "9.00",
+    "Link": "https://boardgamegeek.com/boardgame/302176/serpenti-quadrant-bounty-hunt",
+    "Min Players": "2",
+    "Max Players": "8",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "This is a science fiction themed boardgame for 2+ players, designed as a casual play game that is suitable from children to adults. Game play is simple and very easy to learn. It is competitive style game, and is effectively a chase/race game using counters and d6 dice (six sided) on a simple board. The level of difficulty can be tailored with slight changes to the rules, as discussed in the rulebook.&#10;&#10;Game comes with rules booklet, board map in various sizes (full size A2 and tiled A3, A4 and sub-A4 sized tiles), printable counters for the player chits, and even a set of papercraft d6 dice if you don&rsquo;t happen to have a spare set handy.&#10;&#10;The game is set in the FSpaceRPG universe following the events of the Serpenti War. For roleplayers it is a great segue (introduction) into understanding some of the events, and gives you a way to play a casual social game as a break from roleplaying in the universe. Understanding the universe or the RPG mechanics of FSpaceRPG is not a requirement to play this board game.&#10;&#10;A great game to introduce kids to an RPG universe.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Print & Play",
+      "Racing",
+      "Science Fiction"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Role Playing",
+      "Simulation"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Grace Flynn: Tides of Forever",
+    "ID": 302179,
+    "Year": "(2018)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/302179/grace-flynn-tides-of-forever",
+    "Min Players": "1",
+    "Max Players": "4",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Grace Flynn - Tides of Forever is a tabletop miniatures game where players try to help Grace and her stalwart crew survive in the hostile underground world of the Shadow Sea. The rules for the game are based on the game system for ShadowSea - Conquest of the Underground World, using dice and tactical choices to complete different battle scenarios.&#10;&#10;The game is designed for solo play, with rules for the environment, wild creatures, enemies and special game effects. Multiple players may take part if they wish, running the enemies or playing one of the four main personality characters from the Grace Flynn stories of Phil Lee McCall. The main character is Grace Flynn herself, the notorious pirate with her sword Tyrfrost and magical Bloodsilk sash.&#10;This book contains a complete rule set showing how models (the miniatures or markers for each character or enemy) move, fight and do actions in the game, such as searching for artifacts or swimming through shark-infested waters. There is also a small section on the flora and fauna of the Underlands, the subterranean region of a hollow Earth where Grace and her crew must escape.&#10;&#10;The core rules in this book are based upon the Song of Blades and Heroes (SOBH) game engine by Ganesha Games and are designed for fast and furious play with plenty of heroic action, ethereal magic and advanced technology, all handled with a few rolls of 6-sided dice. The rules have been designed for battle using 28 mm &ldquo;heroic scale&rdquo; miniatures, with one figure representing one character or creature.&#10;&#10;Game scenarios are played on a tabletop and require an area of 24 by 24 or 36 by 36 inches with scenic materials for terrain such as water, ruins, trees, and other obstacles added. Each scenario in the book has a map layout that shows where players and enemies start and where scenery can be placed.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Book",
+      "Fantasy",
+      "Miniatures",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Action Points",
+      "Dice Rolling",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Spacemaster 2120",
+    "ID": 302180,
+    "Year": "(2020)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/302180/spacemaster-2120",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "15",
+    "Play Time": "30",
+    "Weight": "0",
+    "Description": "Space, 2120. FLT was discovered decades ago, along with a surprising number of inhabited worlds. Now, in regions throughout the galaxy, the search is on for mineral-rich asteroids. In Spacemaster 2120 your small mining craft will explore the 24 sectors of SR-227 and collect six types of minerals. Planets in the sector have different demands for these minerals, so to turn a profit you must plan your movements carefully and act accordingly. You&rsquo;ll also have to convince the inhabitants to trade with you &ndash; or use force to convince them. Fuel is no longer an issue, but you&rsquo;ll have to visit Earth for the turbo variety or convert some Uraninite. Other minerals can be used for various purposes, although it's usually better to deliver them for profit&hellip; and don&rsquo;t forget to watch out for those darn pirates!&#10;&#10;Spacemaster 2120 can be played on instinct, casually or seriously. Players can deduce what minerals (and to a lesser degree, planets) have yet to appear. They can look ahead one or more moves -- &quot;if I do this he will probably do that.&quot; It's up to the players. You can play aggressively or peacefully. The rules set is small, there is exploration, meaningful choices, screwage, a bit of combat and some luck. A typical sequence of turns for a player might be: explore, mine, move, try to trade. Lots of &quot;flow,&quot; fun and replayability to be enjoyed in this light and fascinating space game.&#10;&#10;",
+    "Categories": [
+      "Print & Play",
+      "Space Exploration"
+    ],
+    "Mechanics": [
+      "Chit-Pull System",
+      "Dice Rolling",
+      "Pick-up and Deliver",
+      "Tile Placement"
+    ],
+    "Families": [
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "The Red Dragon Inn: Allies \u2013 Evil Pooky",
+    "ID": 302181,
+    "Year": "(2021)",
+    "Geek Rating": "5.558",
+    "Avg Rating": "8.05",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/302181/the-red-dragon-inn-allies-evil-pooky",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "30",
+    "Play Time": "60",
+    "Weight": "0",
+    "Description": "Ancient teleport spells and alcohol do not mix...&#10;&#10;A late-night &quot;research&quot; session has opened a portal to unknown realms. From that portal leaps Pooky's evil doppelganger, ready to wreak havoc in our heroes' beloved tavern!&#10;&#10;This product includes Evil Pooky, the 50th character for The Red Dragon Inn, plus a new drink deck, with 8 brand-new drinks. Evil Pooky is, of course, a villain, so he may also be played as a Boss in the Boss Battle variant. In addition, this product includes cards needed to play the original Pooky as a Boss in a Boss Battle!&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game",
+      "Card Game",
+      "Fantasy",
+      "Humor",
+      "Party Game"
+    ],
+    "Mechanics": [
+      "Betting and Bluffing",
+      "Hand Management",
+      "Player Elimination",
+      "Variable Player Powers"
+    ],
+    "Families": [
+      "Crowdfunding: Kickstarter",
+      "Game: The Red Dragon Inn"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Isles of Treasure",
+    "ID": 302184,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/302184/isles-of-treasure",
+    "Min Players": "2",
+    "Max Players": "5",
+    "Min Play Time": "30",
+    "Play Time": "90",
+    "Weight": "0",
+    "Description": "In Isles of Treasure players take the role of ship captains exploring the surrounding sea looking for treasure while avoiding marauding pirates and sea monsters. The board is made up of tiles placed face down at random during setup. All players begin at a shared stronghold. Players gather supplies until they feel ready to venture out to sea. Each time your ship moves it costs supplies, so the further out you venture the more expensive it is. You also use supplies to flip tiles face up discovering what is hidden underneath. What you find could be something good like an island to resupply on or search for buried treasure, or it might be pirates who ambush you and take everything in your cargo hold. Don&rsquo;t worry you can get revenge on those scurvy pirates, just resupply, sail out after them, and take back your treasure by force. The only way to ensure your treasure is safe is to get it back to the stronghold. Once there, it scores victory points for you. Until you get it back, other players can attack your ship and take it for themselves. The game is over once all of the tiles have been flipped face up. Whichever player has the most treasure safely secured at the stronghold wins.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Exploration",
+      "Nautical"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Modular Board",
+      "Take That"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Tournament of the Undead Viscount: A Four Against Darkness adventure for characters of all levels",
+    "ID": 302186,
+    "Year": "(2019)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "8.08",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/302186/tournament-of-the-undead-viscount-a-four-against-d",
+    "Min Players": "1",
+    "Max Players": "1",
+    "Min Play Time": "45",
+    "Play Time": "75",
+    "Weight": "0",
+    "Description": "This 63-page adventure for Four Against Darkness features: &#10;Rules for generating opponents and running the tournament; &#10;&#10;     6 Cursed magic items; &#10;     26 Tournament Twists: every battle will be different! &#10;     6 Mental disorders; &#10;     12 Major and minor injuries; &#10;     7 New items, weapons, herbs and potions; &#10;     3 Combat techniques for all levels; &#10;     Rules for recruiting enemies and opponents (including the Final Boss); &#10;     29 Recruitable characters, each with unique abilities.&#10;&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game",
+      "Adventure",
+      "Book",
+      "Exploration",
+      "Fantasy"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Paper-and-Pencil",
+      "Solo / Solitaire Game"
+    ],
+    "Families": [
+      "Category: Dungeon Crawler",
+      "Game: Four Against Darkness"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Digressions of the Devouring Dead: Necromantic dungeons for Four Against Darkness, for characters of any level",
+    "ID": 302187,
+    "Year": "(2019)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "7.47",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/302187/digressions-of-the-devouring-dead-necromantic-dung",
+    "Min Players": "1",
+    "Max Players": "1",
+    "Min Play Time": "45",
+    "Play Time": "75",
+    "Weight": "0",
+    "Description": "The Devouring Dead Await!&#10;&#10;Bash undead hordes, outwit the deadliest traps and count your resources carefully in the harshest, most murderous dungeons ever made for Four Against Darkness: the necromantic dungeons!&#10;&#10;     Generate random necromantic dungeons for characters of any level!&#10;     Rules for complex traps, drawbridges, balconies, levers, deathtraps, neurosis and even ruling an undead city!&#10;     64 dungeon tiles on two overlapping levels, with new map features&#10;     Six new narrative missions, including an undead outbreak!&#10;     Over 45 new tables and more than 50 monsters!&#10;     New classes: the shape-changing Atrocity, the doomed Death Leper, the magic-bleeding Mutant, the Necromancer and three Sentient Golem varieties!&#10;     New deities for your clerics: Akerbeltz, god of witchcraft; Darim, the smith god; Ter Za Necht, the lich dragon god.&#10;     New Expert skills: Built-in Weapons, Campsite Cooking, First Aid, Ghoulish Familiar, Monstrous Mount, Wings and more!&#10;     Twelve necromantic spells, including Expert level spells!&#10;     Necromantic magic items and terrible artifacts&#10;     New secrets and gear: clockwork chainsaws, firearms and more!&#10;     Gruesome stuff tables, traps and the infamous amputation table&#10;     Mini-dungeons and more background on the world of Norindaal&#10;     Turn the dial to 11 with the optional Hardcore and PSYCHO MODE!&#10;     Requires only the core Four Against Darkness book.&#10;&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game",
+      "Adventure",
+      "Book",
+      "Exploration",
+      "Fantasy",
+      "Horror"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Paper-and-Pencil",
+      "Solo / Solitaire Game"
+    ],
+    "Families": [
+      "Category: Dungeon Crawler",
+      "Game: Four Against Darkness"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Merlin: Big Box",
+    "ID": 302189,
+    "Year": "(2020)",
+    "Geek Rating": "5.826",
+    "Avg Rating": "8.11",
+    "Link": "https://boardgamegeek.com/boardgame/302189/merlin-big-box",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "75",
+    "Play Time": "120",
+    "Weight": "3.4",
+    "Description": "The Merlin Big Box contains a new expansion, Morgana, as well as the Arthur and Knights of the Round Table Expansions, as well as the two Queenies. It also features some upgraded components.&#10;&#10;Morgana adds three new expansion modules which may be played in any combination with the base game of Merlin or the other expansions:&#10;&#10;&#10;    Morgana: Players draft a purple dice from a common pool to gain special abilities. &#10;&#10;&#10;&#10;    Market: On turns that you are not able to complete a mission card, players are allowed to take one time bonuses from the market board. &#10;&#10;&#10;&#10;    Caerleon: New locations replace the principalities of the base game. In each location, which are randomly placed, players gain a specific resource or take a specific action, receiving a bonus if they use a specific henchmen. &#10;&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Medieval"
+    ],
+    "Mechanics": [
+      "Area Majority / Influence",
+      "Roll / Spin and Move",
+      "Rondel",
+      "Set Collection",
+      "Worker Placement"
+    ],
+    "Families": [
+      "Components: Game Trayz Inside",
+      "Crowdfunding: Kickstarter",
+      "Versions & Editions: Big Box Versions of Individual Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Broken Arcana",
+    "ID": 302190,
+    "Year": "(2020)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "8.00",
+    "Link": "https://boardgamegeek.com/boardgame/302190/broken-arcana",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "30",
+    "Play Time": "45",
+    "Weight": "0",
+    "Description": "Broken Arcana is primarily a tarot deck cooperative game about communication. Two players will face each other in a non competitive way and try to convey their innermost problems to the othe, in order to get help from them to repair said problems. However, identifying and recognizing your problems is such a hard task, that communicating it to a person within your support network can become even more difficult.&#10;&#10;Broken Arcana is game about communicating what is broken within us, trying to understand and mend what is broken with the other player. This game could be a tool to communicate your problems, understand the other player or any number of other options.&#10;&#10;You can play it as just a game or it can be seen as a more intimate way of interaction.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Deduction",
+      "Print & Play"
+    ],
+    "Mechanics": [
+      "Cooperative Game",
+      "Pattern Recognition",
+      "Semi-Cooperative Game",
+      "Storytelling",
+      "Targeted Clues",
+      "Voting"
+    ],
+    "Families": [
+      "Players: Two-Player Only Games"
+    ]
+  }
+]
