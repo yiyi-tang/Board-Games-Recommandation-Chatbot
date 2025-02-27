@@ -1,0 +1,2521 @@
+[
+  {
+    "Rank": "N/A",
+    "Name": "Landlocked: Hither and Yon",
+    "ID": 65632,
+    "Year": "(2003)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.14",
+    "Link": "https://boardgamegeek.com/boardgame/65632/landlocked-hither-and-yon",
+    "Min Players": "1",
+    "Max Players": "1",
+    "Min Play Time": "7",
+    "Play Time": "7",
+    "Weight": "1",
+    "Description": "Travel as you please, from hither to yon. Just don&rsquo;t become  Landlocked!&#10;&#10;The goal is to construct a correct path through 12 locations. Moving orthogonally, move your pawn from the upper left to the null tile of your outbound suit. You may move  your pawn through a higher-valued outbound tile en route to the current value your pawn is heading towards. However you may not pass through any tile on your inbound suit. Once this is done, you must mark each tile you passed through  After all the tiles you passed through are marked, move on to the ace tile of your outbound suit, marking each tile you passed through as before. Continue on in this manner and in order to tiles Ace-5 of the outbound suit to 5-Null of the inbound suit. When you are working on your inbound suit, you may pass through any and all tiles on your outbound suit. However you may not pass through an inbound tile that has a value lower than the current value your pawn is moving towards.&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy",
+      "Maze"
+    ],
+    "Mechanics": [
+      "Area Movement"
+    ],
+    "Families": [
+      "Components: Piecepack",
+      "Players: Games with Solitaire Rules"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "HTML Double Solitaire",
+    "ID": 65637,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65637/html-double-solitaire",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "The game is designed to promote a holistic view of html programming. Beginning learners often practice the parts that make up a html document, but many times, do not put together entire documents. The game will help students see how to construct entire documents. It will provide opportunities to try various ways of constructing html documents. It will also serve to aid retention of the structure of html.&#10;&#10;The object of the game is to play all of the cards in your pile. All players use the center piles to build documents. There may be up to four documents in the center area. When a document is closed, by playing a card, the cards are removed from the center area and a new document can be built in its place. Documents begin with a card. All documents must have: a title, a header, a picture, text, a link. Play continues until one player has played the last card in their pile and become a winner.&#10;&#10;Components:&#10;212 cards&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Educational"
+    ],
+    "Mechanics": [
+      "Set Collection"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Hypertalk Scripting",
+    "ID": 65638,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65638/hypertalk-scripting",
+    "Min Players": "2",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "The learners will be able to write simple HyperTalk scripts.&#10;&#10;Players must build coherent sequences of cards into HyperTalk scripts. This is similar to a straight in the card game &quot;Rummy&quot;. Cards are marked with individual HyperTalk commands such as &quot;On MouseUp&quot;, or &quot;visual dissolve&quot;. A dealer gives each players 10 cards from a deck of 60. The dealer places the rest of the deck face down, with the top card turned face up to begin the discard stack. The players take turns choosing either a card from the deck, the top discard, or the entire discard stack. The first player to use all of their cards to build coherent scripts, wins.&#10;&#10;Components:&#10;60 cards&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Educational"
+    ],
+    "Mechanics": [
+      "Set Collection"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Ich Zweifle Es",
+    "ID": 65639,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65639/ich-zweifle-es",
+    "Min Players": "3",
+    "Max Players": "6",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "When shown a sample color, the learner will be able to say the German word for this color. The learner will be able to say the German words for the numbers 1, 2, 3, and 4.&#10;&#10;The dealer shuffles the cards and deals the whole deck of cards one at a time to each player. Players group their cards by color. The first player to discard all of their cards is the winner. Starting with the player at the dealers left, players must discard from one to four cards. The first player to discard must discard aces (blue cards), the second player two's (red cards), the third player three's (green cards), etc.&#10;&#10;The players say in German how many and what color of cards they are discarding. If a player doesn't have the color to discard for that turn, the player must bluff. The player puts other cards down, but says the color of card for his or her turn. Other players can then say &quot;Ich Zweifle Es&quot;, or I doubt it. The first player to accuse is the one who calls the bluff. A player who is caught bluffing must pick up the whole discard pile. A player wrongly accusing another player of bluffing must pick up the discard pile instead. Play then continues to the next player who must discard the next color in order. Remember to practice your German!&#10;&#10;",
+    "Categories": [
+      "Bluffing",
+      "Card Game",
+      "Educational"
+    ],
+    "Mechanics": [
+      "Set Collection"
+    ],
+    "Families": [
+      "Card Games: Shedding / Stops"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "INTERNET Deck",
+    "ID": 65640,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65640/internet-deck",
+    "Min Players": "2",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "The learners will be able to identify legitimate INTERNET command sequences. The game will focus on basic VAX Notes, Telnet, and e-mail commands.&#10;&#10;There are two variations to the INTERNET Deck. The first is a competitive game played like Rummy with the following variations. Players receive one point for each card in any trick that they lay down. Players may pick up more than one card from the discard pile. Players can void tricks laid down by other players by placing a &quot;Disconnect&quot; card on the trick.&#10;&#10;The second variation to INTERNET Deck is facilitative. It is meant for students who are not yet familiar with INTERNET commands. This variation is played like Rummy with the following variations. The dealer is always the instructor. All cards are shown face up. The instructor and other participants help the current player figure out if there is a legitimate sequence in his or her hand. Score is not kept. Only a few hands of this version should be played before switching to the competitive version of the game.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Educational"
+    ],
+    "Mechanics": [
+      "Set Collection"
+    ],
+    "Families": [
+      "Theme: Computer / Information Technology Industry"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "It's Elemental",
+    "ID": 65641,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65641/its-elemental",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Depending on the level of play, the learners will be able to a.) Recognize and state the name of a chemical element from its chemical symbol (Elemental Go Fish!), b.) Accomplish part a.), and combine them and &quot;multipliers&quot;to form proper chemical molecules (It's Elemental!), c.) Accomplish parts a.) and b.), and group them into their chemical families (Molecular Poker), or d.) Accomplish part a.), and compose and write pertinent clues regarding the identity of specific chemical elements (Elemental Trivia).&#10;&#10;Components:&#10;84 cards&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Educational"
+    ],
+    "Mechanics": [
+      "Set Collection"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Jungle Gin",
+    "ID": 65642,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65642/jungle-gin",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "The learner shall be able to identify plants according to classification and location on nursery grounds.&#10;&#10;Gameplay is similar to Gin. Player who has successfully collected 4 cards from one suit and 3 cards from a different suit is winner.&#10;&#10;Components:&#10;56 cards&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Educational"
+    ],
+    "Mechanics": [
+      "Set Collection"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Kanji",
+    "ID": 65643,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65643/kanji",
+    "Min Players": "0",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "The players shall be able to recognize the meanings of Japanese 'kanji' (ideographic characters adopted from the Chinese language), create 'kanji' compounds when appropriate, and classify 'kanji' into related semantic groups.&#10;&#10;This game is based on rummy. The object of the game is to get rid of your cards by laying down sets of cards which are categorized into semantic groups or families. For example, a family called 'human relations' may be made with 'kanji' cards meaning 'father, mother, son, daughter, and child'. &#10;Players try to group the cards into semantic cards to e scored. The first player to reach a total of 400 points or more wins the game.&#10;&#10;components:&#10;ca 400 cards&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Educational"
+    ],
+    "Mechanics": [
+      "Set Collection"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Vitorl\u00e1zz vel\u00fcnk!",
+    "ID": 65658,
+    "Year": "(1980)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "3.33",
+    "Link": "https://boardgamegeek.com/boardgame/65658/vitorlazz-velunk",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "0",
+    "Description": "This is a Hungarian game. Players are sailing, headed toward destinations shown on cards.  destinations on drawn cards. Players must complete a circuit, but there are some event card that affect areas of the board that influence the travel and route.&#10;&#10;1 gameboard&#10;1 dice&#10;6 sailing ship&#10;18 marker (flag)&#10;10 destination-card&#10;10 event-card&#10;1 rule&#10;&#10;",
+    "Categories": [
+      "Educational",
+      "Nautical",
+      "Travel"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Sports: Sailing"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Ninjistics",
+    "ID": 65659,
+    "Year": "(2010)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.00",
+    "Link": "https://boardgamegeek.com/boardgame/65659/ninjistics",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "0",
+    "Description": "Ninjistics is a fun family-friendly game of stupid human tricks. Each player is a ninja in training to become a master ninja. In order to prove that you are a master ninja you must complete a series of challenges ranging from reading minds to feats of stunning acrobatics.&#10;&#10;You need no special skills or knowledge to play Ninjistics. In addition, you are at no more advantage or disadvantage based upon your age or physical state. Challenges range from being able to predicting the outcome of a dice roll to being able to rub your belly and pat your head at the same time. There are 36 challenges in all, but in a typical game you usually only need to complete 5 or 6 to win.&#10;&#10;",
+    "Categories": [
+      "Action / Dexterity",
+      "Humor"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Modular Board",
+      "Rock-Paper-Scissors",
+      "Variable Player Powers"
+    ],
+    "Families": [
+      "Theme: Ninjas"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "American Girl Card Game Collection",
+    "ID": 65660,
+    "Year": "(2007)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65660/american-girl-card-game-collection",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "The American Girls star in three exclusive new card games! In Kit&rsquo;s Frame Game players compete to hang all of Kit&rsquo;s family portraits in order. In Trivia Challenge girls test their knowledge of the American Girls and their stories. And finally, in the rummy-style &quot;Three Please game participants collect sets of cards to win. &#10;Game contents &#10;1 small game board, &#10;7 portrait movers, &#10;25 pattern cards, 3&#10;1 direction cards, &#10;72 trios cards,&#10;72 trivia cards.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Trivia"
+    ],
+    "Mechanics": [
+      "Set Collection"
+    ],
+    "Families": [
+      "Theme: Dolls",
+      "Toys: American Girl"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Battle of Waterloo: Hougoumont (1815 AD)",
+    "ID": 65663,
+    "Year": "(2006)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.50",
+    "Link": "https://boardgamegeek.com/boardgame/65663/battle-of-waterloo-hougoumont-1815-ad",
+    "Min Players": "2",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "2",
+    "Description": "&quot;Napoleon's stunning comeback from exile faced its great test when his French army fought the British near Waterloo in Belgium. The British line was anchored on the right at the walled farm known as Hougoumont.&quot;&#10;&#10;&quot;The French started the battle with an attack on the farm designed to draw British reserves away from the center, where the main French attack was planned . . . Wellington, the British commander, credited the defense of Hougoumont with being the key to the victory.&quot;&#10;&#10;A miniatures wargame intended for classroom use with two teams of students (grades 6-8). The game is designed to be played on a 7.5x5 foot table using 1/72 scale plastic miniatures mounted two per base.&#10;&#10;As an alternative, free print-and-play paper miniatures are also provided for use with the rules. Print-and-play walls are also available for use to recreate the boundaries of the farmhouse.&#10;&#10;The rules encompass ranged and melee combat, morale, charges, reserves, and breaking down doors and gates.&#10;&#10;",
+    "Categories": [
+      "Educational",
+      "Miniatures",
+      "Napoleonic",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling"
+    ],
+    "Families": [
+      "Country: Belgium",
+      "History: Waterloo Campaign"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Why, These are Regulars!",
+    "ID": 65664,
+    "Year": "(2006)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.50",
+    "Link": "https://boardgamegeek.com/boardgame/65664/why-these-are-regulars",
+    "Min Players": "2",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "2",
+    "Description": "&quot;The battle of Chippawa (1814) was a landmark victory for the US army, marking the first time it defeated the veteran British regulars in open combat.&quot;&#10;&#10;&quot;When Winfield Scott's grey jacketed 1st Brigade was first seen the British may have mistaken them for militia. Watching them under fire, however, it became obvious that they were in fact well trained regulars. The US and British lines faced each other at close range, exchanging musket and cannon fire. After both sides suffered terrible casualties it was the British that withdrew.&quot;&#10;&#10;A miniatures wargame intended for classroom use with two teams of students (grades 6-8). The game is designed to be played on a 7.5x5 foot table using 1/72 scale plastic miniatures mounted two per base (except for Commanders, who are based singly). Free print-and-play paper miniatures are also provided for use with the rules.&#10;&#10;These streamlined &quot;fast play&quot; rules encompass unit formations, charges, commanders, morale, and terrain.&#10;&#10;",
+    "Categories": [
+      "Educational",
+      "Miniatures",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Ratz Fatz auf den Bauernhof",
+    "ID": 65666,
+    "Year": "(2009)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "2.50",
+    "Link": "https://boardgamegeek.com/boardgame/65666/ratz-fatz-auf-den-bauernhof",
+    "Min Players": "1",
+    "Max Players": "6",
+    "Min Play Time": "10",
+    "Play Time": "10",
+    "Weight": "0",
+    "Description": "This installment in the &quot;Ratz-Fatz&quot;-series revolves around the farm and eveything around that. Like the other Ratz Fatz games Ratz Fatz auf den Bauerhof is an educational game and it actually includes several games aimed at children of different ages. Game play revolves about recognizing the animals, and machines on the cards and making connections between them as fast as possible, another version of the game is a fairly straightforward memory game; yet another version that can be played and which is suitable for slightly older children (5-6) makes the game into a storytelling game.&#10;&#10;",
+    "Categories": [
+      "Action / Dexterity",
+      "Animals",
+      "Children's Game",
+      "Educational",
+      "Memory"
+    ],
+    "Mechanics": [
+      "Storytelling"
+    ],
+    "Families": [
+      "Series: Ratz Fatz (Haba)"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Battle of Lake Erie, September 1813",
+    "ID": 65667,
+    "Year": "(2008)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.17",
+    "Link": "https://boardgamegeek.com/boardgame/65667/battle-of-lake-erie-september-1813",
+    "Min Players": "2",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "2",
+    "Description": "&quot;The Battle of Lake Erie, sometimes referred to as the Battle of Put-In-Bay, was fought on September 10, 1813 on Lake Erie off the coast of Ohio during the War of 1812.&quot;&#10;&#10;&quot;Under light and variable winds, nine American vessels under the command of Commodore Oliver Hazard Perry challenged the British Commander Robert Barclay&rsquo;s squadron of six vessels for control of the lake.  Whoever controls the lake controls the movement of troops and supplies along the border between British Canada and the United States.  Victory goes to the side disabling or sinking the most enemy vessels.&quot;&#10;&#10;A miniatures wargame intended for classroom use with two teams of students. The game is designed to be played on a 7.5x5 foot table using miniature ships. Free print-and-play paper miniatures designed to accommodate the unusual combat resolution system are available on the Junior General site.&#10;&#10;The British Royal Navy order of battle consists of two ships, a brig, two schooners, and a sloop. The United States Navy has three brigs, five schooners, and a sloop. Each class of ship is rated for hull strength, sail points, and salvo size.&#10;&#10;The game uses an unusual method to resolve fire combat - the players roll pennies from atop the miniature ships.&#10;&#10;",
+    "Categories": [
+      "Action / Dexterity",
+      "Educational",
+      "Miniatures",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Flicking",
+      "Movement Points"
+    ],
+    "Families": [
+      "Country: USA",
+      "History: War of 1812",
+      "Misc: Free Wargames",
+      "States: Ohio"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Picturesque Word Games",
+    "ID": 65668,
+    "Year": "(2007)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.75",
+    "Link": "https://boardgamegeek.com/boardgame/65668/picturesque-word-games",
+    "Min Players": "1",
+    "Max Players": "8",
+    "Min Play Time": "10",
+    "Play Time": "10",
+    "Weight": "1",
+    "Description": "(Text by the publisher) Bildsch&ouml;ne Wortspiele is a compact collection of 8 card games that deal with images and associated words. The set contains 100 cards (90 photos, 6 jokers, 4 blancs), 4 cards with suggestions for words, 1 booklet with rules and examples.&#10;The principal mechanism is very simple: You form compounds by combining the words that you associate with two or more photos. A photo doesn&rsquo;t represent only one word. For instance, for the photo that shows an eagle you can also say &quot;bird&quot;, or &quot;beak&quot;, or &quot;head&quot;, or &quot;feather&quot;, or &quot;claw&quot;, or &quot;animal&quot; and so on. Thus, in combination with other cards in the set, you can form numerous words such as &quot;bird bath&quot;, &quot;bird table&quot;, &quot;frigate bird&quot;, &quot;game bird&quot;, &quot;pack animal&quot;, &quot;stuffed animal&quot;, &quot;animal farm&quot;, &quot;animal world&quot; and so on.&#10;The games can be played on all language levels. The selection of the photos ensures that you can form a large number of compounds within the range of basic vocabulary. Also, you can extend the linguistic range deliberately in terms of code, style and special languages.&#10;In educational contexts the games cannot only be used for vocabulary training. It is also possible to train more subtle competences such as abstract thinking (eagle &gt; bird &gt; animal), the perception of paralleles and differences (bird: bird of prey vs. singing bird), style and narrating (you put down one card after another and let narrate / narrate yourself).&#10;You can play most of the games either in competition or in coordination. Some of the games you can even play on your own. Depending on which game is played, the emphasis is on speed, concentration, memory, or wit. All the games are a challenge to imagination.&#10;The games are suited for cross-generational, highly communicative playing within the family. They have also been designed for educational and therapeutical purposes. (End of text by the publisher)&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Children's Game",
+      "Educational",
+      "Memory",
+      "Word Game"
+    ],
+    "Mechanics": [
+      "Cooperative Game",
+      "Hand Management",
+      "Memory",
+      "Pattern Recognition"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Ram Anything Painted Gray",
+    "ID": 65670,
+    "Year": "(2009)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.50",
+    "Link": "https://boardgamegeek.com/boardgame/65670/ram-anything-painted-gray",
+    "Min Players": "2",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "2",
+    "Description": "&quot;The Austro-Prussian War (1866) was fought between the Austrian Empire on one side, and Prussia and the Kingdom of Italy on the other side.&quot;&#10;&#10;&quot;The largest naval engagement occurred near the island of Lissa in the Adriatic Sea.  There an Austrian fleet of ironclads and steam powered wooden ships fought a larger Italian fleet.  The Austrians caught the Italians unprepared and succeeded in 'crossing the T' of the Italian fleet.  The heavy side belt armor of the ironclads was invulnerable to gunnery, and the most effect offensive tactic was ramming.  The Austrian fleet emerged victorious.&quot;&#10;&#10;A miniatures wargame intended for classroom use with two teams of students. The game is designed to be played on a 5x9 foot table using miniature ships. Free print-and-play paper miniatures are provided for use with the rules.&#10;&#10;Concepts covered in the rules include ranged combat, ramming, raking fire, turrets, and crippled ships.&#10;&#10;",
+    "Categories": [
+      "Educational",
+      "Miniatures",
+      "Nautical",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling"
+    ],
+    "Families": [
+      "History: Austro-Prussian War",
+      "History: Italian Wars of Independence"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "By Jove That Will Do! The Battle of Salamanca (1812 AD)",
+    "ID": 65671,
+    "Year": "(2009)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.50",
+    "Link": "https://boardgamegeek.com/boardgame/65671/by-jove-that-will-do-the-battle-of-salamanca-1812",
+    "Min Players": "2",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "2",
+    "Description": "&quot;The battle of Salamanca in Spain was a part of the Peninsular Campaign which lasted from 1808-1814. It was as a result of Napoleon invading Spain and putting his brother on the throne of Spain. It also resulted in a British general in winning fame and glory. Wellington would begin his winning streak in Spain.&quot;&#10;&#10;&quot;Salamanca was the most decisive battle of the entire war which smashed Marshal Marmont`s French army. Although the war would continue for two more years, the French were put on the defensive, as the British, Portuguese and Spanish troops harassed the French until they were pushed back over the Pyrenees mountains into France.&quot;&#10;&#10;A miniatures wargame intended for classroom use with two teams of students. The game is designed to be played on a 1.5x1 meter table using 1/72 scale plastic miniatures mounted two per base (except for commanders and cannons). Free print-and-play paper miniatures are also provided for use with the rules.&#10;&#10;The streamlined &quot;fast play&quot; rules encompass unit formations, charges, commanders, and morale.&#10;&#10;",
+    "Categories": [
+      "Educational",
+      "Miniatures",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling"
+    ],
+    "Families": [
+      "Cities: Salamanca (Spain)"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Picco Sortino",
+    "ID": 65672,
+    "Year": "(2010)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.85",
+    "Link": "https://boardgamegeek.com/boardgame/65672/picco-sortino",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "15",
+    "Play Time": "15",
+    "Weight": "0",
+    "Description": "What a mess! Fortunately, there are the little gnomes who like to clean up. The pot is in the kitchen, but one where should the pillow go? The player who is the first to put all his goods into the right room, wins. A memory game for children.&#10;&#10;Content&#10;4 rooms made of cardboard&#10;16 counters&#10;1 dice&#10;instructions&#10;&#10;",
+    "Categories": [
+      "Children's Game",
+      "Memory"
+    ],
+    "Mechanics": [],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "King of the Jungle",
+    "ID": 65677,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65677/king-of-the-jungle",
+    "Min Players": "2",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "The players be able to determine which animals are mammals, birds, or reptiles and will be able to identify the continent that corresponds with the animal given its country of origin.&#10;&#10;This game is based on the card game &quot;UNO.&quot;&#10;The winner plays all of his cards first and calls out &quot;King of the Jungle&quot; when he has one card left.&#10;&#10;Components:&#10;95 cards&#10;&#10;",
+    "Categories": [
+      "Animals",
+      "Card Game",
+      "Educational"
+    ],
+    "Mechanics": [
+      "Set Collection"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Kings of France, or Charlemagne",
+    "ID": 65678,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "7.00",
+    "Link": "https://boardgamegeek.com/boardgame/65678/kings-of-france-or-charlemagne",
+    "Min Players": "2",
+    "Max Players": "5",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "The players will be able to match the Kings of France to the appropriate royal house for each king. For example, Charles VII belonged to the house of Valois. In the affective domain, the students will have fun in learning what is considered to be an uninteresting subject.&#10;&#10;Object. The object of the game is to accumulate the most points by having the most cards discarded.&#10;&#10;Components:&#10;52 cards&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Educational",
+      "Political"
+    ],
+    "Mechanics": [
+      "Set Collection"
+    ],
+    "Families": [
+      "Country: France"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Least Common Multiple",
+    "ID": 65679,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65679/least-common-multiple",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "1",
+    "Description": "The players will be able to determine the least common multiple (LCM) of any two numbers between two and fifteen.&#10;&#10;Basic Game&#10;&#10;1. Remove cards numbered eleven through fifteen.&#10;   2. Deal half of the deck to each player.&#10;   3. Each player simultaneously throws down a card.&#10;   4. Each player tries to be the first to state the least common multiple of the two cards on the table. If the first player to respond is correct they get two points. If that player gives an answer that is a common multiple but not the least, they are given one point. If the first player to respond is completely wrong, the other player may get one point by answering correctly. Otherwise no points are given.&#10;The players can check their answer by looking at both lists of multiples and finding the lowest number that appears on both lists.&#10;   5. After points are awarded and the score is updated the two cards go into a discard pile.&#10;   6. The game ends when both players run out of cards.&#10;   7. The winner is the player with the most points&#10;&#10;Components:&#10;84 cards&#10;Paper and pancil&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Educational",
+      "Math"
+    ],
+    "Mechanics": [],
+    "Families": [
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Leonardo",
+    "ID": 65680,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65680/leonardo",
+    "Min Players": "3",
+    "Max Players": "10",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Art history students will classify paintings by period or artist. Using a card showing a piece of art, students will match it to another card with a picture of the same period or artist.&#10;&#10;The game follows the format of the card game &quot;UNO.&quot; &#10;Each card will contain a picture of a piece of art from one of four periods. Students will use cards from periods that are close together in time and style. The following periods could be used: Realism, Cubism, Impressionism, and Surrealism. Each card has an ID number that students may use at certain times to find information about the picture. &#10;To win, the player must get rid of all cards in his or her hand. Point values for the cards will be higher for the most recent works.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Educational"
+    ],
+    "Mechanics": [
+      "Set Collection"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "LRC Card Game",
+    "ID": 65681,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "3.50",
+    "Link": "https://boardgamegeek.com/boardgame/65681/lrc-card-game",
+    "Min Players": "2",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "The players are U.S. Navy Aviation Electronics Technician &quot;A&quot; (AT &quot;A&quot;) School students. Students are learning basic electronics. This game could be used for punctuation or enrichment. It would not be used to teach the objectives, but it could be used to practice and sharpen skills after the students had learned the concepts and principles. Students who had mastered the material presented in the class might play the game for enrichment while the instructor worked with those who needed more help. The entire class might be permitted to play and sharpen their skills.&#10;&#10;LRC is played like rummy. The object of the game is to get a run of three cards and a run of four cards that meet the following requirements depending on the level of play selected:&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Educational",
+      "Nautical"
+    ],
+    "Mechanics": [
+      "Set Collection"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Map Mania",
+    "ID": 65682,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65682/map-mania",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "The player will learn the location of the seven regions of the continental United States by matching states to regions of the map.&#10;&#10;Object of play The players try to get rid of all of the cards in their hands. The first player to do this, wins.&#10;&#10;Components:&#10;52 cards&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Educational"
+    ],
+    "Mechanics": [],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Match `EM",
+    "ID": 65684,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65684/match-em",
+    "Min Players": "2",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "The player with be able to match the state's name to its picture and its picture to its name.&#10;&#10;The object of the game is to make as many matches as you can.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Educational"
+    ],
+    "Mechanics": [
+      "Set Collection"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Chass\u00e9-crois\u00e9",
+    "ID": 65686,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.75",
+    "Link": "https://boardgamegeek.com/boardgame/65686/chasse-croise",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "20",
+    "Play Time": "20",
+    "Weight": "0",
+    "Description": "Material: &#10;20 pawns (4 blue, 4 yellow, 4 white, 4 red) 1board , 21 cards.&#10;&#10;Goal : &#10;Each player tries to create the exact pattern of five pawns showed by his secret card drawn from the stock. This is done when the colors of pawns upon the board fit those of the card either horizontally, vertically or diagonally. The card is then won by the player, who draws another card from the stock.&#10;&#10;Pawns can be moved one step in every direction,  or jump above others pawns in chinese checkers style. &#10;The winner is the player who has won the most cards when the stock is empty.&#10;&#10;This game has been published in the same box that &quot;Le 5 &agrave; cinq&quot;&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy"
+    ],
+    "Mechanics": [
+      "Open Drafting",
+      "Pattern Building"
+    ],
+    "Families": [
+      "Components: 5 x 5 Grids",
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Le 5 \u00e0 cinq",
+    "ID": 65687,
+    "Year": "(1974)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65687/le-5-a-cinq",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "20",
+    "Play Time": "20",
+    "Weight": "0",
+    "Description": "Material: &#10;20 pawns with digits (15 blue,  5 red) 1 board.&#10;&#10;Goal : &#10;On player plays with the 5 red pawns, his opponent plays with 5 blue pawns randomly chosen. &#10;Pawns can be moved one step in every direction,  or jump above others pawns in chinese checkers style. &#10;Each time a player creates a line of three or more pawns with both colors connected, he scores the total of the values of the pawns. &#10;The first to score 200 points or more wins the game.&#10;&#10;This game has been published in the same box than &quot;Chass&eacute;- crois&eacute;&quot;&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy",
+      "Math"
+    ],
+    "Mechanics": [
+      "Grid Movement"
+    ],
+    "Families": [
+      "Components: 5 x 5 Grids",
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Bli Borgm\u00e4stare i Uppsala",
+    "ID": 65690,
+    "Year": "(2009)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "4.00",
+    "Link": "https://boardgamegeek.com/boardgame/65690/bli-borgmastare-i-uppsala",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "100",
+    "Play Time": "100",
+    "Weight": "0",
+    "Description": "This game consists of 3 more or less localized sub games.&#10;&#10;The predominant game is economic. The player moves around the board and if possible tries to buy the companies landed on. If another player already owns it, an industrial spy fine must be payed instead.&#10;&#10;The second game is a localized trivia game which kicks in at different events. Corrects answers give economic advantages.&#10;&#10;Third there is a voting process about which player should be the next mayor. The mayor has some advantages and disadvantages in the economic game. Each owned company corresponds to a number of votes. The results of each voting are kept and the final winner is the player who reaches the target number.&#10;&#10;",
+    "Categories": [
+      "Economic",
+      "Political",
+      "Trivia"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move",
+      "Stock Holding",
+      "Voting"
+    ],
+    "Families": [
+      "Series: B\u00fcrgermeisterspiel"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Cleveland Browns Sideline Football Game",
+    "ID": 65694,
+    "Year": "(1987)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65694/cleveland-browns-sideline-football-game",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "0",
+    "Description": "Offically licensed product by NFL. It is a game of strategy. Developed after hours of interviews with your favorite players and coaches. Questions are exciting and educational and are ranked by degree of difficulty. You can score by running, passing and or field goal on the 15x24 playing field. You determine yardage attempted by questions degree of difficulty.&#10;&#10;",
+    "Categories": [
+      "Sports",
+      "Trivia"
+    ],
+    "Mechanics": [],
+    "Families": [
+      "Cities: Cleveland (Ohio, USA)",
+      "Sports: American Football / Gridiron"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Labyrinth",
+    "ID": 65696,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.00",
+    "Link": "https://boardgamegeek.com/boardgame/65696/labyrinth",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "0",
+    "Description": "A young adventurer is seeking his fortune in the Labyrinth. He seeks the 3 great treasures which will allow him to live out his life in luxury. The Labyrinth is the hunting ground for 3 horrible beasts.&#10;&#10;The game board consist of 4 rings that freely rotate around each other. Roughly once per game round, the board will shift. The way the board shifts is determined by the active player. The power to control the shift is passed after the player shifts the board.&#10;&#10;One player must play as the adventurer, the remaining players may choose from an assortment of characters to play. The player playing the adventurer is trying to get 3 treasure chest and get out (gaining a new ability with each chest), while the other players are all trying to capture the adventurer and bring him/her back to their layer. They are not working together and will likely end up fighting over the adventurer.&#10;&#10;Each Character has its own special ability.&#10;&#10;",
+    "Categories": [
+      "Adventure",
+      "Fantasy",
+      "Maze"
+    ],
+    "Mechanics": [
+      "Modular Board",
+      "Roll / Spin and Move",
+      "Variable Player Powers"
+    ],
+    "Families": [
+      "Crowdfunding: Kickstarter"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Women's Lib?",
+    "ID": 65700,
+    "Year": "(1970)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65700/womens-lib",
+    "Min Players": "4",
+    "Max Players": "7",
+    "Min Play Time": "90",
+    "Play Time": "90",
+    "Weight": "0",
+    "Description": "The game of women's rights.&#10;From a sticker included in the box: &#10;Male chauvinists, radical feminists, happy housewives, confused husbands - they're all right here in WOMEN's LIB. Each player is assigned one of these characters and tries on a whole new personality. WOMEN's LIB is a game of debates and elections, bribes and bargains. Fight for your cause, argue your point of view and everybody learns something about our changing world and its women.&#10;&#10;The first player to accumulate 35 Persuasive Points is the winner of the game. The points are awarded to players who successfully debate and campaign to achieve the goals favored by the character they are representing.&#10;&#10;",
+    "Categories": [
+      "Educational",
+      "Negotiation"
+    ],
+    "Mechanics": [
+      "Role Playing",
+      "Voting"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Europa viva",
+    "ID": 65701,
+    "Year": "(1994)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "8.00",
+    "Link": "https://boardgamegeek.com/boardgame/65701/europa-viva",
+    "Min Players": "3",
+    "Max Players": "6",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "0",
+    "Description": "Players draw three out of 190 cards with buildings, landmarks, food, sports or other items connected to a European country. At a player`s  turn, he describes one of his cards, but rather vaguely and personal, but still unambiguously (he can for instance also use his feelings, like: &quot;I will never climb up THERE!&quot; (Eiffel Tower)) without naming them directly. Then they place three rings onto a map of Europe, one of them including the flag of the country his item is connected with. The other players now place their pawns into the ring they think includes the correct flag. The item is revealed and the players score points tracked down around the map. The player whose pawn surrounds he map twice first, wins the game.&#10;&#10;",
+    "Categories": [
+      "Educational",
+      "Party Game",
+      "Trivia"
+    ],
+    "Mechanics": [],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Measurement Rummy",
+    "ID": 65705,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65705/measurement-rummy",
+    "Min Players": "2",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "The learner shall be able to match measurements to their corresponding equivalents.&#10;&#10;The players may lay down any equivalents that he or she has. After all matches have been made, the player discards laying the card face up. &#10;The player who gets rid of their cards first is the one who wins the game.&#10;&#10;Components:&#10;52 cards&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Educational"
+    ],
+    "Mechanics": [
+      "Set Collection"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "MixMania",
+    "ID": 65706,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65706/mixmania",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "The objective of MixMania is to provide newly formed and intact groups with a fun and interactive way to get acquainted with the other members of a group.&#10;&#10;A &quot;profile&quot; consists of one answered question from each of the four suits. This equals a total of four answered questions on each of the other players. The first person to accumulate &quot;profiles&quot; for each of the players in the game is the winner.&#10;&#10;MixMania follows a rummy structure and categorizes information by the four suits. The wildcard can be used for any suit in a &quot;profile.&quot;&#10;&#10;Componets:&#10;82 cards&#10;There are four suits called Work Life, Personal Life, Childhood, and Dreams and two Wildcards.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Educational"
+    ],
+    "Mechanics": [
+      "Set Collection"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "The Mixology Game",
+    "ID": 65707,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65707/the-mixology-game",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "The playerswill be able to combine either three or four playing cards which identify the contents and quantities of fifteen drinks. The student should be able to combine the cards correctly 80% of the time when playing the game.&#10;&#10;A rummy structure is used in the design of the game.&#10;The object of the game is for each player to combine one set of four cards which define the ingredients of one drink and another set of three cards which define the ingredients of a second drink. The first player to successfully combine the two drink combinations and place the two combinations face down in front of the other player wins.&#10;&#10;Components:&#10;52 cards&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Educational"
+    ],
+    "Mechanics": [
+      "Set Collection"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Multiplication Stars!!",
+    "ID": 65709,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65709/multiplication-stars",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "The players will be able to recite the multiplication tables from zero to twelve from memory.&#10;&#10;Players multiply 2 numbers correctly from the cards to get 2 stars. Winner is the player with the most stars at the end of game. End of game comes when the teacher calls time.&#10;&#10;Components:&#10;&#10;     deck of cards&#10;     100 yellow stars for scoring&#10;&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Educational",
+      "Math"
+    ],
+    "Mechanics": [
+      "Set Collection"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Jungle Zombie (fan expansion for Tikal)",
+    "ID": 65712,
+    "Year": "(2010)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.00",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/65712/jungle-zombie-fan-expansion-for-tikal",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "120",
+    "Play Time": "120",
+    "Weight": "2",
+    "Description": "Explorers at the Central American jungles in search of lost temples and treasures are not aware that ancient black magic awaits them.  Opening an old ceramic vessel unleashes a powerful spell that transforms them in Zombies!&#10;Jungle Zombie is a free print and play expansion for the board game Tikal.&#10;This expansion replaces the round treasure pieces adding the new Zombie pieces.  When a player gets the Zombie he is transformed into one.  As a Zombie he can move just as any member of the team, but now he has the power to kill the rivals of the other expeditions.  The Zombie can also be killed, of course, but this is not easy.&#10;This expansion is easy to print (just one page) and use all the basic rules of Tikal.  It transforms the peaceful exploration in a bloody B movie.&#10;&#10;",
+    "Categories": [
+      "Adventure",
+      "Expansion for Base-game",
+      "Exploration",
+      "Fan Expansion",
+      "Fighting",
+      "Horror",
+      "Print & Play",
+      "Zombies"
+    ],
+    "Mechanics": [
+      "Action Points",
+      "Area Majority / Influence",
+      "Auction / Bidding",
+      "Modular Board",
+      "Tile Placement"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Martian Tic-Tac-Toe",
+    "ID": 65713,
+    "Year": "(2005)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "7.00",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/65713/martian-tic-tac-toe",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "10",
+    "Play Time": "10",
+    "Weight": "2",
+    "Description": "Martian Tic-Tac-Toe is an Icehouse game for 2 players played on a 3x3 square board.&#10;&#10;Each player starts with a stash of three small pieces, three medium pieces and three large pieces, all of one color.&#10;On each player's first turn, that player must place a small piece into a square. After that each player may make one of the following moves:&#10;&#10;1. Place a small piece from your stash into an empty square.&#10;&#10;2. Swap one of your pieces in play with a piece from your stash (up to one size larger or any size smaller).&#10;&#10;3. Capture an opponent's piece by replacing it with a piece from your stash exactly one size larger and sending the captured piece back to the opponent's stash.&#10;&#10;A player wins when they get three of their pieces of the same size in a straight line (orthogonal or diagonal).&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy"
+    ],
+    "Mechanics": [
+      "Pattern Building"
+    ],
+    "Families": [
+      "Components: 3 x 3 Grids",
+      "Components: Looney Pyramid Games",
+      "Digital Implementations: Ai Ai",
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Patterns",
+    "ID": 65714,
+    "Year": "(2001)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "7.00",
+    "Link": "https://boardgamegeek.com/boardgame/65714/patterns",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "15",
+    "Play Time": "15",
+    "Weight": "2",
+    "Description": "Patterns is played on an empty 5x5 square board.&#10;On the first move the first player drops one of his stones on an empty cell.After that,each player may make one of the following:&#10;1.Drop two stones making no captures.&#10;2.Drop one stone to capture enemy stones.&#10;Wins the player that captures 9 stones or stalemates the opponent.&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy"
+    ],
+    "Mechanics": [],
+    "Families": [
+      "Components: 5 x 5 Grids",
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "The Illusionist",
+    "ID": 65715,
+    "Year": "(2014)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65715/the-illusionist",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "45",
+    "Play Time": "45",
+    "Weight": "0",
+    "Description": "The Illusionist is a card game for 2&ndash;4 players who play rival Victorian-era magicians/illusionists. The goal of the game is to become the City's most prominent performer by having the highest number of Prestige Points at the end of the game. Prestige Points are earned by creating/assembling astounding illusions and &ldquo;performing&rdquo; them at various types of theatres in the city. Strategy, timing and elements of luck all play a role in your rise to prominence, as do the political machinations and jealousy of your peers.&quot;&#10;&#10;It's basically a set-collection card game that plays in 30-45 minutes. The suits are four different types of illusions commonly performed by late-Victorian era stage magicians and you'll need an &quot;aha!&quot; idea card of a suit and a card of values 1,2 and 3 of the same suit to perform (put into play) an illusion to earn Prestige Points points. There are 16 different magicians to play, each with their own strengths and weaknesses, optional trait cards, and the all important Events (fate) deck that you both need and dread.&#10;&#10;",
+    "Categories": [
+      "Card Game"
+    ],
+    "Mechanics": [
+      "Open Drafting",
+      "Set Collection",
+      "Storytelling",
+      "Variable Player Powers"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Flocks (reba\u00f1os)",
+    "ID": 65716,
+    "Year": "(2009)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "8.50",
+    "Link": "https://boardgamegeek.com/boardgame/65716/flocks-rebanos",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "15",
+    "Play Time": "15",
+    "Weight": "2",
+    "Description": "It is a game for two players.&#10;&#10;The dog is faster than the sheep.&#10;The sheep are always still, grazing.&#10;When the dog gets near the sheep they start running along with him. As soon as the dog moves away they stop and start to graze again.&#10;&#10;-Each player has one sheep dog and sixteen sheep, white or black.&#10;&#10;-The dog is placed on the cross next to the player, the cross is also next to the sheepfold in which he has to introduce his sheep.&#10;&#10;The youngest player begins.&#10;Taking turns each player places the other player&rsquo;s sheep on the board, one by one. They can&rsquo;t touch sheep of the same colour nor the wire fence that surrounds the field. You can put sheep next to sheep from the other flock.&#10; -The sheep, the bigger the flock gets, are more difficult to be moved by the dog in the way that:&#10;The dog moves up to 5 squares in any direction.&#10;Sheep can only be moved by the dog horizontally or vertically, never diagonally, in the following way:&#10;    Dog (alone)        up to 5 squares&#10;    Dog + 1 sheep        up to 4 squares&#10;    Dog + 2 sheep        up to 3 squares&#10;    Dog + 3 sheep        up to 2 squares&#10;    Dog + 4 sheep or more    up to 1 square&#10;&#10;The dog can join and leave the sheep as many times as he likes as long as he does not move more than the total number of 5 squares.&#10;&#10;&quot;up to&quot; means that there is no need to move the total number of allowed movements if one does not want to.&#10;&#10;A dog can only move sheep of his own sheepfold. The other sheep ignore him and will not move no matter how loud it may bark! They will just stay still, grazing.&#10;&#10;The player that first gets all his sheep in his sheepfold is the winner.&#10;&#10;",
+    "Categories": [
+      "Racing"
+    ],
+    "Mechanics": [
+      "Point to Point Movement",
+      "Simulation"
+    ],
+    "Families": [
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Sacramento",
+    "ID": 65717,
+    "Year": "(1977)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "4.28",
+    "Link": "https://boardgamegeek.com/boardgame/65717/sacramento",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "15",
+    "Play Time": "15",
+    "Weight": "1.5",
+    "Description": "Players have four &quot;cowboys&quot; which they move across the board, according to dice rolls. Under one of them they have hidden gold which they want to get to the bank (at the other end of the board) safely. Other players try to steal the gold by getting on the same field on the board.&#10;&#10;",
+    "Categories": [
+      "Dice"
+    ],
+    "Mechanics": [
+      "Pick-up and Deliver"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Temple",
+    "ID": 65718,
+    "Year": "(2010)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "9.00",
+    "Link": "https://boardgamegeek.com/boardgame/65718/temple",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "45",
+    "Play Time": "45",
+    "Weight": "0",
+    "Description": "In Temple you control one of the four ancient elements: Earth, Fire, Wind, and Water.  Locked in conflict with the other powers, you vie for supremacy by moving your elemental pawns into different formations, scoring points.&#10;&#10;Temple is played on a square board of variable size - the more players you have, the larger the board.  Each player has six pawns, which they move in an attempt to match cards drawn from a deck.  These cards are placed face up in view of all players, so you must work to match your own cards while preventing the other players from doing the same.  You not only have the ability to control your own pieces, but you can even summon the primordial powers to move the pieces of your opponents!&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy",
+      "Real-time"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Pattern Building",
+      "Roll / Spin and Move",
+      "Tile Placement"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Viva San Martin!",
+    "ID": 65722,
+    "Year": "(2005)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.50",
+    "Link": "https://boardgamegeek.com/boardgame/65722/viva-san-martin",
+    "Min Players": "2",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "2",
+    "Description": "&quot;Jose de San Martin led the battle for independence against the Spanish in the southern part of South America. His efforts were instrumental in the liberation of Argentina and Chile. His greatest victory came in 1818 at the the Battle of Maipo in Chile. In this decisive battle he defeated the final Spanish offensive and secured the freedom of Chile.&quot;&#10;&#10;This miniatures wargame is intended for classroom use with two teams of students (grades 6-8). The game is designed to be played on a 7.5x5 foot table using 1/72 scale plastic miniatures mounted two per base, except for commanders which are mounted singly. Free print-and-play paper miniatures are also provided for use with the rules. Each side has one overall commander and assorted infantry, cavalry, and cannon units.&#10;&#10;",
+    "Categories": [
+      "Educational",
+      "Miniatures",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling"
+    ],
+    "Families": [
+      "Country: Chile",
+      "Country: Spain",
+      "History: Latin American Wars of Independence"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Across the Andes",
+    "ID": 65730,
+    "Year": "(2005)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.50",
+    "Link": "https://boardgamegeek.com/boardgame/65730/across-the-andes",
+    "Min Players": "2",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "2",
+    "Description": "&quot;In 1819 Simon Bolivar led his army across the Andes and began the campaign to liberate Colombia (New Granada) from Spanish rule.&quot;&#10;&#10;&quot;He achieved his goal with the decisive battle of Boyaca. Simon Bolivar's rebel army launched a surprise attack which cut the royalist army in half as they crossed a bridge. The Spanish were routed, opening the road to Bogota. Battle of Boyaca Day is celebrated in Colombia every August 7.&quot;&#10;&#10;This miniatures wargame is intended for classroom use with two teams of students (grades 6-8). The game is designed to be played on a 7.5x5 foot table using 1/72 scale plastic miniatures mounted two per base, except for commanders which are mounted singly. Free print-and-play paper miniatures are also provided for use with the rules. Units portrayed in the game include infantry, cavalry, militia, rifles, and cannon.&#10;&#10;",
+    "Categories": [
+      "Educational",
+      "Miniatures",
+      "Wargame"
+    ],
+    "Mechanics": [],
+    "Families": [
+      "History: Latin American Wars of Independence"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "The Racket, A game about Respect",
+    "ID": 65740,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65740/the-racket-a-game-about-respect",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "45",
+    "Play Time": "45",
+    "Weight": "0",
+    "Description": "The Racket is a game about respect. More specifically it&rsquo;s about the Mafia interpretation of respect. You will take on the role of a mafia style gang, and establish a protection racket. Each building you extort builds your respect.&#10;&#10;Victory Condition:&#10;The game is won by the first player to reach 100 respect, or the last surviving player.&#10;&#10;Awards:&#10;Summer 2007&#10;Future Game Developer Award&#10;Verba Volent, Scripta Manet&#10;for &quot;Best Game Rules/ Documentation&quot;&#10;&#10;",
+    "Categories": [
+      "Mafia"
+    ],
+    "Mechanics": [
+      "Area Majority / Influence",
+      "Dice Rolling",
+      "Hand Management"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Kurz",
+    "ID": 65741,
+    "Year": "(2009)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65741/kurz",
+    "Min Players": "3",
+    "Max Players": "7",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "In this game, two players talk on a &quot;phone&quot; (or any device held to the active player's ear). Before they start, a spinner determines a subject for the call and a matching taboo word. The caller also decides whether he/she wants to talk for 20-40, 40 to 60 or 60 to 90 seconds. A third player controls the time.&#10;&#10;When the caller picks up the phone piece, the person who is called has to involve the caller in a conversation, trying to force him/her to use the taboo word or the words yes or no, which are also taboo. Whenever the caller uses one of these words, he/she gets a headache pill (but the conversation continues). &#10;During the conversation, the caller has to try and estimate how much time has passed. When he/she thinks the time is within the chosen limits, he or says goodbye and puts down the &quot;phone&quot;. If he/she was within the chosen limits, he/she gets one, two or three points, depending on the length of the call. Then the next player makes a call.&#10;&#10;Two headache pills count minus one point. The player with most points (or, frequently, with least negative points) after an agreed number of calls is the winner.&#10;&#10;",
+    "Categories": [
+      "Party Game",
+      "Real-time",
+      "Word Game"
+    ],
+    "Mechanics": [
+      "Storytelling"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Trivoli",
+    "ID": 65742,
+    "Year": "(2010)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "3.25",
+    "Link": "https://boardgamegeek.com/boardgame/65742/trivoli",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "15",
+    "Play Time": "15",
+    "Weight": "0",
+    "Description": "Trivoli is a compelling and simple game in which the whole family will enjoy! The game offers two magnificent structure excellent game, only to turn around the carousel and you can play another game on a another board. Rotate the carousel turn one level and try to make our own secret character or picture. Beware, however, from establishing a false picture, which you may help another player win! The game teaches 3D and logical thinking in a way that makes the child want to play the game again and again! Winner is the one who get the picture together first or the the other side of the carousel!&#10;The game is played like this: you have a six sided classical dice with three circles on each side. One of those is painted black: the one in the middle, second or the most outside one. And each painted circle is twice on hat dice.&#10;Rolling that dice decides which part of the carousel you can turn.&#10;Then you watch the picture you got at the beginning, and see, if you can create that by turning the rolled circle around the center. If you succeed creating that picture, you get one chip from the center bowl. Get the most of these to win!&#10;&#10;",
+    "Categories": [
+      "Children's Game",
+      "Educational"
+    ],
+    "Mechanics": [
+      "Dice Rolling"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Lexico Suomi-Englanti",
+    "ID": 65743,
+    "Year": "(2008)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "4.83",
+    "Link": "https://boardgamegeek.com/boardgame/65743/lexico-suomi-englanti",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "0",
+    "Description": "Unique dictionary game is now completely renovated! Lexico contains a total of 9000 commonly used words, divided into five thematic areas: Human, Environment, Nature and Hobby, Science and Technology as well as the general words. Three different levels of difficulty thanks to the game is suitable for all ages and levels of language minds can play together - each of the chosen level of difficulty. Lexicon company you enjoy and learn a foreign language!&#10;&#10;",
+    "Categories": [
+      "Educational",
+      "Trivia",
+      "Word Game"
+    ],
+    "Mechanics": [],
+    "Families": [
+      "Series: Lexico (Tactic)"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Lexico Suomi-Ranska",
+    "ID": 65744,
+    "Year": "(2008)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "4.67",
+    "Link": "https://boardgamegeek.com/boardgame/65744/lexico-suomi-ranska",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "0",
+    "Description": "Unique dictionary game is now completely renovated! Lexico contains a total of 9000 commonly used words, divided into five thematic areas: Human, Environment, Nature and Hobby, Science and Technology as well as the general words. Three different levels of difficulty thanks to the game is suitable for all ages and levels of language minds can play together - each of the chosen level of difficulty. Lexicon company you enjoy and learn a foreign language! Win by getting rid of all your cards first!&#10;&#10;",
+    "Categories": [
+      "Educational",
+      "Word Game"
+    ],
+    "Mechanics": [],
+    "Families": [
+      "Series: Lexico (Tactic)"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Die Himmelsziege und die schwarzen L\u00f6cher",
+    "ID": 65745,
+    "Year": "(2009)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65745/die-himmelsziege-und-die-schwarzen-locher",
+    "Min Players": "2",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "The space ship Himmelsziege travels through space, trying to evade the dangerous black holes. &#10;One player is the route planner, another is the captain. The planner reveals three route cards, and secretly blocks one of them with a magnet on the underside of the board. The captain then chooses one of the route, and the planner tells the captain about one other route that is not blocked. The captain then has the option to change the route. &#10;Afterwards, a small metal ball is rolled from a ramp at the starting point toward the destination. If it passes the magnet, it is stopped and caught by the black hole.&#10;&#10;Depending on the outcome and on whether the route had been changed, chips in different colors are awarded to the players. The goal of the game is to collect chips, but mainly to demonstrate the Monty Hall problem.&#10;&#10;",
+    "Categories": [
+      "Educational",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "Mechanics": [
+      "Point to Point Movement"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Lexico Suomi-Ruotsi",
+    "ID": 65746,
+    "Year": "(2008)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "4.80",
+    "Link": "https://boardgamegeek.com/boardgame/65746/lexico-suomi-ruotsi",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "0",
+    "Description": "Unique dictionary game is now completely renovated! Lexico contains a total of 9000 commonly used words, divided into five thematic areas: Human, Environment, Nature and Hobby, Science and Technology as well as the general words. Three different levels of difficulty thanks to the game is suitable for all ages and levels of language minds can play together - each of the chosen level of difficulty. Lexicon company you enjoy and learn a foreign language! You win by getting rid of all your cards!&#10;&#10;",
+    "Categories": [
+      "Educational",
+      "Word Game"
+    ],
+    "Mechanics": [],
+    "Families": [
+      "Series: Lexico (Tactic)"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "House Hunt",
+    "ID": 65747,
+    "Year": "(2007)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65747/house-hunt",
+    "Min Players": "1",
+    "Max Players": "6",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "0",
+    "Description": "Object of the Game&#10;&#10;The overall object of the game is to be the player with the best deal on a home. The best deal is determined by the total cost of purchasing the home less the total value of the home.&#10;&#10;Each mini-game contributes to the total cost and/or total value of the home which is recorded on the home buyer's contract. At the conclusion of the games, the cost and value of each home is calculated, producing a winner(s).&#10;&#10;Each mini-game has a contributory goal to the overall goal.&#10;&#10;In Mortgage Mambo, the mini-game goal is to get as many loan offers as possible and then to select from those offers.&#10;&#10;In Realtor Roundup, the mini-game goal is to get to the best realtor and therefore get the largest number of buyer incentives.&#10;&#10;In Inspection Perfection, the mini-game goal is to increase the cost or decrease the value of your opponents Home Buyer's Contract.&#10;&#10;The Rules&#10;&#10;House Hunt General Rules&#10;&#10;For both single player games and games of two or more.&#10;&#10;1. Each player should take a blank Home Buyer's contract. Each player will need a pen or pencil to record results on their home buyer's contract.&#10;   2. Select one Home Profile from the set of Home Profile cards. Each player will use the same home profile as a starting part for their home contract.&#10;   3. Each player then uses a pencil to fill out their home-buyer's contract with the information from the home profile card.&#10;   4. For a complete game, play in the following order:&#10;          * Mortgage Mambo&#10;          * Realtor Roundup&#10;          * Inspection Perfection&#10;   5. You may also play each game by itself or skip one or two of the games. If Inspection Perfection is played, it should always be played last.&#10;&#10;Realtor Roundup and Mortgage Mambo Rules&#10;&#10;For two or more players:&#10;&#10;1. Select one side of the draw box for the game you are playing to pull cards from.&#10;   2. Place the END GAME marker in the middle of the draw box For a longer game, place it closer to the side opposite where you will draw from.&#10;   3. All player tokens begin at START.&#10;   4. Select one player to be first. This is the current player.&#10;   5. The player on the right of the current player draws a task card from the draw box and asks the current player the question on the outside of the card.&#10;   6. If the current player requests a hint, the player on the right opens the card and reads the hint (usually a set of multiple choice answers).&#10;   7. The number of spaces a player may move is stated on each task card and depends on whether the current player got the answer right and whether a hint was used. Follow the directions on the task cards.&#10;   8. When a player lands on a space with directions, the player should follow those directions prior to the next player taking a turn.&#10;   9. When a current player's turn is over, play proceeds clockwise to the next player, who becomes the current player.&#10;&#10;For single players:&#10;&#10;1. Set up play as for two or more players.&#10;   2. Draw task cards and answer the questions.&#10;   3. If you need a hint, open the task card enough to see the hint while still obscuring the answer.&#10;   4. When you've answered the question, open the card completely to confirm if your answer is correct.&#10;   5. Move your token as directed and record any changes to your home buyer's contract.&#10;&#10;Inspection Perfection Rules&#10;&#10;For two or more players only.&#10;&#10;1. Shuffle Inspection Deck. Each player should take four (4) cards from the deck, making certain not to show the cards to other players.&#10;   2. There are two objectives to this game. The first is to discard all of your cards. The second is to ask other players questions that you think they don't know, forcing them to pick up another card from the pile and to receive a penalty which will affect their home buyer's contract.&#10;   3. Play proceeds as follows:&#10;          * A player chooses a card from his/her hand and asks any other player the question on the card.&#10;          * If the questioned player gets the answer correct, s/he receives the reward specified on the card.&#10;          * If the questioned player gets the answer wrong, s/he receives the penalty specified on the card and must draw a card from the inspection pile.&#10;          * In either case, the questioning player discards the card in the common discard pile.&#10;   4. Play then proceeds to the player on the left of the player who just asked the question.&#10;   5. When one player has no more cards, the game is over.&#10;&#10;Ending The Games&#10;&#10;At the end of the games, complete the calculations on your home buyer's contract. The person with the best deal wins.&#10;&#10;",
+    "Categories": [
+      "Economic",
+      "Educational"
+    ],
+    "Mechanics": [
+      "Hand Management",
+      "Stock Holding"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "What's the Matter?",
+    "ID": 65748,
+    "Year": "(2007)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65748/whats-the-matter",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "45",
+    "Play Time": "45",
+    "Weight": "0",
+    "Description": "Object of the Game&#10;&#10;Work as a team to gather and interpret enough clues to correctly identify the mystery element in the envelope. The teams do this by landing on the clues and/or stealing clues from other teams.&#10;&#10;The Rules&#10;&#10;Setup&#10;&#10;1. Put one electron card on each electron space on the board.&#10;   2. Place the mystery element envelope on the mystery element box on the board.&#10;   3. Put the question cards on the question box on the board.&#10;   4. Pick a game piece and place it in the nucleus.&#10;   5. Distribute markers and periodic table folders to each team.&#10;&#10;Playing Game - read all directions before playing&#10;&#10;1. BEGINNING PLAY - Each team rolls a die. The highest number goes first.&#10;   2. One at a time, all teams must answer a question card correctly to cross from the nucleus to the first shell.&#10;   3. If answered incorrectly, wait until your next turn to try again. You must answer the question correctly to leave the nucleus and start playing.&#10;   4. After your team has correctly answered a question card, move your piece from the nucleus along one of the bridges and remain there until your next turn.&#10;   5. CONTINUING PLAY - On your next turn, roll the die and travel in any direction along that shell.&#10;   6. ELECTRON CARDS - When you land on an electron clue card, pick up the card and share it only with your team.  Use your periodic table to mark off elements that the clue eliminates.  Once an electron clue card is picked up, the space becomes null.&#10;   7. QUESTION BRIDGES - Use the question card bridges to travel to available clue cards in different shells. You must answer the question correctly to use the question card bridge.&#10;   8. ELEMENT SYMBOL/DIAGRAM SPACES - If you land on an element symbol, jump to the corresponding element diagram, and vice versa.&#10;   9. WINNING THE GAME - Once your team thinks they have determined the mystery element, travel back to the nucleus, answering question cards correctly to travel across the bridges and rolling the die. It is not necessary to land in the nucleus by an exact roll of the die.  Once in the nucleus, you may announce your guess and check the envelope. If you are right, you win! If you are wrong, place the card back in the envelope, your team is out and the game continues with the other teams.&#10;&#10;",
+    "Categories": [
+      "Educational",
+      "Trivia"
+    ],
+    "Mechanics": [],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Caloric Consequences",
+    "ID": 65749,
+    "Year": "(2007)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65749/caloric-consequences",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "0",
+    "Description": "Object of the Game&#10;&#10;The goal of the game is to have the fewest calories after moving around the board one time.  Each player must reach the finish, or &ldquo;Lights Out,&rdquo; and the player with the fewest calories at &ldquo;Lights Out&rdquo; is the winner.&#10;&#10;The Game&#10;&#10;Caloric Consequences&#10;&#10;OBJECT: The object of Caloric Consequences is to get through a day of meals and activities (from Wake Up and Smell the Coffee to Lights Out) with the fewest total calories.&#10;&#10;SETUP: Place the cards in the appropriate places on the board and distribute one notepad, one pencil, and one game-piece to each player. The game is for 2&ndash;4 players, ages 21 and up.&#10;&#10;RULES:&#10;&#10;1.           All players roll the die. The player with the highest roll goes first, then the turn passes to the right.&#10;&#10;2.           All players start on Wake Up &amp; Smell the Coffee.&#10;&#10;3.           The active player rolls the die once during a turn and moves his or her piece according to the number indicated.&#10;&#10;4.           The player to the left of the active player draws a card from the stack that corresponds to the space the active player lands on and reads the scenario and the options, NOT the calories.&#10;&#10;5.           The active player MUST choose one of the options. (It can be assumed that all of the food and drink options on a card are of the same serving size.)&#10;&#10;6.           The inactive player reveals the caloric value of the active player&rsquo;s choice, and the active player records that value on his or her notepad. (Each player should total his or her calories after each turn. Players may use calculators.) The inactive player then reads the remaining caloric values.&#10;&#10;7.           If a player lands on Free Time and chooses an activity to do right now, he or she MUST physically complete that activity.&#10;&#10;8.           Play repeats according to the steps above.&#10;&#10;9.           The first player to reach Lights Out deducts 100 calories.&#10;&#10;10.       The game ends when all players reach Lights Out. An exact roll of the die is NOT necessary to reach Lights Out.&#10;&#10;11.       To Win: The player with the lowest number of calories wins.&#10;&#10;12.       In the case of a tie, the winner can be determined with one of the following methods: flip a coin, roll the die, pushup contest, arm-wrestling, rock-paper-scissors, thumb-war, draw straws, or staring contest.&#10;&#10;OPTIONAL: Players may calculate the excess calories they consumed in a day and estimate how much weight they would gain in a year if they made the same choices in life that they made in the game with the equations below:&#10;&#10;total calories &ndash; 2,000 = excess daily calories&#10;&#10;excess daily calories x 365 &cedil; 3,500 = yearly weight gain&#10;&#10;LONG GAME: Play can be lengthened by circling the board more than once.&#10;&#10;CARD GAME: To play as a card game, players take turns reading cards to each other, reading one card per turn, going in order from Breakfast to Dinner. Players choose options and calculate calories as in regular play.&#10;&#10;",
+    "Categories": [
+      "Educational",
+      "Mature / Adult"
+    ],
+    "Mechanics": [
+      "Dice Rolling"
+    ],
+    "Families": [
+      "Medical: Nutrition / Dieting / Weight Loss"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "From Zona to Jerusalem",
+    "ID": 65750,
+    "Year": "(2007)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65750/from-zona-to-jerusalem",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "45",
+    "Play Time": "45",
+    "Weight": "0",
+    "Description": "Object of the Game&#10;The goal of the game is for players to follow the Exodus route (from Zona to Jerusalem) arriving the&#10;destination as soon as possible. The player arrives at Jerusalem first wins. When the player uses up the&#10;lifesaver lines and money, he/she must quit the game.&#10;&#10;Chevron Rules&#10;1. Different chevrons represent different places the player will land on. Each time the players should&#10;follow the words in the chevron to know how many chevrons they will move forward or backward.&#10;2. When the player lands on the question chevron, she/he must read out the question and answer&#10;them. According to the difficultly of the questions, the player can get different value of money.&#10;3. When the player lands on Angel chevron, then he/she can get two lifesaver cards&#10;4. When the player lands on Evil chevron, he/she will lose one lifesaver card&#10;General Rules&#10;1. Each player gets 40$ at the beginning of the game.&#10;2. Each player rolls the dice once; the player who rolls the highest goes first by rolling it again.&#10;3. Each time every player should follow the words in the chevron she/he lands on to know how many&#10;chevrons they will move forward or backward.&#10;4. When the player lands on a question chevron, he/she should answer the question. If the answer is&#10;right within one minute, the player can get cash. If answer is wrong or the player cannot answer it&#10;within one minute, he/she could choose to use his/her lifesaver cards if he/she has one. But&#10;lifesaver cards can only be used up to five times for each player. If the player has used up their&#10;lifesaver cards, he/she should quit the game. However, each time the players can choose not to&#10;answer the question by paying the same amount of dollar as they can get if the answer is right.&#10;5. If the player lands on the Angel chevron, he/she will get two lifesaver cards; if lands on the Evil&#10;chevron, he/she will lose one lifesaver card.&#10;6. If a player is leading by 10 chevrons, then he/she could challenge the opponent with his own&#10;question which is related to Bible. If the opponent wins the challenge, then he/she can move&#10;forward 2 steps. He/she has to back up three steps if he/she loses.&#10;7. The player reaches the destination first wins!&#10;&#10;",
+    "Categories": [
+      "Educational",
+      "Mature / Adult",
+      "Religious",
+      "Trivia"
+    ],
+    "Mechanics": [
+      "Dice Rolling"
+    ],
+    "Families": [
+      "Cities: Jerusalem"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Pass the Class",
+    "ID": 65751,
+    "Year": "(2007)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65751/pass-the-class",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "0",
+    "Description": "Object of the Game&#10;&#10;The game goal is to pass all four grades and get to college first!&#10;&#10;The Rules&#10;&#10;1/ The object of the game is to get to &quot;college&quot; first with a&#10;report card from each of the four English catagories from each&#10;grade 9-12.&#10;&#10;2/ Players can earn a report card by successfully answering a&#10;question from that catagory after landing on the corresponding space.&#10;&#10;3/ Players can move backwards or forward, but must move the total&#10;amount of spaces rolled on the die.&#10;&#10;4/ If a player gets a question correct, he or she may continue with&#10;another roll or more until he or she gets an answer incorrect or&#10;lands in detention.&#10;&#10;5/ If sent to detention, a player looses a turn.&#10;&#10;6/ After a player rolls out of detention, he or she can reenter anywhere in that grade level.&#10;&#10;7/ A player may, at any time, forfeit a turn to go to summer school&#10;in lieu of trying to pass a English catagory. In summer&#10;school, the player has the freedom to choose the English catagory&#10;that the question comes from.&#10;&#10;8/A player may only go to summer school to make up for one subject for each grade.&#10;&#10;9/In order to pass a grade, the player does not have to &quot;land&quot; on the finals space. Instead, the player can simply turn in 4 earned report cards to pass onto summer vacation and the next grade as he or she passes the finals space. In other words, a player cannot pass a grade level until he or she has earned three report cards.&#10;&#10;10/ If a player lands on an office card, an office card is drawn and&#10;directions are to be followed.&#10;&#10;11/ If a player lands on a library card, a library card is drawn&#10;and directions are to be followed.&#10;&#10;12/ If a player get an answer incorrect, the player to the left may&#10;at anytime &quot;steal&quot; the question and potentially earn that report card.&#10;&#10;13/ A peek pass may turn a question into multiple choice at any time. Each player has two peek passes at the start of the game. After the peek pass is used, the player must hand in that pass.&#10;&#10;14/ When a player answers a question correctly, he or she keeps that card as their report card.&#10;&#10;",
+    "Categories": [
+      "Educational",
+      "Trivia"
+    ],
+    "Mechanics": [
+      "Dice Rolling"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Silent Death Annex: Operation \u2013 Dry Dock II",
+    "ID": 65752,
+    "Year": "(2006)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.33",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/65752/silent-death-annex-operation-dry-dock-ii",
+    "Min Players": "2",
+    "Max Players": "8",
+    "Min Play Time": "120",
+    "Play Time": "120",
+    "Weight": "0",
+    "Description": "(from the back cover)&#10;&#10;Operation DryDock II is a compendium of new fighters, gunboats, and war drones, some brand new, some cobbled together from the scraps of fallen imperial might. This exciting new expansion brings more ships, more fun, and more stuff to blow up in the Silent Death universe.&#10;&#10;Nearly two dozen new ships&#10;New Datasphere technology: wardrones&#10;Long-forgotten imperial fighter designs&#10;&#10;     Bulldog&#10;     Devestator&#10;     Dominator&#10;     Yellow Jacket&#10;&#10;&#10;New fighters and gunboats for:&#10;&#10;     House Colos&#10;     Draconians&#10;     ASP Technocracy&#10;     Data Sphere&#10;     Luches Utopia&#10;     House Red Star&#10;     House Tokugawa&#10;     Unkulunkulu Archipelago&#10;&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game",
+      "Miniatures",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Hexagon Grid"
+    ],
+    "Families": [
+      "Game: Silent Death"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Vorsicht, kleiner Pirat",
+    "ID": 65757,
+    "Year": "(2002)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.00",
+    "Link": "https://boardgamegeek.com/boardgame/65757/vorsicht-kleiner-pirat",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "15",
+    "Play Time": "15",
+    "Weight": "0",
+    "Description": "As the title suggests Vorsicht, kleiner Pirat deals with water, boats and pirates.  The publisher calls the game &quot;A dice-throwing game with a surprise.&quot; The goal of the game is to bring three of your pirates first onto the island. The board is a rondel of sorts, that is moved according to the die throw. The moving rondel can also push the boats into shallow water or even swallow he pirates into the depth of the sea. The players decide whether they stay in their pirate boat or prefer to move into another boat of their own color.&#10;&#10;",
+    "Categories": [
+      "Children's Game",
+      "Nautical",
+      "Pirates"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Trivia Junior Russia",
+    "ID": 65760,
+    "Year": "(2009)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.50",
+    "Link": "https://boardgamegeek.com/boardgame/65760/trivia-junior-russia",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "0",
+    "Description": "Russia trivia game now has a junior version. Packed with 1500 fun questions that every child should know about the their country &ndash; music, sport, geography, nature, culture and much more&#10;&#10;",
+    "Categories": [
+      "Children's Game",
+      "Trivia"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Country: Russia",
+      "Series: Country Trivia (Tactic)"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Lerne Bayern kennen",
+    "ID": 65761,
+    "Year": "(1988)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.10",
+    "Link": "https://boardgamegeek.com/boardgame/65761/lerne-bayern-kennen",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "1",
+    "Description": "This is a trivia game about the German federal state of Bavaria.&#10;&#10;Players roll a die, move around the trails on the board across Bavaria and answer questions about the state. The first one to make it back to the starting space after collecting 8 cards from the different Bavarian regions and answering a final question corretly wins.&#10;&#10;",
+    "Categories": [
+      "Educational",
+      "Political",
+      "Trivia"
+    ],
+    "Mechanics": [
+      "Open Drafting",
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Country: Germany",
+      "Region: Bavaria (Germany)",
+      "Series: Lerne ... kennen (Stadt Buch Verlag Wolfgang Giesche M\u00fcnchen)"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Trivia Junior Russia",
+    "ID": 65762,
+    "Year": "(2009)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65762/trivia-junior-russia",
+    "Min Players": "2",
+    "Max Players": "0",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "0",
+    "Description": "Lively and exciting game for kids who love quiz - now in pocket size! The game consists of 600 questions in six categories: Music, Sports &amp; Games, Geography, Nature, Culture (TV shows, movies, literature), and Miscellaneous. Answer the questions and cross out 5 circles-categories with one side of the pyramid. If you are the first to correctly answer the last question, you - the are the winner!&#10;&#10;",
+    "Categories": [
+      "Children's Game",
+      "Educational",
+      "Travel",
+      "Trivia"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Country: Russia",
+      "Series: Country Trivia (Tactic)"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Russia: What Do You Know About It?",
+    "ID": 65763,
+    "Year": "(2009)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.56",
+    "Link": "https://boardgamegeek.com/boardgame/65763/russia-what-do-you-know-about-it",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "45",
+    "Play Time": "45",
+    "Weight": "0",
+    "Description": "Game &quot;Russia: what do you know about it?&quot; Consists of 2400 interesting questions about Russia and Russian people. Issues are distributed in six different disciplines: history, culture, science, geography, sports and general knowledge. During the game you learn more about their country. You also do not interfere with luck, to win this game!&#10;&#10;",
+    "Categories": [
+      "Educational",
+      "Trivia"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Country: Russia",
+      "Series: Country Trivia (Tactic)"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Latvija faktu sp\u0113le junior",
+    "ID": 65764,
+    "Year": "(2009)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.00",
+    "Link": "https://boardgamegeek.com/boardgame/65764/latvija-faktu-spele-junior",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "0",
+    "Description": "Children subject of a quiz on Latvia are interesting questions raised in 1500, with 500 of them are illustrated, and multiple choice. Questions are arranged in six groups: music, sports, geography, nature, culture and general way. Correctly answering questions, all groups in chips and go to the finish box. Wins the player who first responded to the three subsequent issues. How much do you know about your homeland? Discover, learn and have fun!&#10;&#10;",
+    "Categories": [
+      "Children's Game",
+      "Educational",
+      "Trivia"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Roll / Spin and Move",
+      "Set Collection"
+    ],
+    "Families": [
+      "Country: Latvia",
+      "Series: Country Trivia (Tactic)"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Hexe Lilli und das Geheimnis der Mumie",
+    "ID": 65765,
+    "Year": "(2009)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.00",
+    "Link": "https://boardgamegeek.com/boardgame/65765/hexe-lilli-und-das-geheimnis-der-mumie",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "20",
+    "Play Time": "20",
+    "Weight": "0",
+    "Description": "Lilly the Witch has made the leap into the era of the great excavations in Egypt and will try to solve the mystery of the mummy. What will happen when the frog is placed in the blue coffin? What if the spider in the red coffin disappears? Whoever keeps track and makes the best predictions, wins this memo game. Lilly the Witch is quite a tricky memory game for children where illustrated chips are hidden into three different sarcophagus of different colors. The game becomes harder as the game progresses.&#10;&#10;",
+    "Categories": [
+      "Children's Game",
+      "Fantasy",
+      "Memory",
+      "Movies / TV / Radio theme"
+    ],
+    "Mechanics": [
+      "Memory"
+    ],
+    "Families": [
+      "Books: Lilly the Witch",
+      "Theme: Witches"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "ID": 65766,
+    "Year": "(2009)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65766/ukrayina",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "45",
+    "Play Time": "45",
+    "Weight": "0",
+    "Description": "In Ukraine you have 400 cards with 2400 questions from six categories: History, Culture, Nature, Geography, Sport and Miscellaneous. Vast majority of questions concern Ukraine only. Collect a token from each category to begin your winning journey to the center square.&#10;&#10;",
+    "Categories": [
+      "Educational",
+      "Trivia"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Country: Ukraine",
+      "Series: Country Trivia (Tactic)"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Ukraine Trivia Travel",
+    "ID": 65767,
+    "Year": "(2009)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "8.00",
+    "Link": "https://boardgamegeek.com/boardgame/65767/ukraine-trivia-travel",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "45",
+    "Play Time": "45",
+    "Weight": "0",
+    "Description": "An interesting quiz game about the Ukraine - now in a handy travel size edition! The game includes 600 questions divided into six categories, which are History, Culture, Science, Geography, Sport and Miscellaneous&#10;&#10;",
+    "Categories": [
+      "Educational",
+      "Travel",
+      "Trivia"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Country: Ukraine",
+      "Series: Country Trivia (Tactic)"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Mimelen",
+    "ID": 65768,
+    "Year": "(2008)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.50",
+    "Link": "https://boardgamegeek.com/boardgame/65768/mimelen",
+    "Min Players": "3",
+    "Max Players": "0",
+    "Min Play Time": "20",
+    "Play Time": "20",
+    "Weight": "1",
+    "Description": "Preparation:&#10;1.Select one of the three packs of playing cards. The maps with images used as the other cards would be difficult for one or more players not so well read. &#10;2.Sit somewhere where the players enough space have their role to play.&#10;3.The players go sit in a circle so every one player whose turn it is good to see. The board is put down in the middle .. The hourglass and the dice for the youngest player down. &#10;4.The pack of cards was selected vice versa (i.e. with the text down) next to the sign down.&#10;5.The players choose a pawn and put in the triangular box at the start board.&#10;&#10;The game:&#10;1.The youngest player starts and throws the dice.&#10;2.He draws the first card from the pack. The number of eyes of the dice determines the number of category on the card to be portrayed.&#10;3.He remembers what to portray, flip the hourglass and goes as long portraying until the hourglass is completely gone.&#10;Caution! All gestures and sounds are allowed, but words can express absolute last resort.&#10;Players who have not read so well do not on the numbers of the dice to watch and the picture images on the card they have drawn out.&#10;4.The other players try to guess what is depicted. Each player must answer if he to turn (the first player left of the guesser and then continue with the clockwise (note):&#10;- If a player gives a wrong answer, the turn the hands of the clockwise to the next player.&#10;- If a player gives a correct answer, he may be pawn on the board and put forward two squares, the guesser his pawn one square put forward.&#10;- If no player has given a correct answer before the hourglass is gone, nobody should be oppose pawn. In all cases the turn then to the hands of the clockwise to the next player.&#10;&#10;Winner:&#10;The player who first reaches the last slot is the winner. It is not necessarily to arrive with exact number of spaces.&#10;&#10;",
+    "Categories": [
+      "Children's Game",
+      "Humor"
+    ],
+    "Mechanics": [
+      "Acting",
+      "Dice Rolling"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Vraag het KUS",
+    "ID": 65769,
+    "Year": "(2008)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65769/vraag-het-kus",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "20",
+    "Play Time": "20",
+    "Weight": "0",
+    "Description": "From the box! The best questions and answer game. With 300 questions about KUS (local girl band - translation KISS) and other issues that you like. Win by getting most cards! Number of cards needed is decided between players.&#10;&#10;",
+    "Categories": [
+      "Trivia"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Roll / Spin and Move"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Haribo: Die gro\u00dfe Gummib\u00e4rchen-Jagd",
+    "ID": 65770,
+    "Year": "(2002)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "3.00",
+    "Link": "https://boardgamegeek.com/boardgame/65770/haribo-die-grosse-gummibarchen-jagd",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "0",
+    "Description": "Each player has up to four gummy bears of their color. They bring more bears gradually into the game and send them off for the trusted Gummy Bear home trying to run away from the hairy, scary Gummy Bear. This is done by throw of dice. The player throws not only for his own movement but also for the pursuer, the Hairy Gummy Bear. If the Hairy Gummy Bear lands on a field with one of the players' bears, these capured bears are put in the center of the board, he is not freed until another bear is captured.  The player who manages first to bring all of their color gummy bears safely home wins the game&#10;&#10;",
+    "Categories": [
+      "Children's Game",
+      "Fantasy"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Promotional: Board Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Kosmolino: Kennst Du die Uhr?",
+    "ID": 65771,
+    "Year": "(2009)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.00",
+    "Link": "https://boardgamegeek.com/boardgame/65771/kosmolino-kennst-du-die-uhr",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "15",
+    "Play Time": "15",
+    "Weight": "1",
+    "Description": "A game that offers several games in one but each tied together by the theme of setting the time in a clock and learning together to help children to learn about time. The gameplay evolves around the play of cards with different situations that occur during the day The figure of identification cards with Leon pretend situations. Each card has a color frame that situates the event to a certain time of the day, the players should then try to set the clock to match the correct time of the day. Th game can also be played as a memo game.&#10;&#10;",
+    "Categories": [
+      "Children's Game",
+      "Educational",
+      "Memory"
+    ],
+    "Mechanics": [
+      "Memory"
+    ],
+    "Families": [
+      "Series: Scout (Kosmos)"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Die kleinen Lerndrachen: Mein Trainingsspiel 1. Schuljahr \u2013 Konzentration",
+    "ID": 65772,
+    "Year": "(2009)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65772/die-kleinen-lerndrachen-mein-trainingsspiel-1-schu",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "15",
+    "Play Time": "15",
+    "Weight": "0",
+    "Description": "An educative game for children who have just started/starting primary school. Part of the &quot;Kleinen Lerndrachen&quot;-family of games from Kosmos.&#10;&#10;The Learning Dragons, Lizzy and Lenny are at the flea market and see mirrors, clocks and much more. But the bus is leaving and the little dragons must hurry! Help them to gather the great stuff they need. The players race against the clock as they try to find the necessary items. Find the right ones and you get to keep it. The player who is first back on the bus is the winner!&#10;&#10;A memory game for children.&#10;&#10;",
+    "Categories": [
+      "Children's Game",
+      "Educational",
+      "Memory"
+    ],
+    "Mechanics": [
+      "Memory",
+      "Set Collection"
+    ],
+    "Families": [
+      "Series: Die kleinen Lerndrachen (Kosmos)"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Die kleinen Lerndrachen: Mein Trainingsspiel 1. Schuljahr \u2013 Lesen",
+    "ID": 65773,
+    "Year": "(2009)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65773/die-kleinen-lerndrachen-mein-trainingsspiel-1-schu",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "15",
+    "Play Time": "15",
+    "Weight": "0",
+    "Description": "Part of the &quot;Kleinen Lerndrachen&quot; educative game series from Kosmos.&#10;&#10;The players try to find the appropriate letters for words on the cards, the player with the most cards wins. The letters cards are laid out in groups of three, next to the stack of cards. From that stack you look at the first letter card - look at the three displayed word cards and see if there is a match.  If they match you get both cards and may try it next card from the pile.&#10;&#10;",
+    "Categories": [
+      "Children's Game",
+      "Educational",
+      "Word Game"
+    ],
+    "Mechanics": [],
+    "Families": [
+      "Series: Die kleinen Lerndrachen (Kosmos)"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Saviors of My Country",
+    "ID": 65774,
+    "Year": "(2005)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.50",
+    "Link": "https://boardgamegeek.com/boardgame/65774/saviors-of-my-country",
+    "Min Players": "2",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "2",
+    "Description": "&quot;The decisive battle in the war to liberate Venezuela from Spanish rule was fought at Carabobo in 1821.&quot;&#10;&#10;&quot;The royalist army held the high ground so the rebel army under the command of Simon Bolivar was forced to attempt a bloody attack. With the help of British volunteers the rebels won the battle. After the battle Bolivar, who was born in Venezuela, called the men &quot;Salvadores de mi Patria&quot; (saviours of my country).&quot;&#10;&#10;This miniatures wargame is intended for classroom use with two teams of students (grades 6-8). The game is designed to be played on a 7.5x5 foot table using 1/72 scale plastic miniatures. Free print-and-play paper miniatures are also provided for use with the rules.&#10;&#10;The streamlined &quot;fast and easy&quot; rules encompass unit formations, charges, commanders, and morale.&#10;&#10;",
+    "Categories": [
+      "Educational",
+      "Miniatures",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling"
+    ],
+    "Families": [
+      "Country: Spain",
+      "Country: Venezuela",
+      "History: Latin American Wars of Independence"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "The Fate of a Continent",
+    "ID": 65775,
+    "Year": "(2005)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.50",
+    "Link": "https://boardgamegeek.com/boardgame/65775/the-fate-of-a-continent",
+    "Min Players": "2",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "2",
+    "Description": "&quot;By 1824 the liberation of South America from Spanish rule was nearly complete. The last remaining seat of Spanish power was in Peru.&quot;&#10;&#10;&quot;The final battle was fought on December 9 at Ayacucho. Shouting 'Paso de vencedores'(onward to victory). General Cordoba led the right wing of the rebel army in the attack that finally broke the back of the royalist army. This decisive battle marked the end of Spanish colonial rule in South America.&quot;&#10;&#10;This miniatures wargame is intended for classroom use with two teams of students (grades 6-8). The game is designed to be played on a 7.5x5 foot table using 1/72 scale plastic miniatures. Free print-and-play paper miniatures are also provided for use with the rules.&#10;&#10;Infantry and cavalry figures are mounted two to a base. It takes six bases to make an infantry or cavalry unit, with an infantry unit representing about 400 men and a cavalry unit representing 200. The Rebels begin with 15 units and the Royalists 19.&#10;&#10;",
+    "Categories": [
+      "Educational",
+      "Miniatures",
+      "Post-Napoleonic",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling"
+    ],
+    "Families": [
+      "History: Latin American Wars of Independence"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Hexe Lilli: Hexe Lillis gro\u00dfes Geheimnis",
+    "ID": 65776,
+    "Year": "(2009)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.00",
+    "Link": "https://boardgamegeek.com/boardgame/65776/hexe-lilli-hexe-lillis-grosses-geheimnis",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "15",
+    "Play Time": "15",
+    "Weight": "0",
+    "Description": "Lilly the Witch can read minds. The players should also try to find out and think about what motive Lilly thinks of. Gameplay: Cards and game tablets are placed face up, and players each take magic stones from the store. The players should then choose a theme in their mind, and shall then on each tablet on which the motive is put a magic stone. Then all players guess what the theme is. The first player cover the correct card (with the correct theme) with his hand gets the card. If no one guesses the card goes to the Lilly-player. 12 motives are awarded, the player with the highest number of motives wins.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Children's Game",
+      "Fantasy"
+    ],
+    "Mechanics": [
+      "Simultaneous Action Selection"
+    ],
+    "Families": [
+      "Books: Lilly the Witch",
+      "Theme: Witches"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "There Stands Jackson",
+    "ID": 65778,
+    "Year": "(2005)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.50",
+    "Link": "https://boardgamegeek.com/boardgame/65778/there-stands-jackson",
+    "Min Players": "2",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "2",
+    "Description": "&quot;When the American Civil War began both sides were expecting the issue to be settled quickly, by one decisive battle. The Union was enlisting men for just three months! The first battle took place around Bull Run river (the battle is also known as First Manassas).&quot;&#10;&#10;&quot;The battle was a chaotic affair. Neither army had been properly trained, and the bewildering assortment of uniforms led to confusion. The main battle centered around Henry Hill. General Jackson's brigade occupied the hill and held the position against a series of piecemeal Union attacks, leading to the comment 'There stands Jackson, like a stone wall.' Jackson had his nickname, and the Confederates had their first victory.&quot;&#10;&#10;&quot;This scenario focuses on the fight for Henry Hill from noon until about 4 PM, when Early's Brigade arrived to seal the Confederate victory.&quot;&#10;&#10;A miniatures wargame intended for classroom use with two teams of students (grades 6-8). The game is designed to be played on a 7.5x7 foot table using 1/72 scale plastic miniatures. Free print-and-play paper miniatures are also provided for use with the rules.&#10;&#10;The streamlined &quot;fast and easy&quot; rules encompass unit formations, dismounted cavalry, terrain, line of sight, charges, commanders, and morale.&#10;&#10;",
+    "Categories": [
+      "American Civil War",
+      "Educational",
+      "Miniatures",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling"
+    ],
+    "Families": [
+      "States: Virginia"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Damn the Torpedoes!",
+    "ID": 65782,
+    "Year": "(2006)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.00",
+    "Link": "https://boardgamegeek.com/boardgame/65782/damn-the-torpedoes",
+    "Min Players": "2",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "2",
+    "Description": "&quot;On August 5, 1864, Admiral Farragut led a flotilla of 14 wooden ships, four ironclads, and numerous gunboats into Mobile Bay to seal off the city of Mobile, one of the two remaining Confederate ports.&quot;&#10;&#10;&quot;While entering the bay, the Union monitor USS Tecumseh struck a submerged torpedo and sank. Under fire from both the Confederate fleet and Fort Morgan, Farragut had to choose between retreating or risking the minefield. He then issued his famous order, 'Damn the torpedoes! Full speed ahead!'&quot;&#10;&#10;&quot;Though both ironclad and wooden ships fought at Mobile Bay, this game gives players the opportunity to see how an all ironclad engagement may have been fought with ships of varying designs, and consider the trade offs naval engineers must make when designing a warship.&quot;&#10;&#10;This &quot;build your own ironclad&quot; game is a miniatures wargame intended for use with students. The game is designed to be played on a 7.5x5 foot table which recreates characteristics of Mobile Bay, including islands, forts, water depth, pilings, and mines. Components necessary for play are available for free download at the Junior General website.&#10;&#10;",
+    "Categories": [
+      "American Civil War",
+      "Educational",
+      "Miniatures",
+      "Nautical",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "We are the Flank",
+    "ID": 65784,
+    "Year": "(2005)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.50",
+    "Link": "https://boardgamegeek.com/boardgame/65784/we-are-the-flank",
+    "Min Players": "2",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "2",
+    "Description": "&quot;The Big Fight for Little Round Top. Fast and Easy Rules for Replaying Part of the Battle of Gettysburg.&quot;&#10;&#10;&quot;The Confederate attack on Devil's Den and Little Round Top was the subject of considerable controversy. It began late in the day and was marked by confusion and a general lack of coordination. The terrain was partly responsible for this.&quot;&#10;&#10;&quot;Oates' 15th Alabama was given the difficult task of assaulting up the hill. They ran into Chamberlain's 20th Maine, which was defending the far left flank of the Union army. Several charges were turned back. Finally, with his men low on ammunition, Chamberlain ordered a bayonet charge, which finished off the weary confederates.&quot;&#10;&#10;This is a miniatures wargame intended for classroom use (grades 6-8). The game is designed to be played on a 7.5x5 foot table using 1/72 scale miniatures. Aspects covered in the rules include infantry formations, sharpshooters, protective cover, commanders, charges, and morale.&#10;&#10;",
+    "Categories": [
+      "American Civil War",
+      "Educational",
+      "Miniatures",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling"
+    ],
+    "Families": [
+      "History: Battle of Gettysburg",
+      "States: Pennsylvania"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "General Lee, I Have No Division!",
+    "ID": 65785,
+    "Year": "(2007)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.50",
+    "Link": "https://boardgamegeek.com/boardgame/65785/general-lee-i-have-no-division",
+    "Min Players": "2",
+    "Max Players": "0",
+    "Min Play Time": "90",
+    "Play Time": "90",
+    "Weight": "2",
+    "Description": "&quot;Pickett&rsquo;s charge [at the Battle of Gettysburg] will always be remembered as a tragic desperate maneuver.&quot;&#10;&#10;&quot;After the failure of the Confederate artillery to destroy the Union defenses, and the quick counter fire from the Union artillery, Lee entrusted Longstreet with three divisions: Trimble, Pettigrew, and Pickett. Those three divisions charged across a field of fire a mile in length, and up a sloping hill towards the muskets and cannons waiting for them at the top . . . The day ended in defeat for the Confederates. Pickett&rsquo;s Division was utterly destroyed.&quot;&#10;&#10;This is a miniatures wargame intended for classroom use with students in grades 6 to 8. The game is designed to be played on a 7.5x5 foot table using 1/72 scale miniatures. Two orders of battle are presented - one for a fast play game of 45 to 90 minutes, and a second order of battle for a longer game.&#10;&#10;",
+    "Categories": [
+      "American Civil War",
+      "Educational",
+      "Miniatures",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling"
+    ],
+    "Families": [
+      "History: Battle of Gettysburg",
+      "States: Pennsylvania"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Table Top Bowling",
+    "ID": 65787,
+    "Year": "(1960)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.00",
+    "Link": "https://boardgamegeek.com/boardgame/65787/table-top-bowling",
+    "Min Players": "1",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "From the box cover: Real Bowling played at home. Authentic Plastic skill game, hardwood bowling pins,  balls return automatically.&#10;&#10;Game is played with hardwood pins using marbles as bowling balls. The pin deck is sloped so that the marbles return to you after having been rolled.&#10;&#10;",
+    "Categories": [
+      "Action / Dexterity"
+    ],
+    "Mechanics": [],
+    "Families": [
+      "Sports: Bowling"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Roman Circus Chariot Race",
+    "ID": 65789,
+    "Year": "(1973)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.88",
+    "Link": "https://boardgamegeek.com/boardgame/65789/roman-circus-chariot-race",
+    "Min Players": "2",
+    "Max Players": "12",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "0",
+    "Description": "As it puts it in the introduction to the rules, Roman Circus Chariot Race is &quot;a light-hearted attempt to recreate some of the incidents and excitement of these races in the form of a game&quot;.&#10;&#10;The game provides a thorough but accessible and easy to follow rules set that includes charts for resolving Whip Attacks, Bridle Snatching, Ramming, Heading Off, Collisions, Jumping Wrecks, Charioteers thrown from their chariot, loss of wheels and Chariot Wrecks.&#10;&#10;The boxed game includes the rules, two pages of reference charts, a small hex board representing a simple racing circuit, and cardboard cut-out counters for chariots and charioteers.  Players must supply their own standard 6-sided dice and 20-sided decimal dice.  Miniatures are optional.&#10;&#10;",
+    "Categories": [
+      "Miniatures",
+      "Racing"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Ancient: Rome",
+      "Sports: Chariot Racing"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Pocket Size Bowling Card Game",
+    "ID": 65790,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65790/pocket-size-bowling-card-game",
+    "Min Players": "1",
+    "Max Players": "4",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Game of bowling from Warren Paper Products circa 1950's. Game features bowling pin shaped cards. From the box cover: For sports fans ages 8 and up. Make strikes, spares, fouls, splits, and turkeys.&#10;&#10;",
+    "Categories": [
+      "Card Game"
+    ],
+    "Mechanics": [],
+    "Families": [
+      "Sports: Bowling"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "L'Etape du Jaune",
+    "ID": 65797,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65797/letape-du-jaune",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "20",
+    "Play Time": "20",
+    "Weight": "0",
+    "Description": "French cycling game published in the '90s about the Tour de France. What makes it very unusual is that the pawns used for player movement are large drinking glasses!&#10;&#10;",
+    "Categories": [
+      "Sports"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Sports: Bicycling / Cycling"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "La Vuelta a Espa\u00f1a",
+    "ID": 65799,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65799/la-vuelta-a-espana",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "20",
+    "Play Time": "20",
+    "Weight": "0",
+    "Description": "Spanish board game published in the '90s about the Tour of Spain.&#10;&#10;Players move their pawns over the board with the use of a dice and travel through Spain starting traveling through regions like Castillia, Extremadura, Galicia, Asturias, Pais Vasco and Aragon to the finish in Madrid. He who reaches Madrid first wins the game.&#10;&#10;",
+    "Categories": [
+      "Sports"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Country: Spain",
+      "Sports: Bicycling / Cycling",
+      "Sports: La Vuelta a Espa\u00f1a"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Ciclocorsa",
+    "ID": 65800,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65800/ciclocorsa",
+    "Min Players": "2",
+    "Max Players": "5",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "0",
+    "Description": "Italian boardgame published by a company from Milan in the 1950's. Comas with a board and 5 teams of metal cyclists (4 per team) painted in orange, yellow, red, green &amp; white.&#10;&#10;",
+    "Categories": [
+      "Sports"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Sports: Bicycling / Cycling"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Jeu Circuit du Kochersberg",
+    "ID": 65801,
+    "Year": "(1987)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65801/jeu-circuit-du-kochersberg",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "20",
+    "Play Time": "20",
+    "Weight": "0",
+    "Description": "French cycling game published by a bicycle touring club from Strasbourg to celebrate their 20th anniversary. The board consists of six parts that have to be puzzled together; also included are 4 pawns (in red, green, blue &amp; yellow) and two dice (in green &amp; red).&#10;&#10;",
+    "Categories": [
+      "Sports"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Admin: Better Description Needed!",
+      "Sports: Bicycling / Cycling"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Le Tour de France - Jeu Officiel",
+    "ID": 65802,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65802/le-tour-de-france-jeu-officiel",
+    "Min Players": "2",
+    "Max Players": "3",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "0",
+    "Description": "French cycling game published during the 1950's in St.-Etienne on the Tour de France. The game can be played with up to three teams (in green, white &amp; red). Each team consists of three riders. There is also is one yellow rider for the Tour leader. Although there is a map of France in the game this is not the gameboard. Instead there are three small boards.&#10;&#10;",
+    "Categories": [
+      "Sports"
+    ],
+    "Mechanics": [
+      "Dice Rolling"
+    ],
+    "Families": [
+      "Country: France",
+      "Sports: Bicycling / Cycling",
+      "Sports: Tour de France"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Das new vnd kurtz weillige Eullen Spiegel",
+    "ID": 65804,
+    "Year": "(1650)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65804/das-new-vnd-kurtz-weillige-eullen-spiegel",
+    "Min Players": "0",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "You play with money and dice at a round gameboard, with an owl in the middle.&#10;&#10;The literal translation of the High German name &quot;Eulenspiegel&quot; gives &quot;owl mirror&quot;. However, the original Low German is believed to be ul'n Spegel, meaning &quot;wipe the arse&quot;.&#10;&#10;",
+    "Categories": [
+      "Dice"
+    ],
+    "Mechanics": [],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Das Affen-Spiel",
+    "ID": 65805,
+    "Year": "(1780)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65805/das-affen-spiel",
+    "Min Players": "0",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "A roll and move game, with two dice, published in Nuremberg. You will find some monkeys [Affen] on the gameboard. If the monkey looks forward, you can go forward. But if the monkey looks backward, you must go to the starting position.&#10;&#10;",
+    "Categories": [
+      "Dice"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Animals: Apes / Monkeys"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Jeu de Cosaques",
+    "ID": 65806,
+    "Year": "(1814)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65806/jeu-de-cosaques",
+    "Min Players": "0",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "A roll and move game published in the Hague. In the corners of the gameboard one can see pictures from Moscow.&#10;&#10;",
+    "Categories": [
+      "Dice"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Picsoutour",
+    "ID": 65807,
+    "Year": "(1983)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65807/picsoutour",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "20",
+    "Play Time": "20",
+    "Weight": "0",
+    "Description": "French game about the Tour de France. Although movement is determined by a dice roll it does come with special rules for mountain &amp; sprint sections.&#10;&#10;",
+    "Categories": [
+      "Children's Game",
+      "Sports"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Sports: Bicycling / Cycling"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Jagd-Spiel",
+    "ID": 65808,
+    "Year": "(1825)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65808/jagd-spiel",
+    "Min Players": "0",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "A roll-and-move game published in Nuremberg. The gameboard depicts animals.&#10;&#10;",
+    "Categories": [
+      "Dice"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Sports: Hunting"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Neues Affen-Spiel",
+    "ID": 65809,
+    "Year": "(1825)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65809/neues-affen-spiel",
+    "Min Players": "0",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "A roll and move game published in Nuremberg. If your counter hits a square with a special monkey (number 1, 7, 13 19 and 25), you must start from the beginning of the game and pay 3 Mark. The other monkeys pay 2 Mark.&#10;&#10;",
+    "Categories": [
+      "Dice"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Animals: Apes / Monkeys"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Sisyphos",
+    "ID": 65810,
+    "Year": "(2007)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.67",
+    "Link": "https://boardgamegeek.com/boardgame/65810/sisyphos",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Two player game in which one player plays Sisyphos and tries to roll stones into the other player's corner, while the other player plays the mountain spirits that try to prevent Sisyphos from achieving his goal.&#10;Movement is limited to moving one square ahead in one of three directions. When a piece lands on an opponent's piece, the opponent's piece is temporarily out of the game, but can later re-enter in the corner square, or near it.&#10;The spirits win when one of them reaches the opposing corner square, or if Sisyphos cannot move one of his stones into their corner within 50 turns. If Sisyphos manages in time, he is the winner.&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy"
+    ],
+    "Mechanics": [
+      "Area Movement"
+    ],
+    "Families": [
+      "Components: 5 x 5 Grids",
+      "Containers: Tubes",
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Dass Gl\u00fcck- und Ungl\u00fccks-Spihl",
+    "ID": 65813,
+    "Year": "(1683)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/65813/dass-gluck-und-unglucks-spihl",
+    "Min Players": "0",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "A game published in Augsburg (?). The gameboard is divided in a fortunate left side and an unfortunate right side. Both sides have 10 circles each and in these circles two dice are depicted. The throw of the two dice will decide the fortune of the player.&#10;&#10;",
+    "Categories": [
+      "Dice"
+    ],
+    "Mechanics": [
+      "Dice Rolling"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Mirador",
+    "ID": 65822,
+    "Year": "(2010)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.71",
+    "Link": "https://boardgamegeek.com/boardgame/65822/mirador",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "20",
+    "Play Time": "20",
+    "Weight": "2.5",
+    "Description": "Game published in January 2010 in Games Magazine&#10;&#10;Mirador is a connection game played on a 27 x 27 grid of small squares. It can be played on graph paper (by marking off a 27 x 27 area) using coloured pencils to indicate the placement of watchtowers, or miradors, each of which will occupy a 2 x 2 square.&#10;&#10;Several factors combine to make this a very fast and unusual game: line-of-sight connection (which is a feature of Sid Sackson's game Network); graded placement (incorporating the use of micro squares); and equivalent goals - that is, either player can win by connecting the board edges either from north to south or from east to west.&#10;&#10;A significant feature of the game is that players can use their opponent's placements to facilitate their own connections. So, in trying to win the race to connect, you must check that the next move you plan to make doesn't inadvertently improve your opponent's chances more than yours.&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy"
+    ],
+    "Mechanics": [
+      "Line of Sight",
+      "Paper-and-Pencil",
+      "Square Grid"
+    ],
+    "Families": [
+      "Category: Combinatorial",
+      "Digital Implementations: Abstract Play",
+      "Digital Implementations: Super Duper Games",
+      "Mechanism: Connection",
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Guilin Zhipai",
+    "ID": 65823,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.50",
+    "Link": "https://boardgamegeek.com/boardgame/65823/guilin-zhipai",
+    "Min Players": "4",
+    "Max Players": "4",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "0",
+    "Description": "Also known as &quot;Er Qi Shi&quot; or &quot;2-7-10&quot; is a traditional Chinese card game, closely related to Majiang and the Rummy family of games.  It can be found in Guang Xi province of southern China, particularly to the city of Guilin (from which it derives one of its names), as well as in Sichuan province (specifically Leshan where a particularly ornate style of writing for the numerals is used) and in the city of Chongqing.  It is rare, but not unheard of, to see it played outside of these environs.&#10;&#10;It is traditionally played by 4 people, three players and one dealer. Cards are divided into two suits - informal and formal characters numbered from 1-10 and one &quot;Phoenix&quot; or joker card. There are 4 duplicates of each, with the 2's, 7's and 10's of both suits picked out in red (which are worth extra points when scoring).  Play proceeds in a manner similar to Majiang, with players attempting to create a variety of different &quot;melds&quot; or special hands, with the winner's score being calcualted on the strength of his or her hand.&#10;&#10;",
+    "Categories": [
+      "Card Game"
+    ],
+    "Mechanics": [
+      "Betting and Bluffing",
+      "Hand Management",
+      "Set Collection"
+    ],
+    "Families": [
+      "Country: China",
+      "Traditional Card Games: Rummy"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "A Touch of Evil: Volgovian Nutcracker",
+    "ID": 65826,
+    "Year": "(2009)",
+    "Geek Rating": "5.559",
+    "Avg Rating": "7.44",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/65826/a-touch-of-evil-volgovian-nutcracker",
+    "Min Players": "0",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "2",
+    "Description": "From Flying Frog's Website:&#10;&#10;&quot;This is an all new, web-exclusive Villain for A Touch of Evil, The Supernatural Game. To use this new villain in your games, save and print all four of the above PDF files (Villain Record Sheet, Minion Charts, and Counter Sheet).&quot;&#10;&#10;This free official print-and-play expansion allows the Heroes to combat a new Villain, the Volgovian Nutcracker, and gives you all you need to include it in the game. It has different powers from the other villains, and has a set of new minions provided as tokens as well as a token for the Christmas Caravan and the Nutcracker itself.&#10;&#10;The Volgovian Nutcracker was made available just prior to Christmas 2009.&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game",
+      "Print & Play"
+    ],
+    "Mechanics": [],
+    "Families": [
+      "Series: A Touch of Evil"
+    ]
+  }
+]

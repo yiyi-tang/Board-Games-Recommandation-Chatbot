@@ -147,7 +147,7 @@ if __name__ == "__main__":
 
         game_list = get_bgg_page(i, error_list)
 
-        with open(f"bgg_data_{i}.json", "w") as f:
+        with open(f"data/bgg_data_{i}.json", "w") as f:
             json.dump(game_list, f, indent=2)
 
         print("Saving page", i, "at time", time.time() - start_time)

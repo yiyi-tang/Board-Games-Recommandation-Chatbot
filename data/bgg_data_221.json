@@ -1,0 +1,2729 @@
+[
+  {
+    "Rank": "22001",
+    "Name": "The High Crusade",
+    "ID": 6917,
+    "Year": "(1983)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "6.03",
+    "Link": "https://boardgamegeek.com/boardgame/6917/the-high-crusade",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "45",
+    "Play Time": "45",
+    "Weight": "2.8",
+    "Description": "Ares Magazine #16. 1345 AD, Aliens land a starship on earth, unfortunately the local knights defeat the aliens, and steal the starship. Thus starts the crusade against the aliens, with some help from independent races. Based on the novel of the same name by Poul Anderson.&#10;&#10;",
+    "Categories": [
+      "Medieval",
+      "Novel-based",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Hexagon Grid"
+    ],
+    "Families": [
+      "Components: Map (Interplanetary or Interstellar scale)",
+      "Magazine: Ares",
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "22002",
+    "Name": "Nautic Miles",
+    "ID": 6806,
+    "Year": "(1977)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "6.08",
+    "Link": "https://boardgamegeek.com/boardgame/6806/nautic-miles",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "1.6",
+    "Description": "This game is a distant relative of Mille Bornes.&#10;&#10;You play Convoy cards hidden and try to take them across (accumulate 4000 nautical miles). When an Alert is played, the convoy is vulnerable to attack by warships (carrier beats destroyer beats frigate and so on down to the sub, but two subs beat the carrier); if you cannot defend against the attack, your convoy is sunk (score is based on the convoy's tonnage). Otherwise it survives and the alert is passed. You can play an End of Alert, of course. Two Airplane cards in a row (by the same player) will also sink the convoy; the Airplane Hit card defends. The Mine sinks the convoy outright unless a Minesweeper is played. The Storm slows you down but you cannot be attacked except by the Mine. You can fly the Neutral pavilion, which protects you against anything but the Mine.&#10;&#10;Radar cards can reveal the convoy's value. This may be good, revealing the decoy Fishing Trawler (of no value), or bad --the revealed convoy is worth double, either to the sinker or the player!&#10;&#10;The game is played in several hands until a set score is reached.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Nautical",
+      "Wargame",
+      "World War II"
+    ],
+    "Mechanics": [
+      "Hand Management",
+      "Secret Unit Deployment"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "22003",
+    "Name": "Birth of a Nation",
+    "ID": 5922,
+    "Year": "(1982)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "5.87",
+    "Link": "https://boardgamegeek.com/boardgame/5922/birth-of-a-nation",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "120",
+    "Play Time": "240",
+    "Weight": "2.4",
+    "Description": "&quot;Birth of a Nation&quot; first published in The Wargamer Magazine (#18) Jan-Feb 1982, is a two-player company level wargame simulation of the battle of Freeman's Farm (Saratoga), Sept. 19, 1777.&#10;&#10;Points are awarded to the British player for Victory point hexes occupied and for un-demoralized units.  The number of points gained determines the level of victory for both sides.&#10;&#10;",
+    "Categories": [
+      "Age of Reason",
+      "American Indian Wars",
+      "American Revolutionary War",
+      "Civil War",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Line of Sight",
+      "Movement Points",
+      "Ratio / Combat Results Table",
+      "Scenario / Mission / Campaign Game",
+      "Simulation",
+      "Zone of Control"
+    ],
+    "Families": [
+      "Country: Great Britain",
+      "Country: USA",
+      "History: Age of Kings",
+      "Magazine: The Wargamer",
+      "Players: Two-Player Only Games",
+      "Players: Wargames with Rules Supporting Only Two Players",
+      "Theme: Native Americans / First Peoples"
+    ]
+  },
+  {
+    "Rank": "22004",
+    "Name": "Clue Mysteries",
+    "ID": 17517,
+    "Year": "(2005)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "5.62",
+    "Link": "https://boardgamegeek.com/boardgame/17517/clue-mysteries",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "1.4857",
+    "Description": "From the publisher:&#10;&#10;Clue Mysteries Game Parker Brothers and Hasbro Games.&#10;&#10;50 compelling cases to solve!&#10;&#10;In this prequel to the Clue Detective Games, John Boddy and his attorney, Miles Meadow-Brook are still alive. But 12 delightfully deceitful Clue characters are plotting their demise, and turning Hampshire into a hotbed of petty crimes. Inspector Brown's casebook is bulging with unsolved mysteries, and he needs your help to solve them.&#10;&#10;Choose a mystery, then travel along the Hampshire gameboard to question witnesses and decode their clues. Inspector Brown will tell you if anyone's lying. And Mr. Boddy knows where the guilty party is hiding!&#10;&#10;Re-implements:&#10;&#10;    The Mysteries of Peking&#10;&#10;&#10;",
+    "Categories": [
+      "Murder / Mystery"
+    ],
+    "Mechanics": [
+      "Point to Point Movement",
+      "Role Playing"
+    ],
+    "Families": [
+      "Game: Cluedo / Clue (Parker Brothers, et al)"
+    ]
+  },
+  {
+    "Rank": "22005",
+    "Name": "The Boy Who Cried Wolf",
+    "ID": 268880,
+    "Year": "(2018)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "5.81",
+    "Link": "https://boardgamegeek.com/boardgame/268880/the-boy-who-cried-wolf",
+    "Min Players": "3",
+    "Max Players": "5",
+    "Min Play Time": "15",
+    "Play Time": "15",
+    "Weight": "1",
+    "Description": "Stuck on boring sheep duty again. Everyone knows there haven't been any wolf attacks in months. Maybe it's time to make this job a little more exciting: I'll cry wolf and see who comes running!&#10;&#10;Can't wait to see the looks on their faces... hey, what was that noise?&#10;&#10;The Boy Who Cried Wolf is a bluffing game for 3-5 players. Each player takes a turn as the &quot;boy&quot; and will look at the top card of the deck and either cry wolf or pass. The deck is filled with lots of sheep and just a few scary wolves. If a boy cries wolf, each player decides whether he is telling the truth or lying. After they all give a thumbs up or thumbs down, the card is revealed. If it was a lie, the boy gets points for each player that fell for it. If it was the truth, players that thought it was a lie will lose points. Play until a player reaches 10 points, or 5 wolves attack.&#10;&#10;",
+    "Categories": [
+      "Bluffing",
+      "Card Game"
+    ],
+    "Mechanics": [
+      "Voting"
+    ],
+    "Families": [
+      "Containers: Wallets",
+      "Series: Wallet Games (Button Shy)"
+    ]
+  },
+  {
+    "Rank": "22006",
+    "Name": "Tatamokatsu",
+    "ID": 299568,
+    "Year": "(2020)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "5.91",
+    "Link": "https://boardgamegeek.com/boardgame/299568/tatamokatsu",
+    "Min Players": "2",
+    "Max Players": "5",
+    "Min Play Time": "15",
+    "Play Time": "0",
+    "Weight": "1",
+    "Description": "To win this game, you have to be fast, agile, and ready to do anything... Not even your fingers will be spared!&#10;&#10;In Tatamokatsu, throw the three dice together with only one hand, announce the sum out loud, then take the corresponding action. Depending on the result, some players will lose the use of some of their fingers! So sharpen your reflexes as only the most valiant warrior can claim the title of samurai!&#10;&#10;Tatamokatsu is an original and hilarious party game to play with friends everywhere.&#10;&#10;",
+    "Categories": [
+      "Action / Dexterity",
+      "Dice",
+      "Humor",
+      "Party Game"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Player Elimination"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "22007",
+    "Name": "Lucky Jack",
+    "ID": 344251,
+    "Year": "(2021)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "6.00",
+    "Link": "https://boardgamegeek.com/boardgame/344251/lucky-jack",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "20",
+    "Play Time": "20",
+    "Weight": "1",
+    "Description": "SCORE AS MANY POINTS AS POSSIBLE WHEN LAYING DOWN 3 IDENTICAL CARDS. The intensity of a &ldquo;One-Armed Bandit&rdquo; in a card game for all ages! A card game that subtly blends luck and thought.&#10;&#10;Object of the game : Quickly discard your cards to become the first to lay down three cards showing the same symbol. &#10;&#226;&#128;&#168;&bull; 3 lemons 1000 points &#10;&bull; 3 cherries 2000 points &#10;&bull; 3 grapes 3000 points &#10;&bull; 3 clovers 4000 points &#10;&bull; 3 bells 5000 points&#226;&#128;&#168;&bull; 3 diamonds 6000 points &#10;&bull; 3 &ldquo;7s&rdquo; 7000 points&#10;&#10;Each player draws one card at random, and the highest scoring symbol indicates the player who will start the first hand. In the event of a tie, the players concerned then draw a new card. For the following hand, the player seated to the left of the player who started the game will begin. And so on.&#10;&#10;Each player must try to discard all their cards by putting together three of a kind as they are received: 3 cards showing the same symbol. The player who starts the hand turns over the first card on the top of the stock and places it, face up, on the table to represent the first discard. The hand is then played in turn, clockwise.&#226;&#128;&#168; In turn, the player looks at the symbol on the card facing up next to the stock and chooses from 3 options:&#226;&#128;&#168;&#10;&#10;    The player discards a card with the same symbol as the first discard.&#10;    The player takes a card from the stock, looks at it, and decides not to keep it and lays it down face up on the discard pile. &#226;&#128;&#168;&#10;    The player takes a card from the stock, looks at it, and decides to keep it in their hand. &#226;&#128;&#168;&#10;&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Children's Game"
+    ],
+    "Mechanics": [
+      "Matching"
+    ],
+    "Families": [
+      "Card Games: Shedding / Stops"
+    ]
+  },
+  {
+    "Rank": "22008",
+    "Name": "America's Main Street",
+    "ID": 344269,
+    "Year": "(2022)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "5.82",
+    "Link": "https://boardgamegeek.com/boardgame/344269/americas-main-street",
+    "Min Players": "1",
+    "Max Players": "5",
+    "Min Play Time": "10",
+    "Play Time": "20",
+    "Weight": "1",
+    "Description": "America&rsquo;s Main Street includes two fast and fun family games: Get Your Kicks and Your Mileage May Vary. In Get Your Kicks, players will be visiting Casino 66 to try their luck at covering all the states along Route 66 before busting. Players will score points on the Route 66 map using a bit of strategy, and (hopefully) a bit of luck as well!&#10;&#10;In Your Mileage May Vary, players fuel up to begin a journey on Route 66. Each State requires a different type of fuel and different quantities of it. You can risk going that extra mile through each State, but don&rsquo;t get too greedy or you might run out of fuel and have to start all over again!&#10;&#10;Both games are family friendly and  suitable for play by 1 to 5 players (or as many as 10 players in teams of 2); young or older players, as well as both casual and serious gamers; in 10 to 20 minutes.&#10;&#10;",
+    "Categories": [
+      "Children's Game",
+      "Transportation",
+      "Travel"
+    ],
+    "Mechanics": [
+      "Push Your Luck",
+      "Set Collection",
+      "Solo / Solitaire Game"
+    ],
+    "Families": [
+      "Admin: Upcoming Releases",
+      "Country: USA",
+      "Crowdfunding: Kickstarter",
+      "Players: Games with Solitaire Rules"
+    ]
+  },
+  {
+    "Rank": "22009",
+    "Name": "Star Plus",
+    "ID": 220721,
+    "Year": "(2017)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "6.26",
+    "Link": "https://boardgamegeek.com/boardgame/220721/star-plus",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "20",
+    "Play Time": "0",
+    "Weight": "1.3333",
+    "Description": "In Star Plus, players want to rid themselves of cards, but they can't just play anything that they want. No, the cards much be played in turn from 1-12 into the center of the table, then players start with 1 again. You can play a single card that matches the number that should be played on your turn, or you can play multiple cards that sum to the number needed. If you can't play the required number, then you need to draw cards from the deck.&#10;&#10;If someone plays three or more cards at the same time &mdash; a star boom! &mdash; then the next player must play a star boom as well or else draw cards.&#10;&#10;When someone voids their hand, players tally their points for cards played.&#10;&#10;",
+    "Categories": [
+      "Card Game"
+    ],
+    "Mechanics": [],
+    "Families": []
+  },
+  {
+    "Rank": "22010",
+    "Name": "Coral Reef",
+    "ID": 234473,
+    "Year": "(2017)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "6.07",
+    "Link": "https://boardgamegeek.com/boardgame/234473/coral-reef",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "10",
+    "Play Time": "30",
+    "Weight": "1",
+    "Description": "Description from the publisher:&#10;&#10;Look for the marine animals shown on the two cards and point them out at the same time! If you do it before the other players, you are rewarded with an animal figurine. Comes with a double-sided game board consisting of giant puzzle pieces which can be put together differently each game.&#10;&#10;Players turn over two cards depicting marine animals. Players must find pictures depicted in both cards from the board and place their fingers on the pictures.&#10;&#10;First player to do this is rewarded with an animal figurine. If both cards show a treasure chest, the player also gets a treasure chest. First player to reach five animals or two treasure chests wins the game.&#10;&#10;The board is assembled from pieces, so it changes between games. The tiles are double-sided: one side is plain, the other filled with more detail, making it harder to find the pictures.&#10;&#10;",
+    "Categories": [
+      "Animals",
+      "Children's Game",
+      "Real-time"
+    ],
+    "Mechanics": [
+      "Pattern Recognition"
+    ],
+    "Families": [
+      "Animals: Fish / Fishes"
+    ]
+  },
+  {
+    "Rank": "22011",
+    "Name": "Chaos Isle: Zombi Deck",
+    "ID": 35017,
+    "Year": "(2008)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "6.09",
+    "Link": "https://boardgamegeek.com/boardgame/35017/chaos-isle-zombi-deck",
+    "Min Players": "1",
+    "Max Players": "6",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "1.8462",
+    "Description": "It seems the unbalanced scientist, Dr. Zycheck, has gone a little overboard with his experiments in his search for Immortality, and the Isle has become overrun with his Zombi monstrocities. Can you escape from the Isle before being added to their menu?&#10;&#10;Chaos Isle is a Mission-Based Card Game (MBCG) that can be played Solo or by 2-6 players using just a single deck. Expansions are also available to add to the fun. The Zombi Deck has each player taking on the role of one of the Characters, who attempts to complete his Mission before the other players complete theirs, all the while fending off Zombi enemies. If you are killed, you become the Zombi that slew you and now you attack the other Characters!&#10;&#10;Components:&#10;Each deck contains 102 illustrated cards:&#10;6 missions - require you to collect various combinations of resources: gas, gunpowder, viruses, rescues, nitro, and blood by destroying the zombies that have them&#10;6 characters - Professor Mort, Jane Doe, Uncle Checkers, Travis, Salty and Angel -- each with a special attack power&#10;20 equipment - 9 weapons, riot gear, rottweiler, binoculars, first aid kit, skateboard, four kinds of healing (including &quot;chi tobacco&quot; and a bong)&#10;70 enemy cards, consisting of 8 tasks, 6 events and 56 zombis. &#10;There are 10 different types of zombi cards: &#10;2 rage, 6 slithering carcass, 4 stalker, 1 creator, 9 flesh reaper, 8 bone collector, 5 coiler, 3 corpse grinder, 7 corpsemare, 11 feeder&#10;&#10;You will also need two 6-sided dice and approx. 10 tokens for each player, such as coins or glass counters (not incl.)&#10;&#10;Character and Zombi Cards&#10;Each card has 4 stats:&#10;Speed - who goes first in battle and also if a character can outrun a zombi&#10;Life - total Hits the character/zombi can take before being destroyed&#10;Protection - minimum number that must be rolled on two d6 to make a successful Hit&#10;Fate - a fate roll determines whether a character is lucky  or not  - a successful roll is less than the Fate score&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Fighting",
+      "Horror",
+      "Zombies"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Variable Player Powers"
+    ],
+    "Families": [
+      "Creatures: Zombies",
+      "Islands: Fictional"
+    ]
+  },
+  {
+    "Rank": "22012",
+    "Name": "Mind Maze",
+    "ID": 5463,
+    "Year": "(1970)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "5.68",
+    "Link": "https://boardgamegeek.com/boardgame/5463/mind-maze",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "10",
+    "Play Time": "10",
+    "Weight": "1.3333",
+    "Description": "In Mind Maze, each player builds a maze for the other to navigate, sight unseen.  They then race each other.&#10;&#10;The board stands vertically between the players and serves as a screen.  On your half, you build a maze by placing a number of baffles between posts.  Handicapping can be achieved by reducing a player's number of baffles.  When the race starts, you use a magnetic controller to nudge your steel ball (on the opponent side) through the maze, toward the exit hole.  When you hit a baffle, your ball fails to follow the controller and drops to the bottom, where you must grab it anew.&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy",
+      "Action / Dexterity",
+      "Maze",
+      "Racing"
+    ],
+    "Mechanics": [
+      "Pattern Recognition",
+      "Secret Unit Deployment"
+    ],
+    "Families": [
+      "Components: Magnets",
+      "Components: Marbles",
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "22013",
+    "Name": "Race Through Space",
+    "ID": 1211,
+    "Year": "(1988)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "5.58",
+    "Link": "https://boardgamegeek.com/boardgame/1211/race-through-space",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "15",
+    "Play Time": "15",
+    "Weight": "1.1071",
+    "Description": "A simple but enjoyable racing game with an ever-changing board (made of shifting tiles) and a few extra twists introduced by the special dice.&#10;Ages 6+&#10;&#10;Re-implemented by:&#10;&#10;     Marrakesh&#10;&#10;&#10;",
+    "Categories": [
+      "Children's Game",
+      "Nautical",
+      "Racing",
+      "Space Exploration"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Modular Board",
+      "Roll / Spin and Move",
+      "Tile Placement"
+    ],
+    "Families": [
+      "Sports: Sailing"
+    ]
+  },
+  {
+    "Rank": "22014",
+    "Name": "Circles",
+    "ID": 353889,
+    "Year": "(2024)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "6.06",
+    "Link": "https://boardgamegeek.com/boardgame/353889/circles",
+    "Min Players": "2",
+    "Max Players": "5",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "1",
+    "Description": "Circles features a double-sided game board, with both games being driven by the same game-action mechanism &mdash; a player rolling a ball in the felt-covered exterior ring of the track. Place the ball in the right spaces, and you'll make good progress!&#10;&#10;On one side of the game board, you dive into the Wild West to mine gold and silver, fight bandits, and fulfill your dream of owning your own ranch. On the other side, you visit the shooting range and try your hand at hitting various targets.&#10;&#10;",
+    "Categories": [],
+    "Mechanics": [],
+    "Families": []
+  },
+  {
+    "Rank": "22015",
+    "Name": "Sedma",
+    "ID": 170586,
+    "Year": null,
+    "Geek Rating": "5.506",
+    "Avg Rating": "6.00",
+    "Link": "https://boardgamegeek.com/boardgame/170586/sedma",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "1.6667",
+    "Description": "Source: Wikipedia, Sedma. Available under the CC-BY-SA License.&#10;&#10;Sedma, Zs&iacute;roz&aacute;s or &#197;&#158;eptic&#196;&#131; is a Central European 4-card trick-and-draw game played by 4 four players in fixed partnerships with a 32-card Piquet deck. Card suits do not play a role in this game, and there is no ranking order. A trick is won by the last player to play a card of the same rank as the card led. Hola is a similar, slightly earlier game.&#10;&#10;",
+    "Categories": [
+      "Card Game"
+    ],
+    "Mechanics": [
+      "Trick-taking"
+    ],
+    "Families": [
+      "Components: Traditional Playing Cards"
+    ]
+  },
+  {
+    "Rank": "22016",
+    "Name": "Are You A Robot?",
+    "ID": 283521,
+    "Year": "(2019)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "5.68",
+    "Link": "https://boardgamegeek.com/boardgame/283521/are-you-a-robot",
+    "Min Players": "2",
+    "Max Players": "3",
+    "Min Play Time": "2",
+    "Play Time": "2",
+    "Weight": "1.1667",
+    "Description": "Our space colony has been infiltrated by murderous androids who look just like us. We are gradually being replaced by look-alikes! The only way to find out for sure if someone is a robot is by shooting them with your laser pistol. Our only hope is to destroy the robots one by one!&#10;&#10;Are You A Robot is a social deduction micro-game by Looney Labs.&#10;&#10;Each player gets a random card, which they must look at but let no one else see. Gameplay consists of talking: asking each other questions to figure out who became a Robot. Players can say anything: lying is part of the game. The game ends when a Human decides to either shoot or shake hands! Humans prosper if they correctly shoot the Robot but the Robots win if humans turn on each other.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Bluffing",
+      "Card Game",
+      "Deduction"
+    ],
+    "Mechanics": [
+      "Team-Based Game"
+    ],
+    "Families": [
+      "Theme: Robots"
+    ]
+  },
+  {
+    "Rank": "22017",
+    "Name": "The Great Game of Britain",
+    "ID": 3091,
+    "Year": "(1973)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "5.67",
+    "Link": "https://boardgamegeek.com/boardgame/3091/the-great-game-of-britain",
+    "Min Players": "2",
+    "Max Players": "5",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "1.45",
+    "Description": "The famous family game of adventure and travel through the wonders of our isles reaching across 150 years of Railway history.&#10;&#10;The object of the game is to visit six places of interest in Britain, while using signals and diversions to prevent others from reaching their goals.&#10;&#10;The game can be played on either side of the board: The present or the past.&#10;&#10;",
+    "Categories": [
+      "Trains",
+      "Travel"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Country: England",
+      "Country: Scotland",
+      "Country: Wales"
+    ]
+  },
+  {
+    "Rank": "22018",
+    "Name": "Speedway Champion",
+    "ID": 110864,
+    "Year": "(2011)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "6.08",
+    "Link": "https://boardgamegeek.com/boardgame/110864/speedway-champion",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "10",
+    "Play Time": "10",
+    "Weight": "1.5",
+    "Description": "Start up your engine, find the ideal track and leave your opponents behind. Follow the Golden Line to victory. This game simulates real speedway races and lets you and your fellow players to take part in nerve-wracking races in the comfort of home. Experience not only the ride, but also what it is to set up a bike for a race. Faithful models of motorcycles move around the track without frames and the help of an ingenious distance gauge. Bikes perform the classic speedway skid when going around corners. The speed of motorbikes depends on their position on the oval as well as the tuning of the motorcycle and chance, as decided on the throw of a dice. Chance alone, however, is not enough to win; you have to be able to tell when luck will help a bit and some healthy risk-taking is required, and when it is better to step on the gas. The game can be enjoyed with children and friends&#10;&#10;",
+    "Categories": [
+      "Racing"
+    ],
+    "Mechanics": [],
+    "Families": [
+      "Theme: Motorcycles"
+    ]
+  },
+  {
+    "Rank": "22019",
+    "Name": "Global Warming",
+    "ID": 83468,
+    "Year": "(2011)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "6.19",
+    "Link": "https://boardgamegeek.com/boardgame/83468/global-warming",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "2",
+    "Description": "Global Warming is a tactical, card-driven game in which players score &quot;happiness points&quot; by providing goods to the public. Cards played can be either national industries, consumer goods, green technologies, or events; played industries require the roll of dice to determine pollution output. Collect enough happiness points and you win.&#10;&#10;But by producing these goods, you influence the earth's ecology. The player's individual influence, as well as the overall influence, is shown by a marker on a second track, and if these markers reach certain (moveable) points on the warming track, bad things happen to the ecology and the players. If the third warming point is reached, the game ends and the player with the lowest contribution to the overall warming wins.&#10;&#10;Thus, the players are embedded in a quite true setting in which they have to balance production and sustainable actions. Who will manage to control his industrial production in a way that minimizes the environmental impact while nevertheless allowing him to meet consumer demand?&#10;&#10;Global Warming is the fourth game in M&uuml;cke Spiele's &quot;Edition Bohrt&uuml;rme&quot; series that uses the game pieces from Kosmos' Giganten in the context of a new game.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Educational",
+      "Environmental",
+      "Industry / Manufacturing"
+    ],
+    "Mechanics": [
+      "Hand Management",
+      "Open Drafting",
+      "Worker Placement"
+    ],
+    "Families": [
+      "Series: Edition Bohrt\u00fcrme"
+    ]
+  },
+  {
+    "Rank": "22020",
+    "Name": "Feuer & Flamme",
+    "ID": 136246,
+    "Year": "(2013)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "5.77",
+    "Link": "https://boardgamegeek.com/boardgame/136246/feuer-and-flamme",
+    "Min Players": "2",
+    "Max Players": "5",
+    "Min Play Time": "20",
+    "Play Time": "20",
+    "Weight": "1.5",
+    "Description": "Will the corncob fit on the steak? Or the eggplant on top of the pepper? There's nothing boring about this grill because when celebrity chef Johann Lafer is at the grill, everyone's just burning to go!&#10;&#10;In Feuer &amp; Flamme, differently-shaped wooden pieces have to be placed on the wobbly grill using a pair of tongs. If you run out of room, you'll have to stack the pieces, one on top of the other, and hope that nothing falls through the grate. If something does fall off, however, the poor soul who happened to be standing at the grill has to give up one of his grill chips. If he doesn't have any left, he's out of the game. Who can keep his cool and hold on to the tongs until the end of the game?&#10;&#10;",
+    "Categories": [
+      "Action / Dexterity",
+      "Children's Game"
+    ],
+    "Mechanics": [],
+    "Families": [
+      "Theme: Food / Cooking"
+    ]
+  },
+  {
+    "Rank": "22021",
+    "Name": "Galaxy Command",
+    "ID": 177411,
+    "Year": "(2015)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "5.75",
+    "Link": "https://boardgamegeek.com/boardgame/177411/galaxy-command",
+    "Min Players": "1",
+    "Max Players": "4",
+    "Min Play Time": "10",
+    "Play Time": "45",
+    "Weight": "1.6",
+    "Description": "In Galaxy Command, 1 to 4 players take the role of a galaxy commander. Each tries to maintain a delicate balance of resources, military power, and technological achievements as they explore the galaxy.  Game play is fast and fun with varied decisions to be made by each player during their missions.&#10;&#10;In each game of Galaxy Command there are near and far systems that must be overcome in order to bring in new resources and wealth.  Near systems must be explored before attempting to reach far systems.  Some far systems require key technology to be reached with any chance of success. Near systems provide resources that can build your military strength and develop technologies allowing you to overcome challenges as you go deeper into space.&#10;&#10;During a turn players reveal a system card (starting with near systems) on their mission path and try to overcome its obstacles.  Next they collect wealth and resources and build military strength and technology.  And finally a random event card is drawn that may affect one or all players in the game.  The event cards are also the timer on the game.  When the event cards run out the game is over.  The Galaxy Command (all players) saves or fails in its mission by reaching enough far systems to sustain its empire.  Each Galaxy Commander (individual player), provided the empire is saved, can be the best among peers by his contribution (score) to the overall mission success.&#10;&#10;No two games will play the same as the systems you get, and the decisions you make will change game to game.The event cards affect different players during each game.The game plays in 15 to 45 minutes depending on the number of players and how quick they play.The game is playable for ages 8 to 800 (if you're from planet Cirius...).&#10;&#10;Originally published by Robert as a print and play solitaire game with 19 cards. In this version we have taken the original game, added a multi-player element by expanding the deck to 54 cards, new artwork, planets, and challenges but keeping the clean mechanics in place. The game was well received as it was and now we have made it playable from 1 to 4 players yet still keeping it playable in under 45 minutes.&#10;&#10;",
+    "Categories": [
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "Mechanics": [
+      "Dice Rolling"
+    ],
+    "Families": [
+      "Crowdfunding: Kickstarter",
+      "Mechanism: 4X",
+      "Players: Games with Solitaire Rules"
+    ]
+  },
+  {
+    "Rank": "22022",
+    "Name": "Murder \u00e0 la carte: Pasta, Passion & Pistols",
+    "ID": 6449,
+    "Year": "(1995)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "5.89",
+    "Link": "https://boardgamegeek.com/boardgame/6449/murder-a-la-carte-pasta-passion-and-pistols",
+    "Min Players": "6",
+    "Max Players": "8",
+    "Min Play Time": "180",
+    "Play Time": "180",
+    "Weight": "2",
+    "Description": "An entry in the Murder A La Carte series of murder mystery party games.  The story:&#10;&#10;&quot;The succulent aroma of home cooked pasta is drifting from New York City's most popular Italian eatery, La Speranza, but something else is heating up the kitchen...cold blooded murder!  Restauranteur, Pepi Roni, has been shot in the back with his own pistol.  Tonight his family and friends will gather to pay their respects to poor Pepi, but one of the guests won't be shedding any tears.&quot;&#10;&#10;The suspects:&#10;&#10;Angel Roni: Pepi and Rosa's aggressive daughter and girlfriend of Bo Jalais&#10;&#10;Clair Voyant: Mama Rosie's friend and astrology advisor&#10;&#10;Tara Misu : Rocco's young, vivacious fiancee. She move up from maid to manager of the Scarfiazzi's villa.&#10;&#10;Bo Jalais : French sweet talking manager of Rocardiazzi vineyards&#10;&#10;Father Al Fredo: An Italian priest and long time friend of the Roni's and the Scarfiazzi's&#10;&#10;Mama Rosa: Pepi's widow and restaurant's matriarch&#10;&#10;Marco Roni: Pepi and Rosa's sensitize soccer loving son&#10;&#10;Rocco Scarfazzi: Pepi's identical twin brother, an Italian businessman rumoured to be in the laundering business in addition to his vineyards&#10;&#10;",
+    "Categories": [
+      "Deduction",
+      "Murder / Mystery",
+      "Party Game"
+    ],
+    "Mechanics": [
+      "Acting"
+    ],
+    "Families": [
+      "Components: Audio Cassettes",
+      "Food & Drink: Pasta/Spaghetti",
+      "Series: Murder \u00e0 la carte",
+      "Series: Murder Mystery Party",
+      "Theme: Food / Cooking"
+    ]
+  },
+  {
+    "Rank": "22023",
+    "Name": "Step by Step",
+    "ID": 117862,
+    "Year": "(2012)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "5.62",
+    "Link": "https://boardgamegeek.com/boardgame/117862/step-by-step",
+    "Min Players": "2",
+    "Max Players": "5",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "1.2222",
+    "Description": "Step by Step is a push-your-luck dice game in the spirit of Sid Sackson's classic Can't Stop as players try to push their pieces to the top of multiple columns on the game board &ndash; but players win by scoring points and that can be done two ways.&#10;&#10;Each player starts the game with their pieces in the start spaces of five columns on the game board &ndash; a space worth -5 points at game's end, mind you, so don't stick around too long! (The game board is double-sided, with one side for 2-3 players and the other for 4-5 players.)&#10;&#10;On a turn, a player chooses a column, then rolls 2-6 dice depending on which column he chose. After rolling the dice, the player then makes a bid &ndash; either &quot;higher/same&quot; or &quot;lower/same&quot; &ndash; that lasts for the remainder of the turn. After making a bid, the player chooses one or more dice from among those he rolled previously and rerolls them. If the sum of all the dice matches his bid, then he advances a runner in the column he chose, skipping over opponents' pieces on the way.&#10;&#10;The player then either ends his turn (moving his pieces to where the runner sits) or rerolls one or more dice to try to match his bid once again. If a player ever fails to match his bid, his turn ends without moving his pieces.&#10;&#10;If a player ends his turn with his piece on one of 14 tokens that start on the game board, he claims this token.&#10;&#10;Each column is divided into two zones, and a player cannot advance into an upper zone unless he has moved at least three pieces from the start spaces. The game ends as soon as one player piece is in each upper zone. Players score points based on the height they reached in each column (-5 to 12 points) and the number of tokens they collected (-3 to 5 points). The player with the highest total score wins.&#10;&#10;",
+    "Categories": [
+      "Dice"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Push Your Luck"
+    ],
+    "Families": [
+      "Series: Easy Play (Schmidt Spiele)"
+    ]
+  },
+  {
+    "Rank": "22024",
+    "Name": "Inquizitor",
+    "ID": 60369,
+    "Year": "(2010)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "5.90",
+    "Link": "https://boardgamegeek.com/boardgame/60369/inquizitor",
+    "Min Players": "2",
+    "Max Players": "36",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "2.5",
+    "Description": "This is a Hungarian quiz party game. In the game the players have to answer to questions (there are 2500 questions in the game), plus also have to complete five extra tasks.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Party Game"
+    ],
+    "Mechanics": [
+      "Open Drafting"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "22025",
+    "Name": "Tranglar",
+    "ID": 331011,
+    "Year": "(2021)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "6.86",
+    "Link": "https://boardgamegeek.com/boardgame/331011/tranglar",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "15",
+    "Play Time": "30",
+    "Weight": "1.6667",
+    "Description": "TRANGLAR (pronounced &quot;Tr&agrave;nglar&quot;) is an abstract strategy game for 2 players with various, multi shaped, colored pieces that players are trying to play onto the board. It is a straightforward yet intelligent game, created to challenge both new and experienced gamers. It plays in around 15-25 minutes, ideal for a quick and challenging gaming experience. Each piece is made up of triangles and has a different color on each side, one for each player, while neutral pieces have the same color on both sides.&#10;&#10;Components:&#10;&#10;Tranglar Game Board&#10;42 game pieces (17 for each player, 8 neutral)&#10;&#10;Goal of the Game:&#10;&#10;Each player has to place as many of their pieces on the board in order to take over as much space on it as possible. To achieve this they must place their pieces on the board in such a way that they are protected and as to take over their opponents&rsquo; pieces by encircling them and flipping them to their color.&#10;&#10;Turn Overview:&#10;&#10;During their turn each player can take one of the four following actions:&#10;&#10;1. Place a new piece of your color on the board in a valid position. Valid positions are the ones that are unoccupied on the board, and not encircled by the opponents&rsquo; pieces. The board is divided in small triangle slots. The piece you place, must take up the total area of the triangles they cover.&#10;&#10;2. Replace a piece that is already on the board with other/s of yours. This action allows you to replace one of your pieces which is already placed on the board with more pieces that take up the exact same area, and you have available outside the board, or two or more adjacent pieces you own, which are already placed on the board, with one piece that takes up the exact same area.&#10;&#10;3. Attack an opponent&rsquo;s piece (stealing a piece). This action allows you to steal any one of the opponents' pieces which is already on the board: flip it to your color side and place it outside the board with the rest of your pieces. Then you are obliged to cover that space with at least two of your own pieces which equal in size to the area of the piece you took.&#10;&#10;4. You can pass your turn. It is probably not a frequent case, but if it is not possible to do any of the above-described actions or for any reason you wish, you can forfeit your turn.&#10;&#10;End of Game:&#10;&#10;The player with the most with the most triangular slots on the board with their color, wins.&#10;&#10;-description from publisher&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy"
+    ],
+    "Mechanics": [
+      "Area Majority / Influence",
+      "Enclosure",
+      "Grid Coverage",
+      "Hand Management",
+      "Tile Placement"
+    ],
+    "Families": [
+      "Category: Combinatorial",
+      "Digital Implementations: Tabletopia",
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "22026",
+    "Name": "Pixel Guardians",
+    "ID": 164300,
+    "Year": "(2015)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "6.32",
+    "Link": "https://boardgamegeek.com/boardgame/164300/pixel-guardians",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "1.1429",
+    "Description": "An evil summoner is calling forth ancient dragons to attack the peaceful kingdom of Pixel! As the dragons storm the kingdom, combine body sections until complete dragons are created.&#10;&#10;Use your guardian army to attack these threats by matching attack gems &amp; earn points for slaying body sections. Cast spells to conquer entire dragons, use shiny treasure to lure dragons away from the kingdom, or steal dragon sections from other players by trumping their attack. But be careful&hellip;all players are looking to earn fame and glory by collecting the most points and can turn on you at any time! Thwart their attempts by using chains to protect dragon sections you have already conquered and keep them on the battlefield so they can&rsquo;t be lured away...&#10;&#10;Decide the right time to make your moves. Rid the kingdom of these evil beasts &amp; earn the most points to win!&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Fantasy"
+    ],
+    "Mechanics": [
+      "Hand Management",
+      "Pattern Building",
+      "Take That"
+    ],
+    "Families": [
+      "Creatures: Dragons",
+      "Crowdfunding: Kickstarter"
+    ]
+  },
+  {
+    "Rank": "22027",
+    "Name": "Battle-Cry",
+    "ID": 2428,
+    "Year": "(1961)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "5.59",
+    "Link": "https://boardgamegeek.com/boardgame/2428/battle-cry",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "1.641",
+    "Description": "One of the American Heritage Command Decision Strategy Games.&#10;&#10;This one is the American Civil War game.  Each side has 22 pieces (10 infantry, 10 cavalry and 2 artillery), and the starting positions are fixed.  The grid is square, with no diagonal movement allowed.  On your turn, you roll two dice for movement, resulting in between 2 and 12 movement points to allocate.  Infantry moves 1 per pip, cavalry and artillery 2 per pip (a one-square move still consumes 1 pip).  Mountains force pieces to pause (they must stop until the next turn).  Railroads link stations and can be used to accelerate movement (one station per pip).&#10;&#10;Combat is handled by lining pieces up (horizontally or vertically) to face (or flank) an enemy column.  You must have battle strength superiority to resolve the battle, and this is done after movement is concluded.  Infantry and artillery have combat strength 2, cavalry has combat strength 1.  The rear piece then jumps to the other end of the combined columns, and the entire enemy army is removed.  To be used, cavalry must have a piece at the front; artillery, if at the rear of your column, eliminates the enemy army without jumping.  Artillery cannot attack by itself.  Double jumps can happen, if the jumping infantry piece ends up facing a lone cavalry.  An open square must exist to jump to, so some map deployments are &quot;safe&quot; --but not against artillery.  However, pieces trapped so they cannot move are also removed as if they had lost a battle, so this strategy can backfire.&#10;&#10;You win by completely eliminating the enemy army --but a player may concede earlier when a loss becomes unavoidable.  The four player game splits command of each army in two, and is played in partnerships.&#10;&#10;A really good game, combining a historical theme with rather abstract mechanics.&#10;&#10;",
+    "Categories": [
+      "American Civil War",
+      "Post-Napoleonic",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Roll / Spin and Move",
+      "Square Grid"
+    ],
+    "Families": [
+      "Country: USA",
+      "Players: Wargames with Rules Supporting Only Two Players",
+      "Series: American Heritage (Milton Bradley)"
+    ]
+  },
+  {
+    "Rank": "22028",
+    "Name": "Sabotage",
+    "ID": 1142,
+    "Year": "(1985)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "5.66",
+    "Link": "https://boardgamegeek.com/boardgame/1142/sabotage",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "1.5",
+    "Description": "&quot;The game where uncertainty reigns&quot;&#10;&#10;To win, you capture the crown located at the center of the board and return it to your base. You may move in any direction in a straight line. However the number of spaces you move is determined by the total number of pieces on the horizontal row where you start your move. You cannot jump pieces, but you may capture by landing on a piece. Land on the crown to capture it. But beware - your move may be sabotaged by your opponent at any moment.&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy"
+    ],
+    "Mechanics": [
+      "Grid Movement",
+      "Square Grid"
+    ],
+    "Families": [
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "22029",
+    "Name": "Azimuth: Ride The Winds",
+    "ID": 252373,
+    "Year": "(2018)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "6.03",
+    "Link": "https://boardgamegeek.com/boardgame/252373/azimuth-ride-the-winds",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "30",
+    "Play Time": "45",
+    "Weight": "1.75",
+    "Description": "Azimuth is a 2-4 player game of tactics where you take the role of survivors stranded on a deserted island, or floating at sea - and all you want is to get safely back home, sit by the fire and tell an amazing story of survival.&#10;By cleverly maneuvering your rafts, making the most out of local winds and breezes, while always aiming to your lighthouse (your ray of hope), it is up to you to either be saved or become food for sharks.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy"
+    ],
+    "Mechanics": [
+      "Area Majority / Influence",
+      "Grid Movement"
+    ],
+    "Families": [
+      "Crowdfunding: Kickstarter"
+    ]
+  },
+  {
+    "Rank": "22030",
+    "Name": "Life Is Life",
+    "ID": 192635,
+    "Year": "(2016)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "5.68",
+    "Link": "https://boardgamegeek.com/boardgame/192635/life-is-life",
+    "Min Players": "3",
+    "Max Players": "5",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "1.3333",
+    "Description": "Every player starts Life Is Life with five life cards, and things only go downhill from there.&#10;&#10;To set up a round, shuffle the sixty-card deck, deal ten cards face down to each player, then place ten cards face up on the table in four rows, with the rows holding 1-4 cards. The deck consists of animal cards, with nine giraffe cards, eight bear cards, seven each mole and goat, and so on down to three mouse cards.&#10;&#10;On a turn, a player either swaps 1-4 cards in hand with the face-up row that contains the same number of cards or knocks on the table to signal the end of the round; when a player knocks, each other player can make one final swap or also knock. Players then compare cards in hand to see who holds a majority of each type of animal. If a player holds more giraffe cards than each other player, for example, then that player keeps one giraffe card (worth 9 points as nine such cards are in the game) while all other giraffe cards are discarded. (A player can hold a majority by having one card and no one else having any cards.) After all animal types are compared, whoever has the most points loses no life cards; whoever has the fewest points loses two life cards; and whoever has a total between these extremes loses one life card.&#10;&#10;Alternatively, if during a round a player collects all four cats or all five rabbits or pigs in hand, that player can end the round immediately, with all other players losing one life card.&#10;&#10;If a player runs out of life cards, they're out of the game. At the end of a round, shuffle the cards and play again. Whoever last clings to life wins!&#10;&#10;",
+    "Categories": [
+      "Animals",
+      "Card Game"
+    ],
+    "Mechanics": [
+      "Hand Management",
+      "Memory",
+      "Player Elimination",
+      "Set Collection"
+    ],
+    "Families": [
+      "Animals: Bears",
+      "Animals: Cats",
+      "Animals: Cattle / Cows",
+      "Animals: Dogs",
+      "Animals: Giraffes",
+      "Animals: Mice",
+      "Animals: Moles",
+      "Animals: Pigs",
+      "Animals: Rabbits / Hares",
+      "Animals: Sheep",
+      "Series: NSV Middys (N\u00fcrnberger Spielkartenverlag)"
+    ]
+  },
+  {
+    "Rank": "22031",
+    "Name": "Korea: The Mobile War",
+    "ID": 6005,
+    "Year": "(1987)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "5.80",
+    "Link": "https://boardgamegeek.com/boardgame/6005/korea-the-mobile-war",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "240",
+    "Play Time": "240",
+    "Weight": "3.1667",
+    "Description": "Korea is a regimental/divisional level game of the first year of the UN Operations in 1950-51. One player commands the units of the Korean People's Army and the allied Chinese People's Liberation Army; the other player controls the Republic of Korea armed forces and the allied U.N. coalition Army containing U.S., British, Philippine, Turkish, Canadian, and Thai forces. This game was first published in Strategy &amp; Tactics magazine #111.&#10;&#10;Included are a 22&quot;X34&quot; map sheet, 200 counters (units and markers) and a 12 page rulebook.&#10;&#10;Multiple historical and 'what if?' scenarios are provided, each with its own victory conditions, usually based on points gained by the KPA/PLA player for controlling certain geographical areas.&#10;&#10;",
+    "Categories": [
+      "Korean War",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Hexagon Grid"
+    ],
+    "Families": [
+      "Components: Map (Continental / National scale)",
+      "Country: Korea",
+      "Magazine: Strategy & Tactics",
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "22032",
+    "Name": "Minecraft Card Game?",
+    "ID": 186265,
+    "Year": "(2015)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "5.62",
+    "Link": "https://boardgamegeek.com/boardgame/186265/minecraft-card-game",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "15",
+    "Play Time": "45",
+    "Weight": "1.1613",
+    "Description": "Based on the hit video game, players have the opportunity to mine, craft or reserve to win.&#10;&#10;Players &quot;mine&quot; Resource Cards of Wood, Stone, Iron, Diamond, or Gold, and then use those cards to &quot;craft&quot; Craft Cards for points. If you desire a certain Craft Card, but are currently unable to pay for it, you may Reserve the card in your card holder to craft later. Craft Cards can become Tools with special powers you can you can use in your favor to control the game play&mdash;but watch out! TNT and Creeper cards are hiding in the deck for unexpected upsets.&#10;&#10;The player who reaches the game point goal first, wins.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Children's Game",
+      "Video Game Theme"
+    ],
+    "Mechanics": [
+      "Open Drafting"
+    ],
+    "Families": [
+      "Video Game Theme: Minecraft"
+    ]
+  },
+  {
+    "Rank": "22033",
+    "Name": "Hug Me",
+    "ID": 120924,
+    "Year": "(2010)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "5.98",
+    "Link": "https://boardgamegeek.com/boardgame/120924/hug-me",
+    "Min Players": "2",
+    "Max Players": "8",
+    "Min Play Time": "45",
+    "Play Time": "45",
+    "Weight": "1",
+    "Description": "HUMANS HAVE A BRAIN, BUT ZOMBIES HAVE A HEART&hellip;&#10;&#10;Night falls over the bleak Evans City Mall.&#10;The dead are awaken and some lucky survivors trapped in the big building have to defend themselves from the Zombie Horde and find a way out.&#10;The only chance is Old Pop&rsquo;s Minivan. Too bad it can carry just one person.&#10;To make things worse, there&rsquo;s no fuel in the Minivan and the Keys are lost somewhere in one of the Shops. It will take both brawns and brains&hellip; It&rsquo;s time to make some heads rolling, betray all the others and run away to safety!&#10;&#10;Night falls over the happy looking Evans City Mall.&#10;Just a few Humans are left roaming all sad and alone with nobody caring for them. No one willing to hug them, no one that loves them. They all roam around that old Minivan, that&rsquo;s weird. And much too weird, they run away or try to hit us with heavy things instead of joining us in a big hug. They are confused by fear and loneliness, but the Horde will never stop loving! It will take some effort and a big heart but we will finally hug and cuddle them all to be happy ever after! Love will finally win over everything else!&#10;&#10;Aim of the Game&#10;Players in Hug Me all starts as humans. But life is hard in Evans City and during the game they can become Infected and later on Zombies.&#10;If you are Human, you must escape the City Mall. To do so you must find the Fuel Tank first, then the Key (or the Spare Key) and take them to the Minivan.&#10;If you are Infected, you must blow up the City Mall so that the Horde cannot spread outside. To do so you must find the Fuel Tank first than the Lighter and take them to the Boiler Room. If you are a Zombie you must hug all humans so that love wins over everything! Zombies win all together when there are no more humans in the game.&#10;Zombie players must really hug Human players to validate the Hug, otherwise the contamination is void!&#10;&#10;Quick Rules&#10;&#10;Dawn: If you are a Zombie, draw a Zombie card, secretly choose one or more Room Cards and place your Zombie Character and the Zombie Card in one or more Rooms.&#10;&#10;Day: According to turn Humans can move and take an action (or vice versa). They can choose one of these Actions: Stealing (Challenge another player to take an Item from him/her), Barricading (Block a Room so that for the rest of the Day and the next night nobody can move to or from that Room also getting a bonus to Zombie Assaults) Searching (Draw an Item from the Deck in the Room where your Character is).&#10;&#10;Night: All Room Cards chosen by Zombie Players are revealed. If there are Humans in those Rooms, Humans face the Assault. If any Human survives, they draw one Zombie Card each and face the normal Assault for that turn.&#10;&#10;If Humans lose an Assault, they try to Escape and if they fail they are Infected and from now on they roll the Zombie Die each turn. If they fail the roll, they become Zombies.&#10;&#10;If an Infected becomes a Zombie, he/she removes his/her Keyholder from the game and starts playing as a Zombie from the next Dawn phase placing his/her Zombie Character and a Zombie Card secretly in one or more Rooms.&#10;&#10;Humans win if, after finding the Fuel Tank and the Key, they get to the Minivan.&#10;Infected win if, after finding the Fuel Tank and the Lighter, they get to the Boiler Room.&#10;Zombies win if there are no more Humans in the game.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Horror",
+      "Zombies"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Modular Board",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "22034",
+    "Name": "Chinese Civil War: 1946-1949",
+    "ID": 727,
+    "Year": "(1979)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "6.01",
+    "Link": "https://boardgamegeek.com/boardgame/727/chinese-civil-war-1946-1949",
+    "Min Players": "1",
+    "Max Players": "2",
+    "Min Play Time": "240",
+    "Play Time": "360",
+    "Weight": "2.8571",
+    "Description": "This game was first published in The Wargamer Magazine issue #10, and republished as a boxed game in 1994.&#10;&#10;Chinese Civil War is a simple hex-based wargame on the conflict between the Nationalist Kuomintang (KMT) army and the Communist People's Liberation Army (PLA) in China between 1946 and 1949.  The aim of the game is to capture/retain control of cities at game end (16 turns)&#10;&#10;Game features include conventional and non-conventional warfare by the communists, national war zones for the KMT armies, communist bases, guerrillas, supplies and even artillery pieces for the communists.&#10;&#10;The game consists of a 22&quot; by 34&quot; mapsheet, 200 counters and a rulebook.&#10;&#10;",
+    "Categories": [
+      "Civil War",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Hexagon Grid"
+    ],
+    "Families": [
+      "Country: China",
+      "History: Chinese Civil War",
+      "Magazine: The Wargamer",
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "22035",
+    "Name": "The Malaysian Dream",
+    "ID": 286745,
+    "Year": "(2019)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "6.29",
+    "Link": "https://boardgamegeek.com/boardgame/286745/the-malaysian-dream",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "20",
+    "Play Time": "40",
+    "Weight": "1",
+    "Description": "The Malaysian Dream by MGAG is an interactive card game where you can sabotage, complain, and pay your way to be the perfect Malaysian!&#10;&#10;You play as one of six Malaysian Personalities, each with a unique power that you can use once per turn.&#10;&#10;The goal of the game is to collect as many dreams as you can, and the game ends when all of dreams are bought. You can buy the Dream Cards with Cash Cards, gain them using Action Cards, or steal it from other players.&#10;&#10;At your turn, draw two cards first, then play up to 3 actions which can be:&#10;&#10;     playing an action card from your hand&#10;     depositing money in bank (cards from hand to table)&#10;     buy a dream using money in bank&#10;     use personalities' unique power&#10;&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Humor"
+    ],
+    "Mechanics": [
+      "Open Drafting",
+      "Take That",
+      "Variable Player Powers"
+    ],
+    "Families": [
+      "Country: Malaysia"
+    ]
+  },
+  {
+    "Rank": "22036",
+    "Name": "Ghost Pirates",
+    "ID": 113311,
+    "Year": "(2012)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "5.85",
+    "Link": "https://boardgamegeek.com/boardgame/113311/ghost-pirates",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "1.4286",
+    "Description": "Ethereal pirates swarm back and forth over each other's ships as the seas toss in the midnight storm. The decks of each vessel shift in and out of reality as the fighting begins. One captain and crew will emerge triumphant, and the loser will be damned to stalk the bowels of Davy Jones' locker.&#10;&#10;Ghost Pirates is a tactical board game in which two ghost pirate Captains encounter each other on the high seas; based on old rivalries, grudges, or whatever it was that happened on Skull Island, they each turn broadside and lay-to. Each crew, following captain's orders, fights, fires cannons, and swarms their enemy's deck, attempting to force the other captain to walk the plank. Each player's turn consists of drawing a card, playing one or more cards to strengthen their ship and tactical position, moving your pirate crew, and finally, having them fight the foeman or take advantage and pillage the enemy&rsquo;s ship. The goal of the game is to force your opponent&rsquo;s captain to walk the plank.&#10;&#10;Gameplay is designed to emulate tactical melee battles with a unique dice mechanic that is easy to learn and quick to play, especially for beginning gamers. It bears certain similarities to wargames like Axis and Allies, but on a much smaller, more fast-paced scale. The components are 72 cards which build the play layout and form the draw deck, 34 crew tokens, and a small handful of pirate themed six-sided dice.&#10;&#10;Ghost Pirates was named to the 2014 GAMES 100 list, Honorable Mention, Family.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Dice",
+      "Pirates",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Area Movement",
+      "Dice Rolling"
+    ],
+    "Families": [
+      "Crowdfunding: Kickstarter",
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "22037",
+    "Name": "Valley of the Pharaohs",
+    "ID": 25004,
+    "Year": "(2006)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "5.77",
+    "Link": "https://boardgamegeek.com/boardgame/25004/valley-of-the-pharaohs",
+    "Min Players": "3",
+    "Max Players": "6",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "1.5333",
+    "Description": "(from publisher)&#10;Egypt 1926. The Valley of the Pharaohs holds many secrets, but none so great as the Scepter of Amun-Ra. In this grand adventure you play a character tasked with collecting the legendary Scepter. As you make your way to the Valley of the Pharaohs you will face desert bandits, blinding sandstorms and the ill wishes of your fellow players. But safe haven and good fortune can be found within the oasis of the friendly Bedouin. If you&rsquo;re feeling lucky you can spin the Wheel of Fate. Collect resources to overcome obstacles or lay obstacles to hinder your opponents. Roll doubles and you control the mummy, but beware no one masters the mummy for long. Valley of the Pharaohs comes packaged in an authentic wooden book-box and is played on a beautifully illustrated map of Egypt. Cast metal playing pieces, metal coins and individual character cards provide rich context and detail to this exciting game of fortune and peril.&#10;&#10;",
+    "Categories": [
+      "Adventure",
+      "Ancient"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move",
+      "Set Collection"
+    ],
+    "Families": [
+      "Ancient: Egypt",
+      "Cities: Luxor (Egypt)",
+      "Country: Egypt",
+      "Occupation: Adventurer / Explorer"
+    ]
+  },
+  {
+    "Rank": "22038",
+    "Name": "Roots: A Game of Inventing Words",
+    "ID": 168055,
+    "Year": "(2015)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "6.03",
+    "Link": "https://boardgamegeek.com/boardgame/168055/roots-a-game-of-inventing-words",
+    "Min Players": "3",
+    "Max Players": "5",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "1.3333",
+    "Description": "Roots is a game of inventing words. Players combine Prefix and Suffix cards to create new words, competing for the best connection to a Subject card. Whoever delivers the best explanation for their word captures that Subject card, gaining a potential piece of their secret Win condition. But stay sharp: players can manipulate each other's progress with various Power cards, undermining opponents while advancing themselves. The result is narrative warfare in which the most creative, best spoken, and craftiest thrive.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Educational",
+      "Party Game",
+      "Print & Play",
+      "Word Game"
+    ],
+    "Mechanics": [
+      "Hand Management",
+      "Storytelling",
+      "Tile Placement",
+      "Voting"
+    ],
+    "Families": [
+      "Crowdfunding: Kickstarter"
+    ]
+  },
+  {
+    "Rank": "22039",
+    "Name": "Liski: Ojojanie",
+    "ID": 277434,
+    "Year": "(2019)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "5.76",
+    "Link": "https://boardgamegeek.com/boardgame/277434/liski-ojojanie",
+    "Min Players": "1",
+    "Max Players": "5",
+    "Min Play Time": "25",
+    "Play Time": "25",
+    "Weight": "2.3333",
+    "Description": "Liski: Ojojanie (Foxes: Ojojanie) is a cooperative board game, where in the role of the heroes of Foxy Kingdom, we come to save foxes from the nightmares and problems.&#10;&#10;The objective of the game is to defeat the Nightmare after the 5 rounds of preparing. We will have to try again if any of the foxes will be lack of cheese or if the Nightmare became too powerful.&#10;&#10;Each round we will try to defeat the biggest amount of Problems and Complications (toughest Problems). We do it with cards &quot;Ojojoj&quot; which we place under the Problems to gather required symbols. We have to do that before time left (before the music from the Foxy application ends).&#10;&#10;",
+    "Categories": [
+      "Animals",
+      "Humor"
+    ],
+    "Mechanics": [
+      "Cooperative Game"
+    ],
+    "Families": [
+      "Animals: Foxes",
+      "Crowdfunding: Wspieram"
+    ]
+  },
+  {
+    "Rank": "22040",
+    "Name": "Artefakt",
+    "ID": 99707,
+    "Year": "(2011)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "5.65",
+    "Link": "https://boardgamegeek.com/boardgame/99707/artefakt",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "1.25",
+    "Description": "During an excavation archaeologists found hints that point to a legendary treasure containing valuable artifacts such as royal jewels, holy relics and magnificent weapons. These artifacts were alledgedly hidden by a secret order in various mythical places, and hardly has the first information about this treasure been leaked before archaeologists and adventurers race off to try to discover this artifact before anyone else can.&#10;&#10;In Artefakt, each player starts with three experts (game pieces) to send on a treasure hunt, using dice and cards to try to get them to the most rewarding locations in order to find fragments of artifacts. Each round, after rolling the dice and laying out new fragments to discover, players secretly assign one of their four movement cards (numbered 1-4) to each of their three experts. In turn order, players reveal the first card, move that figure clockwise or counterclockwise that number of spaces around the circle of ten tiles, then reveal the second card, and so on.&#10;&#10;Once all experts have moved, the tiles are resolved in numerical order. Any player who stands on a tile with no competition takes all the fragments located there; if more than one player is on a tile, the player with the most experts either takes all the fragments on that tile or one face-down fragment from another player on that tile. After a player takes or steals fragments, he can choose to use the special power on that tile: break a tie in your favor on another tile, take a fragment from the pool, move one expert owned by another player one space, and so on.&#10;&#10;In the basic game, only four of the tiles are face-up with active powers; in the advanced game, these same four tiles start face-up but at the end of a round the starting player turns one tile of his choice face-up before passing the starting player marker.&#10;&#10;As soon as one player collects all four different fragments of one artifact, he wins the game.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Dice"
+    ],
+    "Mechanics": [
+      "Area Majority / Influence",
+      "Dice Rolling",
+      "Simultaneous Action Selection"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "22041",
+    "Name": "Flea Market",
+    "ID": 172410,
+    "Year": "(2015)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "5.61",
+    "Link": "https://boardgamegeek.com/boardgame/172410/flea-market",
+    "Min Players": "3",
+    "Max Players": "5",
+    "Min Play Time": "20",
+    "Play Time": "40",
+    "Weight": "1",
+    "Description": "It's Market Day, so head down to the flea market to see what hidden treasures you can find. As a buyer's agent, you are trying to find popular items, buy them cheap, and sell them for a profit!&#10;&#10;If you are the first player to earn $45 in Flea Market, you win!&#10;&#10;&#10;Game Summary&#10;Players start with some money and 2d6. The goods tokens are numbered 3-18 and placed on the board. Each turn, the current player rolls 3d6 and that item goes up for auction. If it's another player's item, that player becomes the Auctioneer. Bidders (non-Auctioneers) all roll 2d6 secretly, and are allowed one reroll. Then reveal your dice: from high to low, players get the option to buy the item for the sum of their dice, paying the Auctioneer. If the token belonged to a player, that player also gets a bonus $3-7 (depending on how far in the game you are). If no one buys it, the current player gets it for free (if it's another player's item, they keep it)! The game ends as soon as someone gets $45 = winner!&#10;&#10;",
+    "Categories": [
+      "Dice",
+      "Economic"
+    ],
+    "Mechanics": [
+      "Auction / Bidding",
+      "Dice Rolling"
+    ],
+    "Families": [
+      "Admin: Better Description Needed!"
+    ]
+  },
+  {
+    "Rank": "22042",
+    "Name": "Exalted: War for the Throne",
+    "ID": 29118,
+    "Year": "(2007)",
+    "Geek Rating": "5.506",
+    "Avg Rating": "5.74",
+    "Link": "https://boardgamegeek.com/boardgame/29118/exalted-war-for-the-throne",
+    "Min Players": "2",
+    "Max Players": "5",
+    "Min Play Time": "180",
+    "Play Time": "180",
+    "Weight": "2.9333",
+    "Description": "FROM White Wolf's website:&#10;&#10;The Empire Could Be Yours!&#10;&#10;In a vast, fantastic world known as Creation, a dynastic empire called the Realm stood for hundreds of years, presided over by the powerful and cunning Scarlet Empress. She reigned with an absolute hand until the day she mysteriously disappeared, leaving a legacy of ruin. Before long, suitors to the throne dared make their bid for power. You are one of the contenders for the Scarlet Throne, a Dragon-Blooded who has amassed the vast armies, fortunes and magic necessary to seize your destiny. You seek to claim dominions and raise war manses, building power until you have the lore and strength to claim the Imperial Manse for your own.&#10;&#10;Exalted: War for the Throne is a strategy board game for two to five players set in the world of Exalted&reg;. Players amass legions, coin and essence, and bring all of their allies, will and luck to bear to claim the seat of power and become the new emperor of the Realm.&#10;&#10;This game includes:&#10;&#10;&bull; A fold-out board with a map of the Blessed Isle, the battleground for the throne&#10;&#10;&bull; 5 different aspects from which to choose, all with their own playing pieces and unique powers&#10;&#10;&bull; 50 Events Cards and 25 Charm Cards with which to attack, deceive and stymie opponents&#10;&#10;&bull; All the dice you need to play&#10;&#10;ISBN: 978-1-58846-542-9&#10;&#10;",
+    "Categories": [
+      "Fantasy",
+      "Fighting",
+      "Medieval"
+    ],
+    "Mechanics": [
+      "Area Movement",
+      "Dice Rolling"
+    ],
+    "Families": [
+      "Components: Map (Continental / National scale)",
+      "Versions & Editions: Board Game Versions of Role-Playing Games"
+    ]
+  },
+  {
+    "Rank": "22043",
+    "Name": "AlderQuest",
+    "ID": 253420,
+    "Year": "(2021)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "6.24",
+    "Link": "https://boardgamegeek.com/boardgame/253420/alderquest",
+    "Min Players": "1",
+    "Max Players": "4",
+    "Min Play Time": "60",
+    "Play Time": "90",
+    "Weight": "3",
+    "Description": "High councils of Aleron have initiated a four-seasons tournament with an urgent summons to the many houses of the realm. Guilds local to the Great Tree Aiyana have convened at her watershed to take part in the first contest, as autumn slowly expires.&#10;&#10;Rival guilds of animal heroes and minions will square off in a competition that blends area control, tile placement, hidden information, bluffing, and traditional match-3. The team that gathers the most acorns before the start of winter is the contest's victor.&#10;&#10;",
+    "Categories": [
+      "Card Game"
+    ],
+    "Mechanics": [
+      "Area Majority / Influence",
+      "Pattern Building",
+      "Tile Placement"
+    ],
+    "Families": [
+      "Crowdfunding: Kickstarter",
+      "Misc: LongPack Games",
+      "Theme: Anthropomorphic Animals"
+    ]
+  },
+  {
+    "Rank": "22044",
+    "Name": "404: Law Not Found",
+    "ID": 145209,
+    "Year": "(2013)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.79",
+    "Link": "https://boardgamegeek.com/boardgame/145209/404-law-not-found",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "2.2857",
+    "Description": "404: Law Not Found is a competitive action programming game with hidden objectives. Players take the role of robots that awaken after an upgrade to find their three laws replaced with nonsensical directives such as &quot;Explore Breathing&quot; or &quot;Improvise Science&quot;. Players race to complete objectives based on these directives, the first player to complete all three directives wins the game.&#10;&#10;The game opens with players drafting directives, providing them with a partial knowledge of each others' objectives. Each turn the ship encounters an obstacle, such as a meteor or enemy ship. Once that's been revealed the (relatively helpless) human crew make a quick reaction. Then the bulk of the turn is spent by the players choosing actions for their robots to take in service to their directives, before finally the event is resolved if it has not been neutralized in some way. The game ends once a player completes all three directives or the ship has encountered ten events.&#10;&#10;The actions are general (move right, move left, turn on the machine in this room) and the directives might specify interactions with any part of the game (events, items, crew, machines, other robots). The wellbeing of the ship or its crew has no special place in the victory conditions, the state of the ship at the end of a game where a robot has to &quot;Empower Technology&quot; (repair at least two damaged machines) might differ from one in which a robot is trying to &quot;Improvise War&quot; (fire a living crewman and hit an enemy ship).&#10;&#10;",
+    "Categories": [
+      "Print & Play",
+      "Science Fiction",
+      "Space Exploration"
+    ],
+    "Mechanics": [
+      "Action Queue",
+      "Area Movement",
+      "Open Drafting",
+      "Simultaneous Action Selection",
+      "Variable Player Powers"
+    ],
+    "Families": [
+      "Crowdfunding: Kickstarter",
+      "Digital Implementations: TableTop Simulator Mod (TTS)"
+    ]
+  },
+  {
+    "Rank": "22045",
+    "Name": "Trivial Pursuit: Doctor Who",
+    "ID": 151947,
+    "Year": "(2013)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.56",
+    "Link": "https://boardgamegeek.com/boardgame/151947/trivial-pursuit-doctor-who",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "1",
+    "Description": "600 questions celebrating 50 years of Doctor Who, including specific episodes, villains, quotes, plot lines, and more. Players test their knowledge of Time Lords, Monsters, Companions, and more.&#10;&#10;Playable standalone or as extra questions in Trivial Pursuit.&#10;&#10;",
+    "Categories": [
+      "Movies / TV / Radio theme",
+      "Science Fiction",
+      "Trivia"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Game: Trivial Pursuit",
+      "Trivia: Television",
+      "TV Shows: Doctor Who"
+    ]
+  },
+  {
+    "Rank": "22046",
+    "Name": "Operation Cerberus: The Channel Dash",
+    "ID": 121324,
+    "Year": "(2011)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.87",
+    "Link": "https://boardgamegeek.com/boardgame/121324/operation-cerberus-the-channel-dash",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "20",
+    "Play Time": "20",
+    "Weight": "1.5833",
+    "Description": "This is the twelfth game in the Pocket Battle Games series from LPS, Inc.&#10;&#10;From Wikipedia:&#10;&#10;The Channel Dash, (codenamed Operation Cerberus by the Germans), was a major naval engagement during World War II in which a German Kriegsmarine squadron consisting of both Scharnhorst class battleships, and heavy cruiser Prinz Eugen along with escorts, ran a British blockade and successfully sailed from Brest in Brittany to their home bases in Germany via the English Channel.&#10;&#10;As the German player you want to push your capital ships through the Channel, attracting as little attention to them as possible. Where needed the Luftwaffe will support you, tackling any possible opposition by the RAF or Royal Navy. And hopefully you will not hit any mines...&#10;&#10;As the British player you hope to raise the alarm as soon as possible. Depending on the level of alert you can deploy the RAF and Royal Navy and sink the Kriegsmarine's hope of dashing through unscathed.&#10;&#10;",
+    "Categories": [
+      "Nautical",
+      "Wargame",
+      "World War II"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Events",
+      "Point to Point Movement",
+      "Simulation",
+      "Track Movement",
+      "Variable Set-up"
+    ],
+    "Families": [
+      "Cities: Brest (Brittany, France)",
+      "Components: Postcard games",
+      "Magazine: Against The Odds",
+      "Players: Two-Player Only Games",
+      "Players: Wargames with Rules Supporting Only Two Players",
+      "Series: Pocket Battle Games (LPS)"
+    ]
+  },
+  {
+    "Rank": "22047",
+    "Name": "Lunte",
+    "ID": 163478,
+    "Year": "(2014)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.79",
+    "Link": "https://boardgamegeek.com/boardgame/163478/lunte",
+    "Min Players": "3",
+    "Max Players": "6",
+    "Min Play Time": "15",
+    "Play Time": "20",
+    "Weight": "1",
+    "Description": "In Lunte, signed from a 2012/2013 game author's competition, the fuse is burning. Players take turns quickly adding more fuse cards to a continuously growing fuse until someone lets the bomb explode by playing one of his bomb cards, thereby earning him all of the fuse cards in play. He takes these cards, leaving only the starting match in play, then the fuse is lit once again.&#10;&#10;Each fuse card has a value, and playing the bomb cards too early doesn't bring many points; that said, waiting too long to score lets others play their defuse cards &mdash; which cuts the fuse back to the match and removes those fuse cards from the game &mdash; or jump in with a bomb card of their own (which nets them any defuse cards played since the previous bomb). You might want to hold on to high-valued fuse cards rather than let others snatch them up, but the game ends when all bombs have been played or the time bomb (inserted in the deck at the start of play) goes off. When that happens, everyone tallies their cards, then loses points for all the fuses in hand. Whichever bomb thrower has the highest score wins!&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Humor",
+      "Real-time"
+    ],
+    "Mechanics": [
+      "Memory",
+      "Push Your Luck"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "22048",
+    "Name": "A Dog's Life",
+    "ID": 2940,
+    "Year": "(2001)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.57",
+    "Link": "https://boardgamegeek.com/boardgame/2940/a-dogs-life",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "90",
+    "Play Time": "90",
+    "Weight": "1.8281",
+    "Description": "The object of the game is for a dog to locate four bones and carry them safely back to his home.   Bones tend to be found in trash cans and are sometimes given as rewards for successfully delivering newspapers to various establishments.  Players must also pay close attention to their bellies as their hunger level drops with each passing round.  So, finding food is also a top priority.&#10;&#10;Life on the streets is tough as not only must players search for food and bones, but they also must fend off rival dogs and that pesky dog catcher.&#10;&#10;",
+    "Categories": [
+      "Animals"
+    ],
+    "Mechanics": [
+      "Action Points",
+      "Area Movement",
+      "Pick-up and Deliver",
+      "Simulation",
+      "Variable Player Powers"
+    ],
+    "Families": [
+      "Animals: Dogs",
+      "Components: Miniatures"
+    ]
+  },
+  {
+    "Rank": "22049",
+    "Name": "Bubble Bath Bunny",
+    "ID": 166972,
+    "Year": "(2014)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.68",
+    "Link": "https://boardgamegeek.com/boardgame/166972/bubble-bath-bunny",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "5",
+    "Play Time": "5",
+    "Weight": "1",
+    "Description": "Bubble Bath Bunny is splashing about in the bath tub with his two ducks when suddenly his toys disappear in the suds. Where are the bucket, whale and boat? Whoever can correctly recognize colors and symbols can help little bunny find all his bath toys.&#10;&#10;The instructions in Badehase provide several suggestions to help parents and their child become familiar with the game materials together and how they can use them in different games. This game collection will train a child's skills and abilities, including: fine motor skills, concentration, language skills and the recognition of colors and symbols. But mostly, their child will simply have a lot of fun playing while automatically learning at the same time.&#10;&#10;",
+    "Categories": [
+      "Children's Game"
+    ],
+    "Mechanics": [
+      "Memory",
+      "Pattern Recognition"
+    ],
+    "Families": [
+      "Animals: Rabbits / Hares",
+      "Series: My Very First Games (HABA)"
+    ]
+  },
+  {
+    "Rank": "22050",
+    "Name": "Skunk",
+    "ID": 3425,
+    "Year": "(1953)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.76",
+    "Link": "https://boardgamegeek.com/boardgame/3425/skunk",
+    "Min Players": "2",
+    "Max Players": "8",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "1",
+    "Description": "Similar to Cosmic Wimpout, but much easier and kid friendly.  This is a very simple point-scoring/risk-taking game in which players roll a set of two dice, where the &quot;1&quot; has been replaced by a picture of a skunk.  Everyone gets little poker chips, like in many gambling games, and a player rolls as much as he wishes during his turn, earning points equal to what he rolls. A player passes the dice when he wishes, but if he rolls one or two skunks, points rolled during that turn are ignored and penalties (in the form of discarding some of their poker chips) are enforced.  First player to achieve 100 points (or higher) wins that round, and play continues for as long players wish.  The winner is whoever has the most chips to his name (in typical poker values of 1, 5, and 10).  Number of max players seems to be only limited by the number of poker chips you use (each player starts with 50). This game is no longer manufactured, at least under the theme of &quot;Skunk.&quot;&#10;&#10;At least one BGG member has a copy dated 1953, but it's possible the game came out earlier.&#10;&#10;",
+    "Categories": [
+      "Animals",
+      "Dice"
+    ],
+    "Mechanics": [
+      "Betting and Bluffing",
+      "Dice Rolling",
+      "Push Your Luck"
+    ],
+    "Families": [
+      "Animals: Skunks",
+      "Components: Dice with Icons",
+      "Mechanism: Roll-and-Write"
+    ]
+  },
+  {
+    "Rank": "22051",
+    "Name": "Pom Pom",
+    "ID": 113402,
+    "Year": "(2011)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "6.03",
+    "Link": "https://boardgamegeek.com/boardgame/113402/pom-pom",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "10",
+    "Play Time": "10",
+    "Weight": "1.2",
+    "Description": "This game puts you in the shoes of fruits producers who are required to provide the most balanced possible productions.&#10;&#10;Early in the game, the producers have no cards in hand.&#10;In each round they have to choose between three possible actions:&#10;- Take one of the four cards face up on the table (replaced by a new card from the deck)&#10;- Draw a card face down from the deck, or&#10;- Discard a card from their hand in the compost pile (more commonly known as the discard pile).&#10;&#10;The goal is to form pairs of Fruits &amp; Vehgetables cards of the highest possible values &#226;&#128;&#139;for each season throughout a round.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Farming"
+    ],
+    "Mechanics": [
+      "Set Collection"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "22052",
+    "Name": "Yot\u00e9",
+    "ID": 9385,
+    "Year": null,
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.84",
+    "Link": "https://boardgamegeek.com/boardgame/9385/yote",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "10",
+    "Play Time": "10",
+    "Weight": "1.5",
+    "Description": "Yote is a traditional African capturing game in the Checkers family. It's played on a 5x6 board with 12 pieces per player and no standard setup, instead the players take turns placing their stones. Captures are made by jumping. In addition one can have the ability to jump multiple pieces. (A player that has just captured a opponents piece can capture another piece for each piece jumped.)&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy"
+    ],
+    "Mechanics": [
+      "Grid Movement"
+    ],
+    "Families": [
+      "Category: Combinatorial",
+      "Components: 5 x 6 Grids",
+      "Country: Mali",
+      "Country: Senegal",
+      "Crowdfunding: Kickstarter",
+      "Digital Implementations: Ai Ai",
+      "Digital Implementations: Tabletopia",
+      "Players: Two-Player Only Games",
+      "Series: LUDOS Africa (Lemery Games)"
+    ]
+  },
+  {
+    "Rank": "22053",
+    "Name": "Zombie Island",
+    "ID": 156557,
+    "Year": "(2014)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.72",
+    "Link": "https://boardgamegeek.com/boardgame/156557/zombie-island",
+    "Min Players": "1",
+    "Max Players": "4",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "1.1667",
+    "Description": "The family vacation isn't going according to plan. Your boat sprang a leak, but luckily you made it to the beach of a remote tropical island. While you were making repairs your family wandered off. Time to go explore the island and find them. Man, that's thick jungle! Good thing you have a machete as you're going to need it...&#10;&#10;Zombie Island is all about tactical tile placement and strategic piece movement. The core mechanisms contained in the initial scenarios are the foundation for future expansions and many more scenarios to come! This core game is made for 1-4 players (including an easy-to-learn solo game) and plays in 15-45 minutes.&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy",
+      "Adventure",
+      "Dice",
+      "Exploration",
+      "Horror",
+      "Maze",
+      "Miniatures",
+      "Zombies"
+    ],
+    "Mechanics": [
+      "Grid Movement",
+      "Modular Board",
+      "Tile Placement"
+    ],
+    "Families": [
+      "Creatures: Zombies",
+      "Crowdfunding: Kickstarter"
+    ]
+  },
+  {
+    "Rank": "22054",
+    "Name": "Evade",
+    "ID": 1735,
+    "Year": "(1971)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.71",
+    "Link": "https://boardgamegeek.com/boardgame/1735/evade",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "10",
+    "Play Time": "10",
+    "Weight": "1.4545",
+    "Description": "Evade is an old (1971) 3M game, part of their  series of &#039;Gamettes&#039;, games which were released in very small, fold-over bookcase type boxes.  There were 9 games in this series, which were released near the end of the 3M venture into the gaming market.&#10;&#10;The game is extremely simple, yet requires quite a bit of 'bluffing' in order to win.  Each player begins with six metal pawns along the back row of a 6x6 grid.  The board fits snuggly into the box itself and is quite sturdy.  The game is, as is the entire Gamette series, ideal for bringing along while traveling.&#10;&#10;Each player secretly places a teeny magnet under two of his pawns.  The object is to be the first player to maneuver one of these 'magnet-bearing' pawns to the opposite side of the board.  If you manage to accomplish this feat, you win.&#10;&#10;Movement is simple.  You simply move one of your pawns one space to an adjacent space ... vertically, horizontally or diagonally.  If this lands you atop an opponent's pawn, you are both 'frozen' and can no longer move.  If you make the mistake of moving one of your 'magnet' pawns onto an opponent, he instantly wins.  &quot;Well&quot;, you say, &quot;Why wouldn't I just check the pawn to make sure it wasn't carrying a magnet before making such a questionable move?&quot;.  The rules allow for this, but if you do check, you are prohibited from 'freezing' an opponent that round.  So, it's best to remember which two of your pawns are carrying magnets.&#10;&#10;As mentioned, the game ends as soon as one player manages to get a magnet-bearing pawn to the opposite side of the board.  If both players fail to accomplish this, the game is a draw.&#10;&#10;The game is very simple and the primary tactic is 'bluff'.  Are you going to be bold and move one of your 'magnet' pawns to the front, figuring your opponent will guess that this cannot possibly be your magnet pawn as he could freeze it too easily?  Or, do you protect your magnet pawns and try to create a path that it can squeeze by your opponent's pawns and scoot to the opposite side?  As with most bluff-style games, there's some guesswork and plain old luck involved, but there is still enough maneuvering and tactics to keep it interesting.&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy"
+    ],
+    "Mechanics": [
+      "Secret Unit Deployment",
+      "Square Grid"
+    ],
+    "Families": [
+      "Components: 6 x 6 Grids",
+      "Players: Two-Player Only Games",
+      "Series: 3M Gamettes"
+    ]
+  },
+  {
+    "Rank": "22055",
+    "Name": "Linkage: A DNA Card Game",
+    "ID": 157586,
+    "Year": "(2014)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.81",
+    "Link": "https://boardgamegeek.com/boardgame/157586/linkage-a-dna-card-game",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "10",
+    "Play Time": "20",
+    "Weight": "1.4667",
+    "Description": "Linkage is competitive card game that is simple to learn, yet offers lots of depth, forward thinking and replay-ability for 2 to 4 players. But best of all, Linkage was designed and themed around a process normally taught in high school biology, DNA Transcription, (when an RNA copy is made from DNA for protein synthesis or other in a cell) and in this way offers a unique, engaging and tactile experience for someone to familiarize themselves with this fundamental concept of biology.&#10;  &#10;In Linkage, DNA cards are randomly aligned side-by-side creating a DNA template strand. Players compete to build the most accurate RNA copy of this DNA Template by connecting their own RNA Cards side-by-side to match the DNA Template.&#10;&#10;During a turn, players choose between one of four actions: Building onto their RNA Strand, Fixing their RNA strand, Mutating an opposing players RNA Strand, or Mutating the actual DNA Strand. Players can also pay (discard) cards from their hand to take extra actions during their turn.&#10;&#10;Players are awarded points based upon the number of RNA Cards in their strand that correctly pair with the DNA template. The game can be played in as little 10 to 20 minutes but additional rounds can be added for a longer, more in-depth game. Multiple decks can also be added together for a game with more than 4 people, or a longer overall game.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Educational",
+      "Medical"
+    ],
+    "Mechanics": [
+      "Hand Management",
+      "Pattern Building",
+      "Pattern Recognition",
+      "Take That"
+    ],
+    "Families": [
+      "Crowdfunding: Kickstarter",
+      "Series: Science Games (Genius Games)",
+      "Theme: Biology",
+      "Theme: Science"
+    ]
+  },
+  {
+    "Rank": "22056",
+    "Name": "We Rate Dogs: The Card Game",
+    "ID": 266778,
+    "Year": "(2019)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "6.05",
+    "Link": "https://boardgamegeek.com/boardgame/266778/we-rate-dogs-the-card-game",
+    "Min Players": "3",
+    "Max Players": "6",
+    "Min Play Time": "30",
+    "Play Time": "60",
+    "Weight": "1.6",
+    "Description": "They&rsquo;re good dogs, Brent! In the fast-paced card game for 3-6 players We Rate Dogs: The Card Game, based on the massively successful Twitter account WeRateDogs&trade;, good dogs compete to be the very best! Choose your favorite pups to enter a competitive dog show and use cards to improve their rating, bring down the competition, or cause chaos for a puptastic good time! Only one dog can be named the Goodest Dog, but not to worry: no dog will ever be less than a 10/10!&#10;&#10;HOW TO PLAY: Each dog has a set of six scored categories (none less than 10/10) and an overall &ldquo;Goodness&rdquo; score. After adopting dogs from the shelter, players join a dog show and, when one of the six categories is chosen for judging, send their best doggos into the ring to compete. Players can then play event cards for any number of game-changing results, including lowering or increasing a certain dog&rsquo;s rating number, changing the judging category, distracting dogs out of the competition entirely, swapping dogs with other players, and so much more! Each judging round includes three chances to play event cards, so players can strategize and play for the long or short term&mdash;the dog with the highest rating at the end of the judging round will go to the winner&rsquo;s circle! Once the Winner&rsquo;s Circle is full of good dogs, there is one final judging round for overall Goodness&mdash;but event cards can still provide chaotic and unexpected results before one dog is finally named the Goodest Dog!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Animals",
+      "Card Game"
+    ],
+    "Mechanics": [
+      "Take That"
+    ],
+    "Families": [
+      "Animals: Dogs"
+    ]
+  },
+  {
+    "Rank": "22057",
+    "Name": "3 Little Pigs",
+    "ID": 320766,
+    "Year": null,
+    "Geek Rating": "5.505",
+    "Avg Rating": "6.00",
+    "Link": "https://boardgamegeek.com/boardgame/320766/3-little-pigs",
+    "Min Players": "1",
+    "Max Players": "4",
+    "Min Play Time": "10",
+    "Play Time": "20",
+    "Weight": "1",
+    "Description": "The first cooperative game for toddlers. The three little pigs have to go home before the wolf.&#10;&#10;Three little pigs is a simple game from 2 years old and which takes around 10 minutes to play. It is ideal to start learning the rules.&#10;&#10;The board represent three paths to pig's house plus another for the wolf. Players roll a dice each turn which have a different color in each side.&#10;&#10;Yellow, red and blue allow one of the pigs to move to the next square if it match the color. White allows the player to move a pig of his choice. Black implies to move the wolf closer to the house and the flower allows the player to take one of the flower tiles that could lead to the three pigs moving one square each closer to the house or a movement for the wolf.&#10;&#10;The players win if the three pigs reach the house before the wolf does. They lose if the wolf arrives before.&#10;&#10;&mdash;user summary&#10;&#10;",
+    "Categories": [
+      "Animals"
+    ],
+    "Mechanics": [
+      "Cooperative Game"
+    ],
+    "Families": [
+      "Animals: Pigs"
+    ]
+  },
+  {
+    "Rank": "22058",
+    "Name": "Urban Panic",
+    "ID": 159507,
+    "Year": "(2014)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.59",
+    "Link": "https://boardgamegeek.com/boardgame/159507/urban-panic",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "40",
+    "Play Time": "60",
+    "Weight": "2",
+    "Description": "The world of investments awaits, but be aware, the task is very responsible. The player's goal is to build a city with the help of five loyal helpers. Architect, mayor, planner, engineer and a spy will do all they can to create new places of public use so that living in your metropolis is more comfortable than anywhere else.&#10;&#10;In the centre of the Urban Panic play area is a main board with open city tiles placed on it. Next to the board lies a face-down pile with the remaining tiles. Each player receives a player board, and on this board you will build a city. In your turn, you have to perform actions of the architect which will enable you to take one tile from the main board. In the current turn, you can perform two more actions. You may exchange all of the revealed tiles with those from the pile, place a tile on your board, or change the places of two tiles on your board. Each building added to the city results in its development: number of residents, number of workplaces, ecology, revenue or the satisfaction of residents either increases or decreases. The most important thing is to fill the board with city tiles so that each tile is connected to the center of the board. You cannot forget to fulfill the needs of the residents. The winner is the player who not only builds and develops the city fastest, but avoids unemployment and takes care of the residents' needs.&#10;&#10;",
+    "Categories": [
+      "City Building",
+      "Economic",
+      "Real-time"
+    ],
+    "Mechanics": [
+      "Tile Placement"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "22059",
+    "Name": "Bamboozled",
+    "ID": 277154,
+    "Year": "(2019)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.79",
+    "Link": "https://boardgamegeek.com/boardgame/277154/bamboozled",
+    "Min Players": "2",
+    "Max Players": "8",
+    "Min Play Time": "5",
+    "Play Time": "15",
+    "Weight": "1",
+    "Description": "Bamboozled is a fast-paced party style bluffing game. In this hilarious new game you try to outwit your friends and family and be the last one standing. Players roll dice in subsequent turns and must get a higher roll than the previous player. If they don't they have to convince the next player that they did. If a player calls a bluff the bluffing player gets a strike. 3 strikes and you're out!&#10;&#10;BUT! Each player starts with an action card that will help you bluff or force someone else to make the call. Even if you have to bluff you may be able to use an action card to make it true and give the other player a strike, so play your cards carefully.&#10;&#10;Players can also get more cards by BAMBOOZLING other players, meaning, if you bluff and no one calls you on it, you get another card.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Bluffing",
+      "Card Game",
+      "Dice",
+      "Math",
+      "Party Game"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Player Elimination",
+      "Take That"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "22060",
+    "Name": "F**k. The Game",
+    "ID": 182168,
+    "Year": "(2015)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.62",
+    "Link": "https://boardgamegeek.com/boardgame/182168/fk-the-game",
+    "Min Players": "3",
+    "Max Players": "8",
+    "Min Play Time": "15",
+    "Play Time": "30",
+    "Weight": "1.2",
+    "Description": "F**k. The Game was kickstarted in 2015 and is the original Aussie swearing card game which will help you get smarter while swearing at your friends. Beware of poor copycat imitations.&#10;&#10;HOW DO YOU PLAY?&#10;&#10;This is a great social card game that will f**k with your head by using a hysterically tricky combination of colours and swear words:&#10;&#10;Players take turns to flip over a card and shout out what they see. &#10;Depending on your card, you might say its background colour, its text colour or a swear word.&#10;Keep playing until someone f**ks up and is forced to pick up all the cards.&#10;The winner is the first player to get rid of their cards.&#10;&#10;It sounds simple, but the cards use a psychological phenomenon &ndash; the Stroop effect &ndash; known to mess with your head and delay your brain&rsquo;s response. Players can&rsquo;t help but f**k up, sending the group into fits of laughter. &#10;Once you&rsquo;ve mastered the basics, you can take the game to a whole new level with more rules, more strategy and you can even create your own rules.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Mature / Adult",
+      "Party Game"
+    ],
+    "Mechanics": [
+      "Betting and Bluffing"
+    ],
+    "Families": [
+      "Card Games: Shedding / Stops",
+      "Crowdfunding: Kickstarter"
+    ]
+  },
+  {
+    "Rank": "22061",
+    "Name": "Manhunt",
+    "ID": 4969,
+    "Year": "(1972)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.91",
+    "Link": "https://boardgamegeek.com/boardgame/4969/manhunt",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "90",
+    "Play Time": "90",
+    "Weight": "1.3333",
+    "Description": "Game features a &quot;crime computer&quot; that is used for movement and to determine other game functions. Players become detectives and work alone or with a partner and choose a murder, robbery, or swindle investigation. Players visit crime scenes and gather evidence. 16 scanner cards are shuffled and one is selected at random and inserted into the Clue Scanner. This provides the clues that the detectives will need to solve the crime. Each player is provided with a detectives handbook to record clues and a readout book that lists known suspects for the different types of crimes. Clues can be obtained by visiting the crime scene, talking to witnesses, stakeouts, and at the crime lab. Suspects are eliminated by looking at behavior patterns consistent with that criminals past crime record. Clues can be taken from other detectives, but at the risk of giving up other clues as well. The first detective to identify the correct culprit wins. A fun game but a little dated by todays technology.&#10;&#10;",
+    "Categories": [
+      "Deduction",
+      "Electronic",
+      "Murder / Mystery"
+    ],
+    "Mechanics": [
+      "Deduction",
+      "Paper-and-Pencil",
+      "Race",
+      "Roll / Spin and Move",
+      "Take That",
+      "Team-Based Game",
+      "Track Movement",
+      "Variable Set-up"
+    ],
+    "Families": [
+      "Components: 3-Dimensional (3D)",
+      "Components: Miniatures",
+      "Theme: Mystery / Crime"
+    ]
+  },
+  {
+    "Rank": "22062",
+    "Name": "Ki az \u00far a tengeren?",
+    "ID": 40615,
+    "Year": "(1985)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "6.10",
+    "Link": "https://boardgamegeek.com/boardgame/40615/ki-az-ur-a-tengeren",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "2.5",
+    "Description": "In the middle of the 19th century the sailing boats are able to compete with the steamboats. A fierce war is to be done for the transporting between the continents. The sailors must face many dangers of the sea. You can taste all these in this adventurous game. You must make hard economical decisions. The game bits remind us of the contemporary wood-engraving, causing great excitement of this unforgettable game.&#10;&#10;Re-implemented by: Ki az &#195;&#186;r a tengeren?&#10;&#10;",
+    "Categories": [
+      "Nautical",
+      "Transportation"
+    ],
+    "Mechanics": [
+      "Pick-up and Deliver",
+      "Roll / Spin and Move"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "22063",
+    "Name": "Flash!",
+    "ID": 138748,
+    "Year": "(2013)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.68",
+    "Link": "https://boardgamegeek.com/boardgame/138748/flash",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "10",
+    "Play Time": "10",
+    "Weight": "1",
+    "Description": "Watch the sparks fly in Flash!, a lightning-fast dice dash. Players race to complete eight challenges of dice combinations while racking up the most points. Best not blink as any player could score in a flash!&#10;&#10;To start, each player receives six dice. Someone picks a challenge for the round: all dice even, three pairs, straight, flash!, etc. On the count of three, everyone starts to roll...and roll, and roll again, keeping the dice they like and trying again with the others until they achieve the combination. Roll a lightning bolt, and you can make it any number you wish. Once you've finished, collect the highest point chip available and write this number on your score pad. Move on to the next challenge and play through all eight rounds. Whoever has the highest score wins.&#10;&#10;If you're feeling like fortune is on your side, play Freestyle Flash and choose your challenge as you go!&#10;&#10;",
+    "Categories": [
+      "Dice"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Pattern Building"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "22064",
+    "Name": "Vampire",
+    "ID": 5554,
+    "Year": "(2003)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.66",
+    "Link": "https://boardgamegeek.com/boardgame/5554/vampire",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "1.2273",
+    "Description": "Die Nacht der Vampire is a casual game with a vampire hunting theme.&#10;&#10;Each player takes the role of a vampire hunter entering the grounds of Castle Gruselstein, Count Dracula's castle. The board features a unique, 3D design with one half the board containing the castle grounds and the other half containing the castle stairs and castle. The castle stairway is a molded plastic insert into the board with slots on each stair for the vampires to stand in vertically. At the back edge of the stairway, a cutout for the castle itself rises vertically from the board.&#10;&#10;The game setup includes populating the castle stairs with 11 vampires (6 castle guests, and 5 butlers). On each player's turn, they can take one of three actions: 1. Move their vampire hunter, then move the vampires, 2. Draw hunt cards, then move the vampires, or 3. Move the vampires, and then throw a garlic clove.&#10;&#10;Moving the vampires involves turning over a vampire card and sliding the number of vampires the number of spaces indicated on the designated rows.&#10;&#10;If the player throws a garlic clove, they declare how many hunt cards they would like to use, and then they turn over hunt cards one at a time. The hunt cards either move the garlic clove toward the vampires on the stair within the column or forces both the hunter and clove backward. If the clove reaches a vampire, the vampire is captured, removed from the stair, and replaced from the supply. When all vampires in the supply are exhausted, the Count is brought out.&#10;&#10;When the Count is captured, the game is over and the player with the most points in captured vampires wins.&#10;&#10;",
+    "Categories": [
+      "Horror"
+    ],
+    "Mechanics": [
+      "Grid Movement"
+    ],
+    "Families": [
+      "Components: 3-Dimensional (3D)",
+      "Creatures: Vampires"
+    ]
+  },
+  {
+    "Rank": "22065",
+    "Name": "Squint Junior",
+    "ID": 11413,
+    "Year": "(2004)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.95",
+    "Link": "https://boardgamegeek.com/boardgame/11413/squint-junior",
+    "Min Players": "3",
+    "Max Players": "8",
+    "Min Play Time": "20",
+    "Play Time": "20",
+    "Weight": "1",
+    "Description": "According to the publisher:&#10;&#10;&quot;SQUINT JUNIOR brings the eye-opening fun of the award winning game, SQUINT, to the entire family. Picture this! Players use transparent shape cards to build simple pictures. Other players guess what the picture might be. Young players learn how pictures are created from shapes and improve their perception skills.&quot;&#10;&#10;Overview and Components:&#10;&#10;Squint Junior has 42 shape cards, which are transparent, so that they may be flipped and overlapped (unlike the 72 opaque shape cards of the ages 12+ version, Squint). Both versions include 168 word cards, but the Junior version has only one word per side as opposed to three randomly chosen words of varying difficulty. The Squint Junior cards also show a picture of the word made from the card shapes, so the child just finds the right cards and duplicates the image. For a Light version, the sand timer is not used, and for an Expert version, the player ignores the picture on the card and comes up with their own interpretation.&#10;&#10;Reimplements: Squint&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Children's Game"
+    ],
+    "Mechanics": [],
+    "Families": [
+      "Components: Sand Timers",
+      "Components: Transparent Elements"
+    ]
+  },
+  {
+    "Rank": "22066",
+    "Name": "Candy Crush DUEL: Pocket Edition",
+    "ID": 345475,
+    "Year": "(2021)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.95",
+    "Link": "https://boardgamegeek.com/boardgame/345475/candy-crush-duel-pocket-edition",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "15",
+    "Play Time": "30",
+    "Weight": "0",
+    "Description": "Candy Crush DUEL the pocket edition is the smaller and easier version of the usual Candy Crush DUEL. 2 players battle each other by rolling dice and selecting candy to place on a grid. By creating the correct combinations, players score points. When the grid is full or there are no candy's left to place, the player with the most points wins.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy",
+      "Dice",
+      "Puzzle",
+      "Video Game Theme"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Grid Coverage",
+      "Pattern Building"
+    ],
+    "Families": [
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "22067",
+    "Name": "\u0170rcsemp\u00e9szek",
+    "ID": 235821,
+    "Year": "(2016)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "6.12",
+    "Link": "https://boardgamegeek.com/boardgame/235821/urcsempeszek",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "10",
+    "Play Time": "15",
+    "Weight": "2.4",
+    "Description": "In this Hungarian,  but language independent, game you are a space smuggler.  You have to use your energy to travel solar systems,  and trade with other ship. &#10;If you want to be the best,  you have to be clever, and make your action fast. &#10;Try to sell all of your cargo, and win the game.&#10;&#10;In the game you get two dice.  You don't have to throw, just put to a selected solar system, with a selected number of the dice. That's the betting, and you get the solar system(s). You have to do it in same time with the other players, and if you are ready, take a selected energy coin. You have to be fast, because everyone do it in same time, and if the last energy coin has been taken, the turn is finished. For the energy, you will get cargo (in four colour), and in the selected solar system(s), there are coloured ships, they will buy your cargos with the same colour. You will repeat this double turns a couple of times, and at the and of the game, you have to collect as many solar system as you can, and sell as many cargo as you can. You will get positive points for the solar systems and negative for the remained cargo.&#10;&#10;&mdash;user summary&#10;&#10;",
+    "Categories": [
+      "Racing",
+      "Space Exploration",
+      "Travel"
+    ],
+    "Mechanics": [
+      "Betting and Bluffing",
+      "Pick-up and Deliver",
+      "Trading"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "22068",
+    "Name": "Das Magische Labyrinth (Reisespiel)",
+    "ID": 279861,
+    "Year": "(2016)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.97",
+    "Link": "https://boardgamegeek.com/boardgame/279861/das-magische-labyrinth-reisespiel",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "10",
+    "Play Time": "15",
+    "Weight": "1",
+    "Description": "Which magician is the first to collect enough magic symbols? As if by magic, some paths in the magical labyrinth are closed. Only those who know the right spell, i.e. the secret colour, may move on.&#10;&#10;In this travel-version colour-coded tabs replace the magnets of the full version, which leads to a more memory like experience.&#10;This version has a 4x4 board, where the full version has a 6x6 board.&#10;&#10;&mdash;user summary&#10;&#10;",
+    "Categories": [
+      "Children's Game",
+      "Fantasy",
+      "Maze",
+      "Memory"
+    ],
+    "Mechanics": [
+      "Grid Movement",
+      "Memory",
+      "Modular Board",
+      "Network and Route Building",
+      "Set Collection"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "22069",
+    "Name": "5 More Minutes",
+    "ID": 334748,
+    "Year": "(2021)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "6.15",
+    "Link": "https://boardgamegeek.com/boardgame/334748/5-more-minutes",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "20",
+    "Play Time": "40",
+    "Weight": "1",
+    "Description": "In a very, very remote jungle a group of sloths have gathered under the light of the full moon for the great dream party.&#10;&#10;During this celebration they will share an intense nap in which these experienced dreamers will perceive and handle 3 types of energy:&#10;&#10;Only those who manage to master these energies through the different stages of the dream cycle can aspire to become the next Master!&#10;&#10;Show the rest of the players that you live your dreams to the fullest!&#10;&#10;&mdash;description from the designer&#10;&#10;",
+    "Categories": [
+      "Animals",
+      "Card Game"
+    ],
+    "Mechanics": [],
+    "Families": [
+      "Animals: Sloths"
+    ]
+  },
+  {
+    "Rank": "22070",
+    "Name": "Timeline Twist: Star Wars",
+    "ID": 409925,
+    "Year": "(2023)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.94",
+    "Link": "https://boardgamegeek.com/boardgame/409925/timeline-twist-star-wars",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "20",
+    "Play Time": "30",
+    "Weight": "1",
+    "Description": "Timeline Twist: Star Wars is a new version of the game Timeline, with gameplay now being co-operative instead of competitive.&#10;&#10;In this game, players team up, communicate, and co-ordinate to find the best strategy to play 36 cards out of one hundred total. The team's goal is to get rid of all the cards players have in hand, either by placing as many events as possible in the right order on the timelines or by discarding them wisely.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Trivia"
+    ],
+    "Mechanics": [
+      "Cooperative Game"
+    ],
+    "Families": [
+      "Game: Timeline",
+      "Mechanism: Card Line"
+    ]
+  },
+  {
+    "Rank": "22071",
+    "Name": "Pyramid",
+    "ID": 3946,
+    "Year": "(1978)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.80",
+    "Link": "https://boardgamegeek.com/boardgame/3946/pyramid",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "10",
+    "Play Time": "10",
+    "Weight": "1.4286",
+    "Description": "Pyramid&#10;&#10;Contents:  24 pyramids, 12 black and 12 gold&#10;&#10;Goal of the game:  The winner is the first player to place 5 pyramids of their color in a row, either horizontally, vertically, or diagonally.&#10;&#10;The first player places one of his pyramids on the table.  The second player places one of his pyramids in such a way that it is touching one of the four edges or four corners of Player A&rsquo;s pyramid. Play continues in this manner, each player following the other by placing one pyramid in turn.&#10;&#10;If after all 24 pyramids are played and neither player successfully places 5 pyramids in a row then play continues but players remove and replace one of their already placed pyramids on their turn. Play continues until one player has placed 5 pyramids in a row.&#10;&#10;This game was released by Hasbo in Germany and the US.&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy"
+    ],
+    "Mechanics": [
+      "Pattern Building"
+    ],
+    "Families": [
+      "Ancient: Egypt",
+      "Category: n in a row",
+      "Cities: Giza (Egypt)",
+      "Components: 8 x 8 Grids",
+      "Constructions: Pyramids",
+      "Country: Egypt",
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "22072",
+    "Name": "Ophiuchus: The Thirteenth Constellation",
+    "ID": 184900,
+    "Year": "(2015)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "6.08",
+    "Link": "https://boardgamegeek.com/boardgame/184900/ophiuchus-the-thirteenth-constellation",
+    "Min Players": "1",
+    "Max Players": "4",
+    "Min Play Time": "30",
+    "Play Time": "60",
+    "Weight": "2",
+    "Description": "Ophiuchus is composed by 27 title cards and 13 cards representing the 13 constellations.&#10;&#10;Players, in turn, will place a card next to another card in order to form horizontal or vertical sequences of symbols corresponding to the drawings on the constellation cards. The goal of the game is to accumulate more points than other players.&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy",
+      "Science Fiction"
+    ],
+    "Mechanics": [
+      "Set Collection",
+      "Tile Placement"
+    ],
+    "Families": [
+      "Theme: Astronomy"
+    ]
+  },
+  {
+    "Rank": "22073",
+    "Name": "Lab Wars",
+    "ID": 189434,
+    "Year": "(2016)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.74",
+    "Link": "https://boardgamegeek.com/boardgame/189434/lab-wars",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "30",
+    "Play Time": "60",
+    "Weight": "2",
+    "Description": "Lab Wars is the science themed card game of building up your lab and sabotaging your competitors all for scientific glory!&#10;&#10;How to play:&#10;Players start play with a research team of 5 lab characters and 3 lab item cards in their hand. At the beginning of each round players will reveal which character they will be playing in a rock, paper, scissors mechanism. When it is the player's turn their character activates an attack (a resource bonus) if another player has played the targeted character and an extra character specific bonus. If a player is successfully sabotaged they also gain a sabotage card decreasing their &quot;Impact point&quot; total (see end).&#10;&#10;Players will then purchase lab item cards into their lab area from their hand. Lab items can combine to create combos which give the player more research points of the drawing of more cards. Players may also play action cards which have variable effects. Players gain action cards by the successful sabotage of another player or by playing the professor card.&#10;&#10;If players have enough research points they can purchase from an open supply of 3 different &quot;impact cards&quot;. They become more expensive to purchase as they get bought up. Players need impact cards to give themselves impact points which are needed to win the game.&#10;&#10;Once the player has finished their turn the next player has their turn. Once all players have finished their turn players start over and reveal which new character they will be playing that round. From the beginning of the second round and future rounds each player receives 2 research points and 1 lab item card from the lab item deck.&#10;&#10;How to win and end the game:&#10;The game ends at the end of the round when 2 of the 3 supply cards have run out, with the player with the most impact points winning the game. Bonuses are also given to those with the most remaining research points, lab items in their lab area and Nurture paper impact cards.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Educational",
+      "Party Game"
+    ],
+    "Mechanics": [
+      "Hand Management",
+      "Open Drafting",
+      "Rock-Paper-Scissors",
+      "Simulation"
+    ],
+    "Families": [
+      "Theme: Biology",
+      "Theme: Science"
+    ]
+  },
+  {
+    "Rank": "22074",
+    "Name": "City",
+    "ID": 900,
+    "Year": "(1988)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.60",
+    "Link": "https://boardgamegeek.com/boardgame/900/city",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "1.625",
+    "Description": "The board shows a view of a shopping parade from above. Players mark the shops that they own and try to attract customers as they move around the square. The board has a scoring track and there is an element of swindling your opponents.&#10;&#10;From MNG-AJM Games Catalog 2005:  Players purchase shops and then enhance them and buy more shops as the game goes on.  The board shows an overhead view of a city centre around which customers wander - some normal, some big spenders and one thief. A special die is used to let you move a customer - the idea being to direct the spenders to your shops and away from those of opponents while making sure the thief stays away from your shops and goes to as many opponents' shops as possible.&#10;&#10;The game was redeveloped and published as The Market of Alturien, the first game in the Alturien series.&#10;&#10;",
+    "Categories": [
+      "Economic"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "22075",
+    "Name": "I'm Right You're Wrong",
+    "ID": 339251,
+    "Year": "(2021)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "6.75",
+    "Link": "https://boardgamegeek.com/boardgame/339251/im-right-youre-wrong",
+    "Min Players": "2",
+    "Max Players": "5",
+    "Min Play Time": "5",
+    "Play Time": "15",
+    "Weight": "1.5",
+    "Description": "What if petty arguments were like a card battle game?&#10;&#10;Would you be mean or would you be nice?&#10;&#10;I&rsquo;m Right You&rsquo;re Wrong is an imaginary argument. Your hand is filled with comebacks like &ldquo;SCREW YOU&rdquo; and &ldquo;SORRY&rdquo;. Battle it out until one player is left standing, and FOREVER CORRECT!&#10;&#10;Sometimes nice guys DO finish last. So, will you take the high road and use your INSIDE VOICE? Or, will you tell your opponents to EAT DIRT?&#10;&#10;Here&rsquo;s the catch&hellip; Most cards suck and there&rsquo;s only so much kindness to go around.&#10;&#10;Pick your battles wisely and don&rsquo;t shoot yourself in the foot.&#10;&#10;How To Play:&#10; Draw a card at the beginning of each turn.&#10;Play one from your hand and follow the rule on the card.&#10;Run out of cards or break a rule, you lose.&#10;Get caught cheating, you lose.&#10;Game ends when one player is left standing.&#10;&#10;Creator&rsquo;s Comments:  &#10;The message of this game is: WORDS HAVE POWER. In a world growing increasingly combative, people matter. Relationships matter. Whether Right or Wrong, let kindness lead the way.&#10;&#10;",
+    "Categories": [
+      "Bluffing",
+      "Card Game",
+      "Educational",
+      "Humor",
+      "Party Game"
+    ],
+    "Mechanics": [
+      "Hand Management",
+      "Player Elimination",
+      "Push Your Luck",
+      "Secret Unit Deployment",
+      "Take That"
+    ],
+    "Families": [
+      "Crowdfunding: Kickstarter"
+    ]
+  },
+  {
+    "Rank": "22076",
+    "Name": "Richthofen",
+    "ID": 16760,
+    "Year": "(2002)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.95",
+    "Link": "https://boardgamegeek.com/boardgame/16760/richthofen",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "1.4375",
+    "Description": "&quot;Richthofen is a WWI Air Combat Card Game. You play the part of a famous fighter pilot ace, taking to the skies to engage your enemy in the life and death struggle of air combat.&quot;&#10;&#10;A straightforward card game on the theme of WWI air combat.&#10;&#10;This game was part of the Microgame Design Contest 2002.&#10;&#10;",
+    "Categories": [
+      "Aviation / Flight",
+      "Card Game",
+      "Print & Play",
+      "Wargame",
+      "World War I"
+    ],
+    "Mechanics": [
+      "Hand Management",
+      "Open Drafting"
+    ],
+    "Families": [
+      "Occupation: Aviator",
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "22077",
+    "Name": "Ender's Game: Battle School",
+    "ID": 146388,
+    "Year": "(2013)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.59",
+    "Link": "https://boardgamegeek.com/boardgame/146388/enders-game-battle-school",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "30",
+    "Play Time": "45",
+    "Weight": "2",
+    "Description": "Game description from the publisher:&#10;&#10;Ender's Game Battle School pits two players against each other in the zero gravity arena of the International Fleet's Battle School, with one player commanding Ender Wiggin's Dragon Team and other player commanding Bonzo Madrid and the Salamander Team. Commander cards for Wiggin and Bonzo come with special abilities, some that help the whole team, and some that help only the commander. Each player moves his team around a zero gravity arena in an attempt to capture the other team's gates or to freeze members of the opposing team with their laser-light guns. The player who first captures all of his opponent's gates or freezes the opposing commander wins.&#10;&#10;",
+    "Categories": [
+      "Movies / TV / Radio theme",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Variable Player Powers"
+    ],
+    "Families": [
+      "Admin: Better Description Needed!",
+      "Players: Two-Player Only Games",
+      "Theme: Fictional Games"
+    ]
+  },
+  {
+    "Rank": "22078",
+    "Name": "Alan and Bobby's Block and Guess",
+    "ID": 380136,
+    "Year": "(2024)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.80",
+    "Link": "https://boardgamegeek.com/boardgame/380136/alan-and-bobbys-block-and-guess",
+    "Min Players": "3",
+    "Max Players": "8",
+    "Min Play Time": "0",
+    "Play Time": "30",
+    "Weight": "1",
+    "Description": "Make other players guess a word using wooden pieces, easy? Not that much! In Block Guess, your opponents will choose the wooden pieces you will use&hellip; Good luck!&#10;&#10;Players will be playing in two teams of two players. Each round, one person from each team will be building an object. The other two people are the guessers. They will be trying to identify their teammates&rsquo; objects in order to gain points. Beware the construction cards! You might end up playing with just one eye open&hellip;&#10;&#10;Block Guess ends after 4 rounds and the team with the most points win the game.&#10;&#10;&mdash;description from publisher&#10;&#10;",
+    "Categories": [],
+    "Mechanics": [
+      "Team-Based Game"
+    ],
+    "Families": [
+      "Admin: Upcoming Releases"
+    ]
+  },
+  {
+    "Rank": "22079",
+    "Name": "Teenage Mutant Ninja Turtles: Clash Alley Strategy Boardgame",
+    "ID": 138746,
+    "Year": "(2013)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.67",
+    "Link": "https://boardgamegeek.com/boardgame/138746/teenage-mutant-ninja-turtles-clash-alley-strategy",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "1",
+    "Description": "Splinter has sent Leo, Donnie, Raph and Mikey on important missions: grab the Mutagen, find April, retrieve the AI chip... and pick up a pizza!&#10;&#10;On the way, the Turtles team up to battle Kraang, powerful mutants, and the insidious Shredder in a maze-like warehouse!&#10;&#10;-Object: Be the first Turtle to complete your mission by collecting your Mission Tile and returning to your corner home space.&#10;&#10;-Game features:&#10;&#10;-Three ways to move! RUN through the warehouse, CLIMB onto stacks of boxes, and LEAP onto enemies!&#10; -Multi-level board!&#10; -Customize the terrain by stacking boxes differently every game!&#10; -Play your Action cards strategically!&#10;&#10;-Before beginning the game players must place all the platforms on the board, as well as the mission as villain tokens as shown on the front cover of the rule book. &#10;Each player selects his/her Turtle and receives a mission.  &#10;Players begin the game with a mission card and two random special action cards. &#10;Each player begins the game in their turtles designated corner of the board. In turn each player rolls dice to move, leap or climb as you navigate through enemies and obstacles in search of your objective.   &#10;Players may attack enemies on the board and can even team up to defeat enemies. Defeating enemies allows players to collect additional action cards. Once they have found their mission tile, players must play a &quot;Go for mission&quot; card to collect their mission tile. The first Turtle to find their mission and escape back to their corner wins!&#10;&#10;",
+    "Categories": [
+      "Adventure",
+      "Children's Game"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Hand Management",
+      "Modular Board"
+    ],
+    "Families": [
+      "Animals: Turtles",
+      "Comic Books: Teenage Mutant Ninja Turtles"
+    ]
+  },
+  {
+    "Rank": "22080",
+    "Name": "Worldbeater",
+    "ID": 2320,
+    "Year": "(1975)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.83",
+    "Link": "https://boardgamegeek.com/boardgame/2320/worldbeater",
+    "Min Players": "3",
+    "Max Players": "6",
+    "Min Play Time": "240",
+    "Play Time": "240",
+    "Weight": "1.25",
+    "Description": "A journey around the world from Frankfurt to New York and back again, financed by various jobs along the way. Some jobs are good, some not so good. Players have to navigate the fastest and highest point scoring route. There are bonus points for reaching New York and Frankfurt early...but being first there and back doesn't mean you'll win.&#10;&#10;",
+    "Categories": [
+      "Racing",
+      "Transportation"
+    ],
+    "Mechanics": [
+      "Action Points"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "22081",
+    "Name": "Turbulence",
+    "ID": 156015,
+    "Year": "(2013)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.68",
+    "Link": "https://boardgamegeek.com/boardgame/156015/turbulence",
+    "Min Players": "2",
+    "Max Players": "3",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "1.4",
+    "Description": "It&rsquo;s August 1981 in the midst of the Air Traffic Controller Strike. President Reagan has just ordered all controllers back to work. You determined to keep your job, have returned &ndash; only to find the situation is even more turbulent then before: more planes, less controllers, and high competition. &#10;But that doesn't faze you, because you are an AIR TRAFFIC CONTROLLER.&#10;&#10;In this turbulent game you control 7 planes, of which 5 must reach your landing strip to win! You have three actions each turn with which you may: Take-Off, Move across one Air Current, Rotate, or Swap&#10;Seems simple right? Not exactly. Rotating and Swapping can only be done if your planes are touching the tiles so the more planes you have on the board, the more power you have. In the mean time your opponent will be trying to get their planes in and pushing or crashing (yes you can collide into other planes) to prevent you from getting there first! You'll be swapping, pushing, rotating, crashing, landing, taking-off, and triple pushing in this game of TURBULENCE.&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy",
+      "Aviation / Flight"
+    ],
+    "Mechanics": [
+      "Modular Board",
+      "Pattern Building"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "22082",
+    "Name": "The Dog's Meow",
+    "ID": 1320,
+    "Year": "(2001)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.89",
+    "Link": "https://boardgamegeek.com/boardgame/1320/the-dogs-meow",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "10",
+    "Play Time": "10",
+    "Weight": "1",
+    "Description": "In The Dog's Meow &ndash; originally published as Anderland (&quot;change country&quot;) &ndash; everything is different: Chocolate tastes like strawberry and barking dogs sound like cats. If one wants to look up, you have to look down, and everything red is suddenly blue! Cross-thinking and a quick mind are called for in the fantasy world of the different thinkers. Whoever adjusts most quickly to this &quot;backward world&quot; has the best chance of winning this thinking game.&#10;&#10;In game terms, you lay out a central card that shows the words &quot;up&quot;, &quot;down&quot;, &quot;left&quot; and &quot;right&quot; in the appropriate places, then lay out one picture card on each side of that central card. You then flip over task cards one by one, and if a task card says &quot;left&quot; you look for the card on the right of the central card; if the task card asks for the name of what lies there, you instead give the sound it makes. The first person to do so wins the card, and whoever collects the most task cards wins the game.&#10;&#10;An expert version adds color to the mix, with both a red and a blue central card, and four picture cards around each of those and player needing to look to red whenever the task card calls for blue.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Children's Game",
+      "Real-time"
+    ],
+    "Mechanics": [],
+    "Families": []
+  },
+  {
+    "Rank": "22083",
+    "Name": "Am Fu\u00df des Kilimandscharo",
+    "ID": 455,
+    "Year": "(1995)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.60",
+    "Link": "https://boardgamegeek.com/boardgame/455/am-fuss-des-kilimandscharo",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "45",
+    "Play Time": "45",
+    "Weight": "1.1818",
+    "Description": "Simple Knizia game for children. Progress up the trail to the foot of Kilimanjaro by playing numbered cards. You can play cards in front of yourself to make 3 piles, or onto your opponents to slow them down if they're ahead of you on the trail. The cards are in different types (colors), canoe, mule, jeep or by foot. If your 3 cards are the same type, you can move the total. If 2 cards match, you can move that total. If the 3 cards don't match, you can move the highest number.&#10;&#10;In addition, there are chance tokens laid on the trail face-down. These are revealed as you reach them; the banana is a meal-break (take another move), a lion is danger (fall back to the last village), or a swap tile lets you switch places on the trail with another player.&#10;&#10;The player that reaches the mountain first wins, but if the players exhaust their decks, then the furthest along the trail is the winner.&#10;&#10;",
+    "Categories": [
+      "Children's Game"
+    ],
+    "Mechanics": [
+      "Hand Management",
+      "Race",
+      "Take That"
+    ],
+    "Families": [
+      "Country: Kenya",
+      "Country: Tanzania",
+      "Mountains: Mount Kilimanjaro"
+    ]
+  },
+  {
+    "Rank": "22084",
+    "Name": "Army of Darkness",
+    "ID": 1138,
+    "Year": "(1993)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.71",
+    "Link": "https://boardgamegeek.com/boardgame/1138/army-of-darkness",
+    "Min Players": "1",
+    "Max Players": "8",
+    "Min Play Time": "120",
+    "Play Time": "120",
+    "Weight": "1.4444",
+    "Description": "Army of Darkness recreates the battle for Arthur's Castle at the end of the film, as the Deadites swarm over the walls in their attempt to capture the Book of the Dead.  The players take the roles of some of the important characters from the film (Ash, Henry, etc.) and try to defeat Evil Ash and his horde of Deadites.  The game can be played cooperatively where the evil forces are controlled by predetermined objectives, or instead one of the players can control all of the evil forces.  Game play consists of players searching the castle for allies and equipment they can use to fight the Deadites (flaming arrows, explosives, etc.) and the actual combating of the evil army.  Players win if they defeat the four evil champions.  Evil wins if Evil Ash gets the Book of the Dead out of the castle or if the Deadite army kills all of the players.&#10;&#10;",
+    "Categories": [
+      "Fantasy",
+      "Fighting",
+      "Horror",
+      "Medieval",
+      "Print & Play"
+    ],
+    "Mechanics": [
+      "Cooperative Game",
+      "Variable Player Powers"
+    ],
+    "Families": [
+      "Components: Polyhedral (not D6) dice",
+      "Movies: Evil Dead / Army of Darkness"
+    ]
+  },
+  {
+    "Rank": "22085",
+    "Name": "Ring-A-Ding-Ding",
+    "ID": 91394,
+    "Year": "(2011)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.62",
+    "Link": "https://boardgamegeek.com/boardgame/91394/ring-a-ding-ding",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "10",
+    "Play Time": "10",
+    "Weight": "1",
+    "Description": "Haim Shafir and Jeanie Gadish's RinglDing takes speedy pattern-recognition games to a fashionable new level.&#10;&#10;To set up the game, players place a bell in the center of the table, shuffle a deck of cards, and lay out 72 elastic hair bands within reach of all the players. One card is revealed, and players race to assemble the right combination of hair bands in the right order on the proper fingers of one hand.&#10;&#10;The first player to hit the bell with the band-bedecked hand wins the card &ndash; if the bands are placed correctly, of course. If the player goofed, then the player not only doesn't claim a card; he loses a card previously claimed. The first player to collect five cards wins.&#10;&#10;",
+    "Categories": [
+      "Action / Dexterity",
+      "Children's Game"
+    ],
+    "Mechanics": [
+      "Pattern Building"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "22086",
+    "Name": "Godzilla Card Game",
+    "ID": 283746,
+    "Year": "(2019)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "6.29",
+    "Link": "https://boardgamegeek.com/boardgame/283746/godzilla-card-game",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "1.75",
+    "Description": "The Godzilla Card Game uses the Chrono Clash turn and resource system, which allows players to strategically use their resources and accurately represents the flow of real battles, with momentum shifting from player to player as they choose the best time to throw their big moves! Lie in wait by setting sneaky traps for your opponent, or seize the initiative for a game-ending attack! The Chrono Clash system allows for players' favorite characters from different IPs to join the fray!&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Fighting",
+      "Movies / TV / Radio theme"
+    ],
+    "Mechanics": [
+      "Hand Management",
+      "Take That"
+    ],
+    "Families": [
+      "Movies: Godzilla",
+      "Series: Chrono Clash System"
+    ]
+  },
+  {
+    "Rank": "22087",
+    "Name": "Mare Polare",
+    "ID": 9989,
+    "Year": "(2004)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.80",
+    "Link": "https://boardgamegeek.com/boardgame/9989/mare-polare",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "1.5714",
+    "Description": "The Arctic natives go from ice floe to ice floe to catch fresh fish for their soup. Every Inuit family has their own special recipe and each one is of course, the best. The players can only read their recipe cards telling them exactly which fish belong in the pot at the beginning of the game. If a player forgets then only the oracle mountain can help him find out which ingredients he needs. Here, he will be able to see his recipe reflected in the ice. Contents: 14 ice floes, 1 with a mirror, 1 igloo, 1 iceberg, 4 Inuit pieces with a harpoon, 10 recipe cards, 1 dice, 1 bag with 64 fishes, instructions&#10;&#10;",
+    "Categories": [
+      "Children's Game",
+      "Memory"
+    ],
+    "Mechanics": [
+      "Memory"
+    ],
+    "Families": [
+      "Components: Meeples (Animal) / Animeeples",
+      "Region: Arctic",
+      "Theme: Fishing / Angling",
+      "Theme: Food / Cooking",
+      "Theme: Inuit Peoples"
+    ]
+  },
+  {
+    "Rank": "22088",
+    "Name": "Ogre Cheerleaders",
+    "ID": 232412,
+    "Year": "(2018)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.96",
+    "Link": "https://boardgamegeek.com/boardgame/232412/ogre-cheerleaders",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "5",
+    "Play Time": "10",
+    "Weight": "1",
+    "Description": "Description from the publisher:&#10;&#10;In Ogre Cheerleaders, each player represents a recruitment officer trying to recruit new cheerleaders to Ogreton University.  You may start the game with some high hopes of finding some spectacular cheerleaders, but you&rsquo;ll quickly realize that although the ogres are very enthusiastic, their cheerleading skill are quite lacking.&#10;&#10;Each turn, players will play an ogre card onto the field where its effect will be resolved.  Each card&rsquo;s effect will in some way manipulate the order of the cards on the field, or add or remove cards from the field with the goal of arranging the ogres into various formations that can be scored.  Each card has a point value, and the player that scores the most points by the end of the game has recruited the best team of ogre cheerleaders, and wins the game.  Although your goal is to score formations, you also need to worry about what you&rsquo;re leaving available on the field for your opponent to score.&#10;&#10;Ogre Cheerleaders is a quick, light hearted game that can fit in your pocket and be played anywhere.  It&rsquo;s meant to be funny and easily accessible to anyone.  The simple game mechanics were designed for 2 players, but can accommodate a few extra players.  Adding an extra player or two doesn&rsquo;t change the mechanics, but it does increase the amount of luck involved.&#10;&#10;",
+    "Categories": [
+      "Card Game"
+    ],
+    "Mechanics": [
+      "Set Collection"
+    ],
+    "Families": [
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "22089",
+    "Name": "Interpol",
+    "ID": 13010,
+    "Year": "(1978)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.70",
+    "Link": "https://boardgamegeek.com/boardgame/13010/interpol",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "1.4",
+    "Description": "In the Tower, the former state prison that stands in London, the Crown Jewels are kept for England&rsquo;s head of state. Year after year hundreds of thousands of tourists visit the Treasury where they are exhibited, in order to admire them. One day 4 tourists &ndash; Irma from Germany, Mario from Italy, Claude from France and Peter from England &ndash; are on their way to the tower. Three of them with no other intention than to take a look at the Jewels, and the fourth with the purpose of &hellip; stealing them!&#10;&#10;Each player taking part in this Interpol game can try to unmask that particular tourist, i.e. the thief, with his or her Interpol agent (I.A.). He or she will win the game by being the first to arrest the thief through the Interpol agent, or by making the thief steal the Crown Jewels.&#10;&#10;",
+    "Categories": [
+      "Deduction",
+      "Murder / Mystery"
+    ],
+    "Mechanics": [],
+    "Families": []
+  },
+  {
+    "Rank": "22090",
+    "Name": "Monopoly: London Nostalgia Wooden Box",
+    "ID": 30600,
+    "Year": "(2003)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.88",
+    "Link": "https://boardgamegeek.com/boardgame/30600/monopoly-london-nostalgia-wooden-box",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "180",
+    "Play Time": "180",
+    "Weight": "1",
+    "Description": "This special Nostalgia edition of Monopoly: London includes:&#10;&#10;&#10;     Nostalgic Game board with London properties&#10;     Vintage Chance, Community Chest and Title Deed cards&#10;     'Aged' Monopoly Money&#10;     Six antique Bronze finish tokens&#10;     Wooden houses and hotels&#10;     Built-in wooden banker's tray and storage area&#10;     Two ivory colored dice&#10;     Monopoly History&#10;&#10;&#10;",
+    "Categories": [
+      "Economic",
+      "Negotiation"
+    ],
+    "Mechanics": [
+      "Auction / Bidding",
+      "Player Elimination",
+      "Roll / Spin and Move",
+      "Set Collection",
+      "Trading"
+    ],
+    "Families": [
+      "Cities: London (England, UK)",
+      "Country: England",
+      "Country: United Kingdom",
+      "Game: Monopoly (Official)"
+    ]
+  },
+  {
+    "Rank": "22091",
+    "Name": "Flip Hue",
+    "ID": 164838,
+    "Year": "(2015)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.80",
+    "Link": "https://boardgamegeek.com/boardgame/164838/flip-hue",
+    "Min Players": "3",
+    "Max Players": "6",
+    "Min Play Time": "5",
+    "Play Time": "45",
+    "Weight": "1.25",
+    "Description": "Flip Hue is a double-sided card game - match all five of your Winning Colors either in your hand or on the back of other player's cards!&#10;&#10;Players &quot;push&quot; and &quot;pull&quot; cards from other player's hands to collect their Winning Colors, but the Flip card can flip an entire hand around, destroying your friend's strategy - or your own!&#10;&#10;",
+    "Categories": [
+      "Card Game"
+    ],
+    "Mechanics": [
+      "Set Collection"
+    ],
+    "Families": [
+      "Crowdfunding: Kickstarter"
+    ]
+  },
+  {
+    "Rank": "22092",
+    "Name": "Dragon Master: BGG Convention Promo",
+    "ID": 188389,
+    "Year": "(2015)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.82",
+    "Link": "https://boardgamegeek.com/boardgame/188389/dragon-master-bgg-convention-promo",
+    "Min Players": "1",
+    "Max Players": "2",
+    "Min Play Time": "10",
+    "Play Time": "15",
+    "Weight": "1.2",
+    "Description": "The arena is ready and the excited crowd is eagerly awaiting the spectacle of the Dragon Master duel. Who will win the contest to become the new member of the honorable Dragon Master guild?&#10;&#10;Using both the Dragon Master base game and the Dragon Master: BGG Convention Promo, two players each try to build stronger rows and columns of numbered tiles into an imaginary 4 by 4 grid. At the end of the game, the player with the lowest overall scoring line (based on the four lines each player owns) loses the game.&#10;&#10;",
+    "Categories": [
+      "Fantasy"
+    ],
+    "Mechanics": [
+      "Tile Placement"
+    ],
+    "Families": [
+      "Components: 4 x 4 Grids"
+    ]
+  },
+  {
+    "Rank": "22093",
+    "Name": "Monuments",
+    "ID": 289370,
+    "Year": "(2022)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.84",
+    "Link": "https://boardgamegeek.com/boardgame/289370/monuments",
+    "Min Players": "1",
+    "Max Players": "4",
+    "Min Play Time": "45",
+    "Play Time": "90",
+    "Weight": "3.1667",
+    "Description": "You lead a civilization, and it is your mission to build your monument! The player who is the first to build all five layers of Machu Picchu, Tikal, the Colossus of Rhodes or the Pyramids will trigger the end of the game, but only the player with the most victory points will win! Conquer lands, produce goods, populate, train military units, build buildings, move your units, upgrade your action cards, trade, attack other players, draw quest cards and build your monument!&#10;&#10;Gameplay in Monuments flows easily. You either play one of your ten action cards and execute its single action, then discard it, or pick up all previously discarded action cards and add them to your hand. The first player to complete their monument triggers the end of the game, then points are awarded for the monument, workers, areas controlled, military power, resources controlled, upgraded cards and uncompleted and completed quest cards. Each player has a score modifier, their own deck of bonus cards, and an ability in addition to the starting position of their civilization in order to make every game a totally new one!&#10;&#10;&mdash;description from the designer&#10;&#10;",
+    "Categories": [
+      "Civilization",
+      "Economic",
+      "Exploration",
+      "Farming",
+      "Territory Building"
+    ],
+    "Mechanics": [
+      "Action Retrieval",
+      "Area Majority / Influence",
+      "Area Movement",
+      "Hand Management",
+      "Variable Player Powers"
+    ],
+    "Families": [
+      "Crowdfunding: Kickstarter",
+      "Digital Implementations: Tabletopia"
+    ]
+  },
+  {
+    "Rank": "22094",
+    "Name": "PotionSlingers",
+    "ID": 349488,
+    "Year": "(2021)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "7.58",
+    "Link": "https://boardgamegeek.com/boardgame/349488/potionslingers",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "30",
+    "Play Time": "90",
+    "Weight": "2",
+    "Description": "A strategy card game! A Wet, Hectic free for all! A Card Comboing BREW-HA-HA! PotionSlingers can be described as a delicious combat cake. It is coated with a colorful frosting of vibrant slapstick humor, with a veneer of ancient alchemy.&#10;&#10;Bizarre items litter this junkyard market that is now your playground; grab all sorts of dastardly mixes and throw them directly into your opponent's buffoonish faces! Wring them out of as many essence cubes as you can, and prove who is a REAL PotionSlinger around these parts!&#10;&#10;Win the game by collecting the most essence cubes; either by eliminating your opponents or performing tricks, and both by slinging at your opponents!&#10;&#10;Players take turns buying cards from a communal market to add them to their decks, and dealing damage to their opponents with their cards. At the start of every turn, players are given a stipend, and fill their tableau with cards they collect in their deck. Then they are free to buy and sell items, combine cards, and manage their tableau/deck.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Fantasy",
+      "Humor"
+    ],
+    "Mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Market",
+      "Open Drafting",
+      "Player Elimination",
+      "Variable Player Powers"
+    ],
+    "Families": [
+      "Misc: LongPack Games"
+    ]
+  },
+  {
+    "Rank": "22095",
+    "Name": "J'Accuse!",
+    "ID": 193628,
+    "Year": "(2016)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.64",
+    "Link": "https://boardgamegeek.com/boardgame/193628/jaccuse",
+    "Min Players": "3",
+    "Max Players": "6",
+    "Min Play Time": "30",
+    "Play Time": "60",
+    "Weight": "1.3333",
+    "Description": "Mon dieu! M. Harpagon Richard is most decidedly dead, though not nearly soon enough for YOUR tastes, the old miser. His passing has brought you all together, feigning tears and anticipating your inheritance, when a terribly bothersome police inspector calls upon you.&#10;&#10;Chief Inspector Francois Cleu is not convinced that Harpagon passed peacefully in his sleep, as was reported. In fact, he's discovered &quot;somewhat troubling evidence&quot; that he was instead stabbed, poisoned, shot, strangled, bludgeoned and thrown out of a third story window. Worse, he seems to think YOU had something to do with it. Well, even if you did, which you didn't, there's no sense in all of you going to prison for it. That's why you've decided to &quot;help&quot; the Chief Inspector figure out who did! After all, you're the old man's heir and you're finally going to get what's coming to you...one way or another.&#10;&#10;J'Accuse! is about implicating and accusing your friends and family of murder &mdash; and no one &quot;wins&quot; the game so much as one of you will lose! The object is to avoid suspicion for as long as you can, while assuring that someone else ends up accused for the crime. The game ends, and the loser is &quot;Arrested&quot;, when one player gets stuck with at least one of each type of Evidence (Motive, Opportunity and Weapon, which solves the case) OR by having ANY five pieces of Hard Evidence against them (a Preponderance of Evidence).&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Humor",
+      "Murder / Mystery"
+    ],
+    "Mechanics": [
+      "Memory",
+      "Simultaneous Action Selection",
+      "Take That",
+      "Voting"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "22096",
+    "Name": "Astronauts: The Ultimate Space Game",
+    "ID": 114405,
+    "Year": "(2011)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.80",
+    "Link": "https://boardgamegeek.com/boardgame/114405/astronauts-the-ultimate-space-game",
+    "Min Players": "2",
+    "Max Players": "5",
+    "Min Play Time": "45",
+    "Play Time": "45",
+    "Weight": "1.1667",
+    "Description": "It's the game that takes you to the edge of the solar system.&#10;&#10;An astronomically great game that&rsquo;s fun, easy to learn, educational and highly addictive.&#10;&#10;Astronauts is the ultimate space game as you race your opponents to explore the planets and moons of our solar system and then return safely back to Earth.&#10;Explore Mars, the moons of Jupiter, Saturn&rsquo;s rings, Neptune, the Kuiper Belt and more as you slingshot your way from planet to planet and use your booster rocket and hyperspace to speed your safe return.&#10;The further out you go the more points you get but the more difficult it becomes to return, so beware getting stuck in Deep Outer Space.&#10;Avoid the Asteroids, beware of the Black Hole, watch out for the Wormhole and survive the Super Nova, whilst you try not to get stuck in the grip of Jupiter&rsquo;s massive gravity.&#10;The excitement builds as the lead changes with each returning mission and the game is often won or lost on the final go.&#10;No two games are ever the same in this clever game that you will want to play again and again.&#10;The fascinating facts on all the planet &amp; moon cards add an educational element, whilst different levels of play make it accessible for a broad range of ages and abilities.&#10;&#10;Contents: 20 planet cards, 9 moon cards, 3 dwarf planet cards, 8 return to earth cards,16 special cards, dice &amp; rules sheet.&#10;&#10;",
+    "Categories": [
+      "Adventure",
+      "Card Game",
+      "Space Exploration"
+    ],
+    "Mechanics": [],
+    "Families": [
+      "Occupation: Astronaut"
+    ]
+  },
+  {
+    "Rank": "22097",
+    "Name": "Het Groot Van Dale Spel der Nederlandse Taal",
+    "ID": 37423,
+    "Year": "(1995)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.82",
+    "Link": "https://boardgamegeek.com/boardgame/37423/het-groot-van-dale-spel-der-nederlandse-taal",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "1.3333",
+    "Description": "(from back of the box, translated from Dutch)&#10;&quot;Test your knowledge of our language! A box full of spelling questions and a box full of word knowledge questions. Thousands of difficulties. As player you always choose the level on which you want to play. And...every player can win! Collect three dictionaries and &quot;click&quot; them onto your pawn! Play on safe (green), play with some guts (blue), or are your ready to face a red question? Who challenges whom? Never was &quot;educational&quot; this much fun! So exciting! And of course: the name Van Dale guarantees high quality&quot;&#10;&#10;Het groot van Dale spel der Nederlandse taal is a word game based on the major dictionary of the Dutch language. It consists of a board over which the players move their pawns, answering questions pertaining to the Dutch language, in the fields of word knowledge and spelling. Correct answers earn dictionary markers which are put under the pawn. Depending on whether a player has one, two or three dictionaries, the questions become increasingly difficult, making the end game a challenge. The game ends when a player reaches the finish space on the board while having three dictionary markers.&#10;&#10;This game is the same as Das grosse Dudenspiel and Oxford: the Great Oxford Game of the English Language, but in Dutch.&#10;&#10;",
+    "Categories": [
+      "Educational",
+      "Trivia",
+      "Word Game"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Country: Netherlands"
+    ]
+  },
+  {
+    "Rank": "22098",
+    "Name": "Do You Worship Cthulhu?",
+    "ID": 25920,
+    "Year": "(2006)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.61",
+    "Link": "https://boardgamegeek.com/boardgame/25920/do-you-worship-cthulhu",
+    "Min Players": "5",
+    "Max Players": "30",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "1",
+    "Description": "A fun party game for a group of 5 to 30 people to play.  The rules of the game can be learned in less than 3 minutes.  One person acts as moderator, overseeing a village of people, one (or more) of which are secretly Cthulhu worshippers! The worshippers begin sacrificing the other villagers one by one.&#10;Optional cards add additional roles such as Protector, Seer and Vigilante.&#10;Box art, and all cards, feature original art (paintings) done just for this game by Ron Spencer.&#10;&#10;This is a re-theme of Werewolf.&#10;&#10;",
+    "Categories": [
+      "Bluffing",
+      "Card Game",
+      "Horror",
+      "Murder / Mystery",
+      "Negotiation",
+      "Party Game"
+    ],
+    "Mechanics": [
+      "Acting",
+      "Voting"
+    ],
+    "Families": [
+      "Game: Werewolf / Mafia",
+      "Theme: Cthulhu Mythos"
+    ]
+  },
+  {
+    "Rank": "22099",
+    "Name": "Zaubercocktail",
+    "ID": 1354,
+    "Year": "(2001)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "5.60",
+    "Link": "https://boardgamegeek.com/boardgame/1354/zaubercocktail",
+    "Min Players": "4",
+    "Max Players": "7",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "1.5882",
+    "Description": "Players are wizards collecting sets of ingredients each round. The best collection each round earns points to move the player forward. When the Magic Lightning card is turned up, the game ends and the highest score wins.&#10;&#10;Shuffles the ingredients  and deal 10 to each player. In further rounds, each player will receive 5 additional cards.&#10;&#10;Once players have sorted their cards, the dealer turns up the top recipe card. This will show how many points the best collections receive this round. Immediately, the chaos of the round begins:&#10;&#10;Players simultaneously try to trade ingredients to make sets. Players must trade honestly. Examples:&#10;&quot;I want 3 Blue Schlumse and offer a Faranblatt!&quot;&#10;&quot;I have a Weissbeere, but need a Silbergrass for it.&quot;&#10;&quot;I'll sell my soul for a gold rose. What do you want?&quot;&#10;&#10;(Most of the cards are different colors so actually English speakers need not employ the foreign words.)&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Fantasy",
+      "Real-time"
+    ],
+    "Mechanics": [
+      "Set Collection",
+      "Trading"
+    ],
+    "Families": [
+      "Mechanism: Turnless Trading",
+      "Series: Spiele f\u00fcr viele (Kosmos)"
+    ]
+  },
+  {
+    "Rank": "22100",
+    "Name": "SAW: The Jigsaw Trials",
+    "ID": 402871,
+    "Year": "(2024)",
+    "Geek Rating": "5.505",
+    "Avg Rating": "6.61",
+    "Link": "https://boardgamegeek.com/boardgame/402871/saw-the-jigsaw-trials",
+    "Min Players": "1",
+    "Max Players": "6",
+    "Min Play Time": "40",
+    "Play Time": "120",
+    "Weight": "2",
+    "Description": "Do you want to play a game?&#10;&#10;Collect tools and try to keep hold of your limbs in this trap-building fight for survival. Jigsaw&rsquo;s time is coming to an end. In his search for a successor, he has captured you in his workshop with everything you need to create his traps, and everything you need to break them!&#10;&#10;The game is simple: build the best traps to challenge your opponents, while preparing to escape those set against you. The last player left alive will be worthy of taking the Jigsaw name.&#10;&#10;Let the game begin!&#10;&#10;Each turn starts by drawing new cards from the deck. These include tools, search items, trap parts, and more. You must combine your trap parts to create traps for your opponents. Each trap has a unique story and challenge, and there are over 2000 possible combinations in the game.&#10;&#10;When you have a complete trap, and a Billy card, you can say the iconic phrase &quot;I want to play a game&quot; and then challenge your opponent to try to escape your creation!&#10;&#10;Your opponent has a choice: they can either take the sacrifice - a set amount of damage - or they can try to escape the trap using tool cards and search items. If they're prepared, they could get away without harm! However, if they get it wrong, things could get much worse...&#10;&#10;SAW: The Jigsaw Trials has a unique jigsaw damage system. Each player has a character jigsaw, and they must swap their legs and arms for broken x-ray limbs as they take damage. Take too much, and they could lose the limb completely. When that happens, the player will lose blood each turn, and when all their blood is gone they are out!&#10;&#10;The last player left standing is worthy of taking the name JIGSAW!&#10;&#10;-description from designer&#10;&#10;",
+    "Categories": [
+      "Horror"
+    ],
+    "Mechanics": [
+      "Player Elimination"
+    ],
+    "Families": [
+      "Admin: Upcoming Releases",
+      "Crowdfunding: Kickstarter",
+      "Movies: Horror Movies"
+    ]
+  }
+]

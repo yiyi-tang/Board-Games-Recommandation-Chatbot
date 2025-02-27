@@ -1,0 +1,2671 @@
+[
+  {
+    "Rank": "N/A",
+    "Name": "Centre Chess",
+    "ID": 25542,
+    "Year": "(1991)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "8.00",
+    "Link": "https://boardgamegeek.com/boardgame/25542/centre-chess",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "This chess variation uses the traditional pieces but is played on a board with a different topology: it's as if the board were pinched together in the middle, or as if the board were centered over the north pole of a globe, so all moves from the 4th to 5th rank pass through the center point.  There is an extra file that prevents the two player's rooks from being adjacent; you cannot move through the outer two ranks of the file, you can move through but not stop in their inner two ranks. Diagonal moves for the bishops and queens are defined so that they make S-curves after passing through the center point, allowing for attacks that are hard to spot until you get used to them.&#10;&#10;This set comes with a 2-sided board, a standard 8x8 board being on the other side; and it includes a checker set, so you can play Centre Checkers as well.  Rules are included for all 4 games, chess and checkers, traditional and Centre.&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy"
+    ],
+    "Mechanics": [
+      "Grid Movement"
+    ],
+    "Families": [
+      "Players: Two-Player Only Games",
+      "Traditional Games: Chess"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Board Talk",
+    "ID": 25543,
+    "Year": "(1983)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/25543/board-talk",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "0",
+    "Description": "Board Talk is a letter-by-letter word card game that uses a board for building up one's hand.  During their turns, players roll 2 dice and move around the board.  The space they land on allows them to get cards (1-3), lose a card, or use a particular letter with their cards to form a word.  You may end the round by calling a word if it is 4 letters or longer.  Similar to gin rummy, you get the points for the word you call only if it isn't beaten by another player.  If beaten, the higher player gets your points *plus* his.  After the scoring, the board and cards are reset, and another round starts.  The winner is the first to reach the total point goal.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Word Game"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move",
+      "Set Collection",
+      "Spelling"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Spellway",
+    "ID": 25544,
+    "Year": "(1991)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "4.50",
+    "Link": "https://boardgamegeek.com/boardgame/25544/spellway",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "This game combines card and board play.  At its heart, it's a letter-by-letter word game, where you spell words from your hand to get points.  The Spellway track of the board keeps track of your total points, and the game is won by reaching the castle at the end of the track.&#10;&#10;Several other features make it more like a board game race:&#10;&#10;a) What you can do in your turn is determined by rolling a die and moving a shared piece around the S-track: you may draw 1-3 cards, discard a card, lay down a word, or draw a Spoiler card.  Several junctions allow choices of play.&#10;&#10;b) The Spoiler cards allow you to give and/or take letter cards from other players.&#10;&#10;c) The Spellway track has some spaces that let you try to spell a random word on a Speller card, for 5 extra points.  There are 2 levels of cards so different ages can play together.&#10;&#10;d) If you play all your cards to spell a word, all the other players move back 1 space per card they hold, up to 3 max.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Educational",
+      "Word Game"
+    ],
+    "Mechanics": [
+      "Hand Management",
+      "Roll / Spin and Move",
+      "Set Collection"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Strange Words",
+    "ID": 25545,
+    "Year": "(2000)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "4.50",
+    "Link": "https://boardgamegeek.com/boardgame/25545/strange-words",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "20",
+    "Play Time": "20",
+    "Weight": "1.5",
+    "Description": "Players start with 20 points.  A random 6-9 letter word is selected.  Each player, in turn, must make an anagram of the current word, losing one point for each discarded letter and gaining one point if no letters are discarded.  If no word can be formed, the player loses one point for each letter in the current word and selects a new random word.  No word can be used twice in the game.&#10;&#10;When one player has zero points, the game ends and the player with the highest score wins.&#10;&#10;Strange Words was published (without the word list) in the Origins 2000 preregistration book.  It was included in Chief Herman's Holiday Fun Pack.&#10;&#10;",
+    "Categories": [
+      "Word Game"
+    ],
+    "Mechanics": [
+      "Paper-and-Pencil"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Field of Battle",
+    "ID": 25546,
+    "Year": "(2006)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "8.03",
+    "Link": "https://boardgamegeek.com/boardgame/25546/field-of-battle",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "2.4444",
+    "Description": "Field of Battle is an not overly complex set of miniatures rules covering from 1700-1900.  It maintains the Piquet philosophy of organized chaos but has different mechanisms than other Piquet rules sets which eliminate the wilder extremes of activation while maintaining unpredictability.&#10;&#10;Field of Battle uses combat resolution tables and procedures that are familiar to Piquet players, but initiative and sequence deck use is completely unique. Rules have been streamlined to make processes consistent, simple, and as short as possible, All charts needed for play are included on a single reference sheet.&#10;&#10;Field of Battle is a stand alone game - no additional supplements are necessary for play. Ratings are included for the following wars:&#10;&#10;&#10;     War of the Spanish Succession&#10;     Great Northern War&#10;     Jacobite Rebellion&#10;     Seven Years War&#10;     American War of Independence&#10;     Napoleonic Wars&#10;     Mexican American War&#10;     Crimean War&#10;     American Civil War&#10;     Austro-Prussian War&#10;     Franco Prussian War&#10;     Zulu War&#10;     Sudan (Mahdi)&#10;&#10;&#10;The same basic rules and procedures are used for all of the different periods with period specific rules provided to add color and unique features.&#10;&#10;",
+    "Categories": [
+      "American Civil War",
+      "American Revolutionary War",
+      "Miniatures",
+      "Napoleonic",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Simulation"
+    ],
+    "Families": [
+      "History: Anglo-Zulu War",
+      "History: Austro-Prussian War",
+      "History: Crimean War",
+      "History: Franco-Prussian War",
+      "History: Great Northern War",
+      "History: Jacobite Rebellions",
+      "History: Mahdist War",
+      "History: Mexican \u2013 American War",
+      "History: Seven Years War",
+      "History: War of the Spanish Succession",
+      "Players: Two-Player Only Games",
+      "Series: Piquet \u2013 Master Rules for Wargaming"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "My Precious Presents",
+    "ID": 25548,
+    "Year": "(2011)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.98",
+    "Link": "https://boardgamegeek.com/boardgame/25548/my-precious-presents",
+    "Min Players": "2",
+    "Max Players": "5",
+    "Min Play Time": "25",
+    "Play Time": "25",
+    "Weight": "1.1667",
+    "Description": "Be the first to collect 3 large silver presents! Whoever said it's better to give than to receive never played My Precious Presents! In this game it is ALWAYS better to receive. This gift exchange is anything but civilized. Mischief abounds as everyone races to collect the biggest presents. Remember to keep your eyes on your pile of presents or else you'll end up with none!&#10;&#10;Play revolves around managing and protecting your presents while sabotaging other players efforts. There are 120 cards in the deck, so a good variety of actions, reactions and other game play is possible. You will have to pay close attention to other players' victory conditions as once they are met the game is over.&#10;&#10;Quick easy game play attracts all level of gamers and non-gamers alike. The back stabbing and action/counter action should keep players constantly on their toes.&#10;&#10;69 colourful foil wrapped presents create instant buzz from onlookers.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Children's Game",
+      "Party Game"
+    ],
+    "Mechanics": [
+      "Hand Management",
+      "Stock Holding",
+      "Trading"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Juggernauts",
+    "ID": 25549,
+    "Year": "(2006)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.50",
+    "Link": "https://boardgamegeek.com/boardgame/25549/juggernauts",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "2.5",
+    "Description": "Juggernauts is a customizable, non-collectible dueling game for two players, each with his or her own customized deck.  Your deck represents your Juggernaut.  Your opponent also has a Juggernaut. Your goal is to incapacitate your opponent&rsquo;s Juggernaut so your ground forces can infiltrate and overwhelm it before he or she can do the same to you.&#10;&#10;Before the game starts, you need to download and print out Juggernauts cards and build your deck.  Cards fall into general categories of power generators, attacks, defenses, and miscellaneous effects.&#10;&#10;At the start of a game:&#10;&#10;     Pick a standard polyhedral die to be your Juggernaut's Commander.&#10;     Draw cards equal to the number of sides on your Commander, plus three.&#10;     Lay out all but three of the cards in your hand face-down so that each card:&#10;         occupies one square in an imaginary grid, and&#10;         is adjacent to at least one card.&#10;    &#10;&#10;&#10;This matrix of cards is your Juggernaut.  Face-down cards are inactive nodes and face-up cards are active nodes.&#10;&#10;Play during a game is simultaneous; you and your opponent go through the same phases in a turn at the same time.  You  start your turn by gaining 1 power (plus any additional from active cards in your Juggernaut).  You use power to:&#10;&#10;     Activate cards that require Power,&#10;     Increase the effectiveness of an attack or defense,&#10;     Maintain cards you want to keep&#10;&#10;&#10;After you gain power, you roll your Commander to see which card in your Juggernaut's matrix activates.  If you do not have an active card by the end of your command phase (this can happen if your Commander tries to activate a damaged sector, a neutralized card, or a card token), put an alert token on your deck. This means that your enemy&rsquo;s ground forces are approaching. Remove all alert tokens when you activate a damaged sector. If you have three or more alert tokens on your deck at the end of a round, enemy troops have infiltrated your juggernaut and taken control. You lose and your opponent wins.&#10;&#10;Next, you and your opponent reveal your active cards and resolve them.  Once cards resolve, you discard them, draw cards to replace them, then play cards from your hand to fill in the ones that you discarded.&#10;&#10;The mechanics are such that large Juggernauts with many-sided Commanders (d 12, d 20) have lots of &quot;hit points&quot;, but are easy to hit with attacks, difficult to get reliable results from, and vulnerable to accumulating alert tokens.  Small Juggernauts with few-sided Commanders (d4, d6) are difficult to hit and produce very predictable results, but have very few &quot;hit points&quot;.&#10;&#10;Juggernauts is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 2.5 License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/2.5/ or send a letter to Creative Commons, 543 Howard Street, 5th Floor, San Francisco, California, 94105, USA.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Dice",
+      "Fighting",
+      "Print & Play",
+      "Science Fiction"
+    ],
+    "Mechanics": [
+      "Campaign / Battle Card Driven",
+      "Dice Rolling",
+      "Hand Management",
+      "Secret Unit Deployment",
+      "Simultaneous Action Selection",
+      "Tile Placement",
+      "Variable Player Powers"
+    ],
+    "Families": [
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Age of Iron Expansion Rules: Navies in Transition 1865-1890",
+    "ID": 25550,
+    "Year": "(1990)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.88",
+    "Link": "https://boardgamegeek.com/boardgame/25550/age-of-iron-expansion-rules-navies-in-transition-1",
+    "Min Players": "2",
+    "Max Players": "12",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "1",
+    "Description": "Age of Iron Expansion Rules - Navies in transition 1865-1890 is an expansion for the Age of Iron - Naval Combat in the Civil War  . It includes additional rules that can be applied to the original Age of Iron rules, but is also a stand alone rules set for naval miniatures wargaming in the 1865-1890 period (ie: Age of Iron - Naval Combat in the Civil War is NOT required).&#10;&#10;One turn represents from 3-5 minutes. Game scale is 1:3000 (1 inch = 22 miles). This miniatures rules set will require ten-sided dice, a ruler or tape measure, and miniature ships. Reference charts, a protractor and turning templates are included, as are templates of each ship with their game characteristics.&#10;&#10;The rules themselves are very similar to Age of Iron - Naval Combat in the Civil War, different values are used and special rules have been added (some that can be applied to Age of Iron - Naval Combat in the Civil War). The rules include an extensive list of naval vessels from 20 countries, virtually all navies over the world of the time. This rules set covers an obscure, but colorful, period of history that is represented by very few games.&#10;&#10;",
+    "Categories": [
+      "American Civil War",
+      "Expansion for Base-game",
+      "Miniatures",
+      "Nautical",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Point to Point Movement"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Heart Attack",
+    "ID": 25551,
+    "Year": "(2004)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/25551/heart-attack",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "0",
+    "Description": "From the publisher's website:  (www.heartattackgame.com)&#10;&#10;&quot;The board game, &quot;HEART ATTACK,&reg;&quot; has been designed to serve two purposes. First, it will provide you with many hours of fun as you try to outlive your opponents by keeping yourself as healthy as possible. You will begin the game as most people begin life; with a clean bill of health. Staying healthy and risk free won't always be so easy. As the game progresses, as in life, risk factors will increase. Some are predictable, some are not. Some are good for you, some are not. You may end up in the hospital, possibly more than once. Perhaps an operation will be necessary and you may find yourself in the operating room. If successful, you continue the game. If not, you'll find yourself in the I.C.U. Many twists and turns await all the players. In any event, you'll find yourself having loads of fun as you attempt to remain healthy. Secondly, it is intended to educate all players about many of the risk factors associated with heart disease and heart attacks in an attempt to help everyone minimize their risks for having these problems. It is our belief that learning is much more effective when it's fun. Although the information presented about heart disease and heart attacks is valuable information for everyone, this game is not intended to provide medical advice to anyone. Any person who believes they are at risk for these problems, should consult a doctor for specific and individualized treatment and advice.&quot;&#10;&#10;",
+    "Categories": [
+      "Dice",
+      "Educational",
+      "Medical"
+    ],
+    "Mechanics": [
+      "Dice Rolling"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Final Straw",
+    "ID": 25552,
+    "Year": "(2006)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.50",
+    "Link": "https://boardgamegeek.com/boardgame/25552/final-straw",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "0",
+    "Description": "Final Straw is a card game of modern (mostly American) school shootings.  It is darkly satirical with artwork somewhat reminiscent of the work of Jhonen Vasquez (Zim, Johnny the Homicidal Maniac).&#10;&#10;In the game each player is a killer and they score points by eliminating classmates, teachers, law enforcement and other figures before they, themselves, are taken down. These points are negatively affected by things that distract from the actual reason for their killing spree - trench coats, video games, roleplaying games and so forth - that people can blame rather than the actual cause.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Fighting",
+      "Horror",
+      "Humor",
+      "Political"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Variable Player Powers"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Elvis Trivia Game Collector's Edition",
+    "ID": 25553,
+    "Year": "(2005)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.00",
+    "Link": "https://boardgamegeek.com/boardgame/25553/elvis-trivia-game-collectors-edition",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "0",
+    "Description": "What was Elvis&rsquo; highest-grossing film? What was the first song Elvis recorded? Answer these questions, spend some time with the &ldquo;King of Rock &amp; Roll&rdquo; and play a game bursting with fun, interesting facts about one of the world&rsquo;s greatest entertainers!&#10;&#10;Spanning his boyhood and rise to fame to his films and final concerts, this collector&rsquo;s edition takes players on a photographic journey showcasing 1,000 question and answers and 200 colorful pictures, packaged in a collectible tin. Earn bonus points for singing an Elvis song.&#10;&#10;",
+    "Categories": [
+      "Memory",
+      "Music",
+      "Trivia"
+    ],
+    "Mechanics": [
+      "Memory"
+    ],
+    "Families": [
+      "Celebrities: Elvis Presley"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "NFL Gridiron Trivia Challenge",
+    "ID": 25556,
+    "Year": "(2006)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.50",
+    "Link": "https://boardgamegeek.com/boardgame/25556/nfl-gridiron-trivia-challenge",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "0",
+    "Description": "Monday Morning Quarterback? If you love the NFL and think you know football better than anyone else, here&rsquo;s your chance to prove it with the new NFL Gridiron Trivia Challenge board game. To win, you&rsquo;ll need more than football knowledge and luck on your side because strategy is what separates this unique trivia game from the pack. Every move must be calculated &ndash; offense or defense &ndash; just like the real thing. For NFL fans who think they&rsquo;ve got game, it&rsquo;s time to snap on your chin strap, adjust your shoulder pads and start calling the plays in the new NFL Gridiron Trivia Challenge. 1,500 questions, 5 categories and only one winner!&#10;&#10;",
+    "Categories": [
+      "Memory",
+      "Sports",
+      "Trivia"
+    ],
+    "Mechanics": [
+      "Memory"
+    ],
+    "Families": [
+      "Sports Teams: National Football League (NFL)",
+      "Sports: American Football / Gridiron",
+      "Trivia: Sports"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Hornet Leader II: Cold War",
+    "ID": 25558,
+    "Year": "(2006)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "7.48",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/25558/hornet-leader-ii-cold-war",
+    "Min Players": "1",
+    "Max Players": "1",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "2",
+    "Description": "Overview:&#10;&#10;Cold War is an expansion to the Hornet Leader II game system. To use this expansion you must own Hornet Leader II. Ownership of Carrier Air Group is also highly recommended.&#10;&#10;This expansion adds several new types of aircraft including the A-7 Corsair II and RA-5c Vigilante. Two new WWIII campaigns are included: Atlantic 1980 and Mediterranean 1980. Also included are 2 new F-14 Tomcat pilots, and 2 new A-6 Intruder pilots.&#10;&#10;This expansion also adds more 2 Promotion levels of cards for each of the pilots from Carrier Air Group. This gives you a huge number of possible squadron pilot and aircraft selections!&#10;&#10;Key Points:&#10;&#10;- Cold War is a solitaire game expansion. No opponents needed! &#10;- Play high stress campaigns against the Soviet Union and Warsaw Pact during &#10;  World War III of 1980. &#10;- Command a mix of aircraft types. &#10;- Each mission can be played in under 30 minutes.&#10;&#10;Component List:&#10;&#10;- Built-in Tutorial and Help Windows &#10;- 81 Full Color cards &#10;- Full Color counters&#10;&#10;Game Formats:&#10;&#10;Virtual Tabletop &#10;PDF Download&#10;&#10;Other Leader series games by Dan Verssen&#10;&#10;Expands&#10;&#10;    Hornet Leader II&#10;&#10;&#10;",
+    "Categories": [
+      "Aviation / Flight",
+      "Card Game",
+      "Dice",
+      "Expansion for Base-game",
+      "Modern Warfare",
+      "Print & Play",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Area Movement",
+      "Dice Rolling",
+      "Events",
+      "Rock-Paper-Scissors",
+      "Role Playing",
+      "Scenario / Mission / Campaign Game",
+      "Simulation"
+    ],
+    "Families": [
+      "History: Cold War",
+      "Players: Games with Solitaire Rules",
+      "Players: Wargames with Solitaire Rules",
+      "Region: Atlantic Ocean",
+      "Region: Mediterranean Sea",
+      "Series: Leader (DVG)"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Down in Flames Squadron Pack 2: Bombers",
+    "ID": 25559,
+    "Year": "(2007)",
+    "Geek Rating": "5.539",
+    "Avg Rating": "7.60",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/25559/down-in-flames-squadron-pack-2-bombers",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "2",
+    "Description": "(from GMT website:)&#10;&#10;Following on the heels of the first Squadron Pack for the Down in Flames series of WWII air combat card games comes Squadron Pack 2: Bombers. While the first pack contained new fighters, this one adds more Light Bombers and Formation aircraft to the  system.&#10;&#10;The pack will include such famous aircraft as the B-25H (complete with 75mm gun) and the Il-2m3 Shturmovik. But there will be lesser-known planes as well, like the German Hs-129B-1/R2 (a sort of WWII version of today's A-10) and the Italian CANT Z.501 Gabbiano flying boat. All the cards will be printed in the eight-per-sheet (cut 'em out yourself) style of C3i-DiF module inserts that you've enjoyed over the years.&#10;&#10;One of the difficulties in creating a pack of bombers and patrol planes is that up until now these aircraft types have only been used in the context of a Down in Flames campaign. The rules included in the pack provide three ways around this problem. First, there are guidelines for adding Formation aircraft to basic game dogfights. Second, the pack includes a number of stand-alone generic missions into which players can simply &quot;plug in&quot; appropriate aircraft. Finally, we have included rules (courtesy of Roger Horky) that allow Formation aircraft to engage in a form of dogfighting (called Gunnery Duels in the game) with other Formation planes. So if you've ever wanted to fly a Short Stirling against an FW-200 Condor, now is your chance.&#10;&#10;Squadron Pack 2's rules also contain reprints of some of the rules from Corsairs and Hellcats for the benefit of those players who don't own that game (you know who you are). In addition, there are rules for two new ground attack weapons: the German Hs 293 radio-controlled air to surface missile and Fritz X radio-controlled glide bomb.&#10;&#10;Like the first pack, Squadron Pack 2: Bombers will contain 64 new aircraft cards printed 8 to a sheet in the same enhanced graphic style as Squadron Pack 1. The pack will also include a short (4-8 page) rulebook and an 11x17 wrap around cover decorated with Rodger MacGowan's gorgeous artwork. The inside of the cover sheet will form a play mat for use during Gunnery Duels.&#10;&#10;Developers: Mike Lemick and Rodger B. MacGowan&#10;&#10;",
+    "Categories": [
+      "Aviation / Flight",
+      "Card Game",
+      "Expansion for Base-game",
+      "Wargame",
+      "World War II"
+    ],
+    "Mechanics": [
+      "Hand Management",
+      "Simulation"
+    ],
+    "Families": [
+      "Players: Two-Player Only Games",
+      "Series: Down in Flames (Dan Verssen)"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Goldfix",
+    "ID": 25563,
+    "Year": "(1990)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "7.00",
+    "Link": "https://boardgamegeek.com/boardgame/25563/goldfix",
+    "Min Players": "3",
+    "Max Players": "6",
+    "Min Play Time": "120",
+    "Play Time": "120",
+    "Weight": "3",
+    "Description": "From the Rules:&#10;&#10;Goldfix is an exciting, fast moving, business game based on the South African gold mining industry.  Players use their skill, nerve and luck to acquire leases, develop goldmines, produce gold and speculate in the bullion and share markets to raise capital.  However, the gold price is continually fluctuating in a bull (up) or bear (down) market.  Players also have to contend with taxes, debt, broker's fees, share takeover and possible bankruptcy as they compete in a corporate battle to gain control of South Africa's second largest mining house &quot;Genmin&quot;.&#10;&#10;",
+    "Categories": [
+      "Economic",
+      "Industry / Manufacturing",
+      "Negotiation"
+    ],
+    "Mechanics": [
+      "Auction / Bidding",
+      "Commodity Speculation",
+      "Dice Rolling",
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Digital Implementations: Tabletopia"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Don't Blow That Load",
+    "ID": 25564,
+    "Year": "(1988)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "3.00",
+    "Link": "https://boardgamegeek.com/boardgame/25564/dont-blow-that-load",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "45",
+    "Play Time": "45",
+    "Weight": "1",
+    "Description": "The Truck Loading Game&#10;The game takes place in a truck loading warehouse or terminal.  Players must completely load their truck with 4 different colored cubes and then race to the finish.  On the way to the finish they must check the trucks weight on the scales.  Too much and the player must start over again.&#10;A light family game.&#10;&#10;",
+    "Categories": [
+      "Transportation"
+    ],
+    "Mechanics": [
+      "Pick-up and Deliver",
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Theme: Trucks"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "The Golden Triangle",
+    "ID": 25566,
+    "Year": "(1985)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/25566/the-golden-triangle",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "90",
+    "Play Time": "90",
+    "Weight": "0",
+    "Description": "This game was developed by S. Alden Inc. in 1985 to promote Beverly Hills' Golden Triangle stores. &#10;It features actual Beverly Hills properties, a smallish triangular board, box and cards, and high quality components: gold/silver plated metal limos and lots of nice looking money, but it cannot disguise the fact that it is simply one more roll and move Monopoly inspired board game.&#10;&#10;",
+    "Categories": [
+      "Dice",
+      "Economic"
+    ],
+    "Mechanics": [
+      "Auction / Bidding",
+      "Roll / Spin and Move",
+      "Set Collection"
+    ],
+    "Families": [
+      "Promotional: Board Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Great Lakes Pursuit",
+    "ID": 25570,
+    "Year": "(1990)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.00",
+    "Link": "https://boardgamegeek.com/boardgame/25570/great-lakes-pursuit",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "This trivia game is designed to encourage learning about the five Great Lakes.  Game categories are Geography, Economics, Environment, Culture, Natural History and History.  Players gain a puzzle piece for each category and win by completing the puzzle and answering one final question.&#10;&#10;",
+    "Categories": [
+      "Educational",
+      "Trivia"
+    ],
+    "Mechanics": [],
+    "Families": [
+      "Region: Great Lakes"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Scrabble Brand Turntiles",
+    "ID": 25571,
+    "Year": "(1986)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.33",
+    "Link": "https://boardgamegeek.com/boardgame/25571/scrabble-brand-turntiles",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "2",
+    "Description": "Turntiles is a Scrabble brand game for ages 8 to adult. Played without a board, players have one minute to use their 7 large double-sided wooden tiles to form words crossword-style. Point values for letters are the same as Scrabble. A player may change an opponent's previous word by turning over a tile from that word and adding at least one new letter from his/her tiles. Contents include a drawstring bag with 61 tiles and 1-minute timer.&#10;&#10;",
+    "Categories": [
+      "Word Game"
+    ],
+    "Mechanics": [
+      "Spelling",
+      "Tile Placement"
+    ],
+    "Families": [
+      "Game: Scrabble"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Khet: Eye of Horus Beam Splitter",
+    "ID": 25572,
+    "Year": "(2006)",
+    "Geek Rating": "5.654",
+    "Avg Rating": "6.78",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/25572/khet-eye-of-horus-beam-splitter",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "20",
+    "Play Time": "20",
+    "Weight": "2.9545",
+    "Description": "This expansion consists of a beam splitter for each side, rules for their use, as well as additional &quot;official&quot; set-ups for the base game.&#10;&#10;This expansion is going to be released in the &quot;new&quot; colors (silver and red) of the new &quot;Khet&quot; edition of Deflexion. Innovation Toys recently announced a limited run of these pieces is available in the old Deflexion silver and gold colors.&#10;&#10;Expands:&#10;&#10;    Khet: The Laser Game&#10;&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy",
+      "Electronic",
+      "Expansion for Base-game"
+    ],
+    "Mechanics": [],
+    "Families": [
+      "Game: Khet",
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Monopoly: Coca-Cola Classic Ads",
+    "ID": 25573,
+    "Year": "(2005)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "4.50",
+    "Link": "https://boardgamegeek.com/boardgame/25573/monopoly-coca-cola-classic-ads",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "120",
+    "Play Time": "120",
+    "Weight": "0",
+    "Description": "Over the last 100 years the Coca-Cola Company has served up some of America&rsquo;s most iconic advertisements. From the 1959 &quot;Santa&rsquo;s Refreshing Surprise&quot; to Norman Rockwell&rsquo;s 1935 &quot;Out Fishin&rsquo;&quot;. . . to 1971&rsquo;s &quot;I&rsquo;d Like To Buy The World A Coke&quot; and &quot;Drink Coca-Cola&quot; from 1925, compete to own the best COCA-COLA ads of all time.&#10;&#10;Buy, sell and trade COCA-COLA festoons, delivery trucks, calendars and serving trays as you relive the history of the COCA-COLA brand. Includes six collectible pewter tokens: 6-pack, vending machine, contour bottle, contour glass, Santa and the Polar Bear. Enjoy this refreshing twist on America's favorite board game, MONOPOLY!&#10;&#10;",
+    "Categories": [
+      "Economic",
+      "Negotiation"
+    ],
+    "Mechanics": [
+      "Auction / Bidding",
+      "Player Elimination",
+      "Roll / Spin and Move",
+      "Set Collection",
+      "Trading"
+    ],
+    "Families": [
+      "Brands: Coca-Cola",
+      "Brands: Groceries"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "FNG",
+    "ID": 25575,
+    "Year": "(2006)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "7.62",
+    "Link": "https://boardgamegeek.com/boardgame/25575/fng",
+    "Min Players": "1",
+    "Max Players": "2",
+    "Min Play Time": "120",
+    "Play Time": "120",
+    "Weight": "3",
+    "Description": "FNG lets you lead a unit of soldiers during their tour of duty in Vietnam during 1967. Players can play U.S. Army, Marines, Special Forces, Australian SAS or Communist troops. The game can be played as a straight one on one wargame or co-op with the mechanics of the game running the other force. The campaign system involves getting your men through their year in country in one piece and sees your squad develop from &quot;cherry&quot; to veteran during the course of the campaign. Additional rules cover helicopter insertions, tunnel fighting, riverine warfare, booby traps, and air strikes. FNG can be played in any scale with any models.&#10;&#10;Re-implemented by:&#10;&#10;    FNG: Second Tour&#10;&#10;&#10;",
+    "Categories": [
+      "Miniatures",
+      "Modern Warfare",
+      "Vietnam War",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling"
+    ],
+    "Families": [
+      "Country: Vietnam"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "One Bold Move: Battle for Tay Ninh, 1968",
+    "ID": 25576,
+    "Year": "(2006)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/25576/one-bold-move-battle-for-tay-ninh-1968",
+    "Min Players": "1",
+    "Max Players": "2",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "0",
+    "Description": "From the website:&#10;&#10;After the military failure of the North Vietnamese Tet offensive in January, the NVA conducted their first divisional attack in the Tay Ninh environs during a hot, monsoonal August. It was the last attempt to &quot;spill American blood&quot; in large quantities. Politically, the January attack was a success as the American media heavily reported it. Militarily, it had totally failed in the assigned objectives. For the August offensive, the NVA concentrated two divisions, the 5th and 9th. The 5th had grown to 15,000 men and elements of the plan called for the capture of American M113 APCs from the 10l ARVN squadron to infiltrate into the US headquarters for it's destruction. The plan also called for the divisions to be used piecemeal with the objective of killing Americans and occupying Tay Ninh City. Such an event would reap a political bonanza equal to the Tet Offensive. It was thought this would decimate US morale because War Zone C was well occupied by American troops. More important to the NVA plan was the hope that the awesome American airpower would be neutralized by the August monsoons. For the next 11 days, a hectic, fierce battle strung out the Americans and their M-48 tanks. When the NVA occupied over five city blocks of Tay Ninh, it was the worst nightmare for the US.&#10;&#10;Game contains:&#10;2 11x17 inch maps (which combines together)&#10;280 counters&#10;Player aids, charts and tables.&#10;&#10;Scale: company and platoon level, each hex 1/2 mile, each turn one day for a total of 11 turns.&#10;&#10;",
+    "Categories": [
+      "Vietnam War",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Hexagon Grid"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Eastern Operation: Invade Oahu! Dec. 7, 1941",
+    "ID": 25577,
+    "Year": "(2006)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "3.00",
+    "Link": "https://boardgamegeek.com/boardgame/25577/eastern-operation-invade-oahu-dec-7-1941",
+    "Min Players": "1",
+    "Max Players": "2",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Taken from the website:&#10;&#10;EO is a complete naval, ground and air system simulating what might have happened had the invasion of Oahu been carried out immediately after the Pearl harbor raid. The game uses a double blind system for the naval aspects, as the US/Japanese carriers attempt to locate one another and destroy them. Each player is put in their historical counterpart's position just after the PH raid. The game uses two maps, a tactical map showing the island of Oahu for the ground battle, and a operational map for the naval and air operations.&#10;&#10;Solitaire rules included.&#10;&#10;Game includes:&#10;280 counters&#10;1 Operational map&#10;1 Tactical map&#10;Rulebook&#10;&#10;",
+    "Categories": [
+      "Wargame",
+      "World War II"
+    ],
+    "Mechanics": [
+      "Hexagon Grid"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Stupid Little Soccer Game",
+    "ID": 25578,
+    "Year": "(2006)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.00",
+    "Link": "https://boardgamegeek.com/boardgame/25578/stupid-little-soccer-game",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "1",
+    "Description": "A newer version of this game was released in March 2015: Little Football Game. Better rules, more tactical and strategic decisions to make and less luck. You can choose between six different teams. They all have there own strengths and weaknesses.&#10;&#10;&quot;Stupid Little Soccer Game is a card game for 2 players. It is played in less than 30 minutes. Both players manage their football club. They try to buy the best players. After that, they do their best to win an exciting football match.&quot;&#10;&#10;The game consists of only 23 cards. Download them, print them and make your own free game in just a few minutes.&#10;&#10;You can find the manual and a good playing example at:&#10;&#10;http://www.elveneargames.nl/SLSG_en.htm&#10;&#10;This is a free game downloadable from the publisher's site.  Just print and play.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Print & Play",
+      "Sports"
+    ],
+    "Mechanics": [
+      "Open Drafting"
+    ],
+    "Families": [
+      "Players: Two-Player Only Games",
+      "Sports: Football / Soccer"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Versus Trading Card Game (SNK vs Capcom)",
+    "ID": 25579,
+    "Year": "(2000)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.60",
+    "Link": "https://boardgamegeek.com/boardgame/25579/versus-trading-card-game-snk-vs-capcom",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "VERSUS TCG is based on the SNK vs Capcom - Card Fighters' Clash video game (for Neo Geo Pocket Color). A two player fighting game with 50 card decks and 5 card hand size. Each player gets 3000 HP, and you lose if you have 0 life.&#10;&#10;The full release version uses the same artwork from the video game for most of its cards. This consists of SNK and Capcom character cards, as well as Action cards. There are also some additional SP rarity cards which have new artwork, although some reuse art from other games. There were no further expansions after this set (there are no cards based on Card Fighters' Clash 2).&#10;&#10;There is also a &quot;Beta&quot; version which was sold prior and uses exclusively character artwork from different games. These are generally easier to find and has led to confusion over the years as to this game's relation to Card Fighters' Clash.&#10;&#10;Although the rules are similar to Card Fighters' Clash and some cards are exactly the same, there are a number of differences, such as character cards which subtract SP to play, cards with different abilities, and a new &quot;star&quot; card ability (in addition to the circle, square, and triangle types from the video game).&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Collectible Components",
+      "Fighting",
+      "Video Game Theme"
+    ],
+    "Mechanics": [],
+    "Families": [
+      "Collectible: Collectible Card Games",
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Freez!",
+    "ID": 25580,
+    "Year": "(1993)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "7.00",
+    "Link": "https://boardgamegeek.com/boardgame/25580/freez",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "20",
+    "Play Time": "20",
+    "Weight": "0",
+    "Description": "Dice Strategy Game for 2 Players!&#10;&#10;Description and Object of Game: Freez! is a new, original two-player strategy game with similarities to both Chess and Go. It is played on a special 64 square mat, with 20 pieces. Dice are used as the playing pieces, but after the roll to determine who starts, luck is not a feature of the game.&#10;&#10;In Freez!, pieces are attacked and frozen; the frozen pieces remain on the board for the rest of the game. The object is to freeze your opponent's pieces. Alternatively, you can win by trapping your opponent behind a wall of frozen pieces. The game is won when a player completes a wall separating all of their live pieces from all of the opponent's live pieces, or the opponent cannot make a legal move, or a player freezes the opponent's last live piece. Playing time is 20 minutes to 2 hours.&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy",
+      "Dice"
+    ],
+    "Mechanics": [
+      "Enclosure",
+      "Grid Movement",
+      "Square Grid"
+    ],
+    "Families": [
+      "Components: 8 x 8 Grids",
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "WoRDWeRX",
+    "ID": 25581,
+    "Year": "(1996)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.00",
+    "Link": "https://boardgamegeek.com/boardgame/25581/wordwerx",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "15",
+    "Play Time": "15",
+    "Weight": "1",
+    "Description": "WoRDWeRX is played on a 5&times;5 grid.  Each player in turn writes a letter in one of the 25 spaces on the grid.  Letters may not be re-used.  The object of the game is to be the first player to make a 3+ letter word.&#10;&#10;WoRDWeRX was written as a quick play-by-email game in the fall of 1996.  It lived for some time at the Cheapass website.  WoRDWeRX was included in Chief Herman's Holiday Fun Pack.&#10;&#10;",
+    "Categories": [
+      "Word Game"
+    ],
+    "Mechanics": [
+      "Paper-and-Pencil"
+    ],
+    "Families": [
+      "Components: 5 x 5 Grids",
+      "Players: Two-Player Only Games",
+      "Series: Shark Party (Lone Shark Games)"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Idiosyncrasies",
+    "ID": 25582,
+    "Year": "(1994)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/25582/idiosyncrasies",
+    "Min Players": "3",
+    "Max Players": "6",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "0",
+    "Description": "The object and play of the game is simple, make your way around the game board and get to the end first.  The special spinner design will tell you how many moves to take and randomly pick a Judge with every spin!&#10; Once a Judge has been decided, and the player has moved his/her player piece the appropriate number of spaces, the Judge then picks a card and reads from the corresponding color the player lands on. The players then perform the activity on the card for the Judge, and then the Judge decides who s/he liked the best. (Remember the Judge has all the power, and can require activities be done again, if he just can't quite choose!)  Those players get to move 3 free spaces on the board.&#10;&#10;Red is Impressions&#10;Blue is Art&#10;Yellow is Performance&#10;&#10;In the event that the Judge must read a Red, the players must do their best Impression of whatever is on the card. If the Judge reads an Yellow, the players must do their best Performance of whatever is on the card. When the Judge reads a Blue, the players use the sand timer and have 30 secs to Draw whatever is on the card.&#10;&#10;By the end of game play, all players will have had the chance to Judge, show their skills in all of the categories. Hilarity results from performing the said Idiosyncrasy successfully, as well as the attempts made along the way.&#10;&#10;The player who makes her way around the board to the end, first, wins the game. Keep in mind, Idiosyncrasies works very well with team play!&#10;&#10;",
+    "Categories": [
+      "Bluffing",
+      "Humor"
+    ],
+    "Mechanics": [
+      "Acting",
+      "Storytelling",
+      "Variable Player Powers",
+      "Voting"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Piepmatz",
+    "ID": 25583,
+    "Year": "(1995)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "4.25",
+    "Link": "https://boardgamegeek.com/boardgame/25583/piepmatz",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "10",
+    "Play Time": "10",
+    "Weight": "0",
+    "Description": "Players try to move their birds to the top of the tree by drawing their worms from the spaghetti-like pile.  From the box: &quot;The exhausted little birds come back from their first flight.  Eating some worms will make them strong enough to try and join their nest.  But the nest boughs sometimes get overcrowded and the last hop into the nest does not always succeed.&#10;&#10;",
+    "Categories": [
+      "Action / Dexterity",
+      "Children's Game"
+    ],
+    "Mechanics": [],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "When Titans Clash",
+    "ID": 25585,
+    "Year": "(2003)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/25585/when-titans-clash",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "120",
+    "Play Time": "120",
+    "Weight": "0",
+    "Description": "Naval miniature rules for surface combat. Rules set covers the era from the Dreadnoughts of WW I through WW II on the 1/2400 scale. Rules set includes several historical scenarios and ship sheets.&#10;&#10;",
+    "Categories": [
+      "Miniatures",
+      "Nautical",
+      "Wargame",
+      "World War I",
+      "World War II"
+    ],
+    "Mechanics": [
+      "Simulation"
+    ],
+    "Families": [
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Walt Disney's Goofy Darn Socks Game",
+    "ID": 25586,
+    "Year": "(1977)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "3.00",
+    "Link": "https://boardgamegeek.com/boardgame/25586/walt-disneys-goofy-darn-socks-game",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "1",
+    "Description": "&quot;Be the first to patch Goofy's holey socks and win!&quot;&#10;&#10;Players choose one of four pairs of tri-colored socks.  Each pair of socks have 6 holes in them that must be repaired by a patch chip of the same color.  The patch chips are face down in a common pool.  Taking turns pulling a chip from the pool, each player may potentially repair up to two holes each turn.  But if a moth chip is drawn, that player must return a played patch chip to the pool.  The first player to patch all their holes wins.&#10;&#10;The chips are not drawn at random.  All chips remain in sight during the game, but all look identical when face down.  This introduces a memory element to the strategy.&#10;&#10;Recommended for ages 5 through 9.&#10;&#10;Manufactured in the USA by the Western Publishing Company Inc., Racine WI 63404&#10;&#10;",
+    "Categories": [
+      "Memory",
+      "Movies / TV / Radio theme"
+    ],
+    "Mechanics": [
+      "Memory",
+      "Set Collection",
+      "Tile Placement"
+    ],
+    "Families": [
+      "Animals: Dogs",
+      "Brands: Disney",
+      "Theme: Laundry & Socks"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Silly Sammy Seagull",
+    "ID": 25587,
+    "Year": "(1978)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "1.00",
+    "Link": "https://boardgamegeek.com/boardgame/25587/silly-sammy-seagull",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "&quot;The quick, funny fishing game!  Catch the fish as they swim around.&quot;&#10;&#10;Silly Sammy Seagull is a children's' action/dexterity game for 2-4 players, and is remarkably similar to Hungry Hungry Hippos.  Each player has a lever-activated seagull that magnetically picks up fish tokens from a electrically-driven turntable.  Catching a fish requires the right balance of force and timing, and captured fish are cleared manually.  When all fish have been caught, the player with the most captured fish wins.&#10;&#10;Recommended for ages 4 and up.&#10;&#10;",
+    "Categories": [
+      "Action / Dexterity",
+      "Animals",
+      "Children's Game",
+      "Electronic"
+    ],
+    "Mechanics": [],
+    "Families": [
+      "Animals: Fish / Fishes",
+      "Theme: Fishing / Angling"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Blockade",
+    "ID": 25588,
+    "Year": "(2001)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.53",
+    "Link": "https://boardgamegeek.com/boardgame/25588/blockade",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "10",
+    "Play Time": "10",
+    "Weight": "2.2",
+    "Description": "Blockade is a game that is played with Icehouse Pieces.&#10;&#10;Blockade is a roll-and-move race game played in two dimensions.  Each player is assigned 2 colors in a 5x5 board, and are trying to arrange their pieces in formation first.  However, as pieces arrive at their destinations, future piece movement by friend or foe is restricted.  Players will need to cleverly jockey for position while leaving themselves more options and blocking the opponent's movement paths.&#10;&#10;Published online at the Looney Labs website since 2001.&#10;&#10;Game System&#10;&#10;    Icehouse Pieces&#10;&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy",
+      "Dice",
+      "Racing"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Components: 5 x 5 Grids",
+      "Components: Looney Pyramid Games",
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Acronymia",
+    "ID": 25589,
+    "Year": "(2006)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "4.82",
+    "Link": "https://boardgamegeek.com/boardgame/25589/acronymia",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "45",
+    "Play Time": "45",
+    "Weight": "1.75",
+    "Description": "A.C.R.O.N.Y.M.I.A = A Creative Response Only Needs Your Most Inventive Acronym. The name says it all - a great new Australian designed game.&#10;&#10;Object of the Game:&#10;To be the player with the highest score at the end of Round 10, after adding the scores of each round.&#10;&#10;Playing the Game:&#10;Shuffle the Word Cards and create a face down pile.&#10;Write the names of each player on the score pad and commence play in your chosen order.&#10;On a players turn, he/she picks up a Word Card from the pile. This card contains a Word of between 4 to 7 letters. The timer is started and the player has 30 seconds to make a sentence using each of the letters in the Word (in order). [This is an ACRONYM]&#10;No time for giggling... gotta get creative!&#10;eg. DISCO could be &quot;Dancing In Silly Clothes Overnight&quot;&#10;eg. TIME could be &quot;Time Is My Enemy&quot;&#10;&#10;After everyone stops laughing, each other player holds up a Score Card to show their judgment of the creativity / humor / inventiveness, etc.&#10;Each players Score Card value is added together and multiplied by the Word Card Value to reach a Score for that round.&#10;&#10;Note: Rounds 4 &amp; 7 are Bonus Rounds. After the score has been calculated, the player rolls the dice and multiplies his/her score x the dice number.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Educational",
+      "Humor",
+      "Party Game",
+      "Word Game"
+    ],
+    "Mechanics": [],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Market Madne$$",
+    "ID": 25590,
+    "Year": "(1986)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/25590/market-madne-dollar-dollar",
+    "Min Players": "3",
+    "Max Players": "8",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "&quot;Market Madne$$&quot; the game that becomes you.&#10;&#10;Phone Taps, Lawsuits, Tax loopholes, Political Favors, Mergers, Stocks, Lottery, Gold Bullion, Forming partnerships -- Its all here in a rare unique game with many major corporation logos -- FORD, Sony, GE, Conaco, IBM, Exxon, AT&amp;T, ARCO.&#10;&#10;",
+    "Categories": [
+      "Economic"
+    ],
+    "Mechanics": [
+      "Commodity Speculation",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Roll / Spin and Move",
+      "Simulation",
+      "Stock Holding",
+      "Trading"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Key to the City: A Trivia Tour of Buffalo",
+    "ID": 25591,
+    "Year": "(1984)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/25591/key-to-the-city-a-trivia-tour-of-buffalo",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "This is a roll-and-move game where the players must answer trivia questions about the Buffalo, New York, area. There are seven &quot;key&quot; locations (Buffalo Zoo, Tifft Farm, etc.) where players can earn &quot;key cards&quot;. Once four key cards have been earned, the player can proceed to City Hall, where answering a question correctly will win the game.&#10;&#10;There are several hundred cards with two questions each.&#10;&#10;",
+    "Categories": [
+      "Trivia"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Cities: Buffalo (New York, USA)"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Kaua Mauna (Mountain Battle)",
+    "ID": 25592,
+    "Year": "(1972)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "3.00",
+    "Link": "https://boardgamegeek.com/boardgame/25592/kaua-mauna-mountain-battle",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "0",
+    "Description": "From the box:&#10;&#10;In ancient times, oceans and mountain streams ran red with blood of brave Hawaiian warriors until king Kamehameha conquered and united the Islands. &#10;Though the Hawaiians were poetic and daily worshiped their gods, they took great pride in perfecting the art of war.&#10;&#10;These muscular six- to seven-foot warriors in war helmets and loin cloths could trip, paralyze, strangle their enemy, dodge blows and strike with speed and force. &#10;They used spears, clubs daggers, rocks and could bring down the enemy two hundred feet away a single slingshot stone.&#10;&#10;In Kauna Mauna, you will relive heroic adventures of the past when you command your warriors to encircle the island, battle the enemy and invade their villages.&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy",
+      "Ancient"
+    ],
+    "Mechanics": [
+      "Area Movement",
+      "Roll / Spin and Move"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Ark Extra Mix",
+    "ID": 25594,
+    "Year": "(2006)",
+    "Geek Rating": "5.607",
+    "Avg Rating": "6.53",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/25594/ark-extra-mix",
+    "Min Players": "3",
+    "Max Players": "5",
+    "Min Play Time": "45",
+    "Play Time": "45",
+    "Weight": "2.3684",
+    "Description": "Ark Extra Mix includes roughly twenty new animals &ndash; some with non-Doris artwork &ndash; for use in the card game Ark. Now you have even more animals to board on Noah's ark before the rain comes. How did you miss these species the first time around?!&#10;&#10;Ark Extra Mix includes a quick reference rules card.&#10;&#10;",
+    "Categories": [
+      "Animals",
+      "Expansion for Base-game"
+    ],
+    "Mechanics": [],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Whipping Bobby Lee",
+    "ID": 25595,
+    "Year": "(1990)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.50",
+    "Link": "https://boardgamegeek.com/boardgame/25595/whipping-bobby-lee",
+    "Min Players": "1",
+    "Max Players": "2",
+    "Min Play Time": "240",
+    "Play Time": "240",
+    "Weight": "3",
+    "Description": "From the publisher's site:&#10;Not a game but a set of rules for figure gaming in the American Civil War period: table top ACW rules.&#10;&#10;Disappointed ? Well you won't be if you've tried other sets of rules and found them cumbersome, over complicated and very time consuming. Whipping Bobby Lee provides a command system that captures that sense of 'not being able to do everything that you'd like at once' and focuses you on to making decisions about how to prioritize your needs given that you've a shrewd idea of what the opposition might be likely to try.&#10;&#10;The rules can be used for one off battles or you can use the Campaign system to orchestrate a series of encounters.&#10;&#10;You'll love the Rebel veterans by the way, but they are expensive so don't go thinking you can have an entire army of them.&#10;&#10;",
+    "Categories": [
+      "American Civil War",
+      "Book",
+      "Miniatures",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Hand Management"
+    ],
+    "Families": [
+      "Country: USA",
+      "Players: Two-Player Only Games",
+      "Players: Wargames with Rules Supporting Only Two Players"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Log Jam",
+    "ID": 25596,
+    "Year": "(1997)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "4.47",
+    "Link": "https://boardgamegeek.com/boardgame/25596/log-jam",
+    "Min Players": "2",
+    "Max Players": "8",
+    "Min Play Time": "15",
+    "Play Time": "15",
+    "Weight": "1",
+    "Description": "Log Jam is a game of placing pieces in a hand crafted tower of wood. If the log you place sticks over the top, you or your team gets a point. Every round, a new layer is added to the tower. When the tower is complete, the player or team with the fewest points wins!&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy",
+      "Memory"
+    ],
+    "Mechanics": [
+      "Memory"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Superchess",
+    "ID": 25597,
+    "Year": "(1992)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.84",
+    "Link": "https://boardgamegeek.com/boardgame/25597/superchess",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "120",
+    "Play Time": "120",
+    "Weight": "0",
+    "Description": "From the manual:&#10;&#10;&quot;Superchess represents a major breakthrough in four-way chess. The problems associated with other forms of four-way chess have been solved as a result of the unique board design. For instance, difficulties with pawn promotion, colliding pawns, and board congestion have been eliminated. Superchess is how four-way chess was meant to be played.&quot;&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy"
+    ],
+    "Mechanics": [
+      "Grid Movement"
+    ],
+    "Families": [
+      "Components: 14 x 14 Grids",
+      "Traditional Games: Chess"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Stagecoach",
+    "ID": 25598,
+    "Year": "(1961)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/25598/stagecoach",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "0",
+    "Description": "The players are Pony Express riders.  They are competing against the Stagecoach Line in order to obtain a contract to carry gold shipments from the small western towns to Carson City.  The players and the Stagecoach all start from the same point and move along the various trails trying to be the first to reach a town and collect the gold to take to Carson City.  If the Stagecoach reaches a town first it will pick up the gold and the Pony Express riders will have to try to get to the next town before the Stagecoach.  The winner will be the first player to collect three gold shipments and get them to Carson City before the Stagecoach arrives.&#10;&#10;",
+    "Categories": [
+      "American West",
+      "Transportation"
+    ],
+    "Mechanics": [
+      "Pick-up and Deliver",
+      "Roll / Spin and Move"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Race to the Planets",
+    "ID": 25599,
+    "Year": "(2004)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/25599/race-to-the-planets",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "This exciting game for the whole family encourages exploration of the many intriguing worlds in our solar system. Players have fun getting to know the best &quot;tourist&quot; sights on each planet. Use the &quot;secret decoder&quot; to check your answers and collect as many planets as you can as you race family members or friends from Mercury to Pluto. (Updated 2004.)&#10;&#10;",
+    "Categories": [
+      "Space Exploration",
+      "Trivia"
+    ],
+    "Mechanics": [],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Germania: Drusus' Campaigns 12-9 BC",
+    "ID": 25600,
+    "Year": "(1986)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.97",
+    "Link": "https://boardgamegeek.com/boardgame/25600/germania-drusus-campaigns-12-9-bc",
+    "Min Players": "1",
+    "Max Players": "1",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "2.5",
+    "Description": "Germania: Drusus' Campaign 12-9 BC is a Strategic level Solitaire board-wargame about the Roman Conquest of Germania, the lands inhabited by the Germanic tribes at the end of the 1st Century BC.&#10;The player represents the Governor with two objectives.&#10;The first is the public one of conquering Germania as far as the river Visurgis (Weser) and establishing a new Imperial Frontier.&#10;The second is increasing his personal fortune.&#10;The activities of the Germanic Tribes are determined by a set of rules.&#10;&#10;This solo wargame was published in the magazine Slingshot #128 by Society of Ancients. The player takes the role of the Roman general Drusus trying to conquer and pacify ancient Germania, the game systems (charts and tables) simulates the rebellious tribes.&#10;&#10;",
+    "Categories": [
+      "Ancient",
+      "Print & Play",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Area Movement",
+      "Dice Rolling",
+      "Solo / Solitaire Game"
+    ],
+    "Families": [
+      "Ancient: Rome",
+      "Components: Map (Continental / National scale)",
+      "Players: Games with Solitaire Rules",
+      "Players: Wargames with Solitaire Rules"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Grand Fleet Actions in the Age of Sail Edition 2.0",
+    "ID": 25601,
+    "Year": "(2003)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "7.57",
+    "Link": "https://boardgamegeek.com/boardgame/25601/grand-fleet-actions-in-the-age-of-sail-edition-20",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "2.5",
+    "Description": "SHIPS: Description and Definition of the ships; Clean and foul hulls; Working out ship factors from historical references; The Early Period (16th Century); The Middle Period (17th and early 18th Centuries); The Late Period (late 17th and 19th Centuries); Points Values (all periods); Creating Forts and Shore batteries (all periods)&#10;&#10;COMMANDERS AND CREW: Commanders; Effect of Visibility on command; Formations; Crew; Combat effects on Command and Crew; Taking Command; Use of Frigates&#10;&#10;PREPARING THE BATTLE AND SETTING UP: Climate and the Weather; Initial Deployment and Scouting; Displacement; Off-Table Forces; Victory and Defeat&#10;&#10;FIGHTING THE BATTLE, ORDER OF TURN&#10;&#10;MOVEMENT: Sailing and the movement of ships; Turning; Tacking; Hard Turns; Movement of &lsquo;Handy&rsquo; vessels; Schooners and &lsquo;Fore and Aft&rsquo; Rigged vessels; Collisions and fouling; The &ldquo;Nelson Touch&rdquo; (Breaking a line); Drifting; Towing; Use of Small Boats; Transferring Commanders and Crew between ships; Effect of land; Anchoring and weighing anchor; Leaving the Table&#10;&#10;GUNNERY, DAMAGE AND BOARDING: Gunnery basics; Gunnery attacks; Damage results; Fires and Burning ships; Boarding Actions&#10;&#10;MORALE AND PRIZES: Morale; Captured Ships and Prizes&#10;&#10;SCENARIOS: Scenario Format; How to use the Scenario Information; Landing Troops; &lsquo;Beating to Quarters&rsquo;; The Raid on Cadiz Harbour 1587; The Action off Portland Bill 1588; The Action off Gravelines 1588; Last Stand of the Revenge 1591; Beachy Head 1690; Toulon 1744; Havana 1748; Minorca 1756; Gibraltar 1759; Quiberon Bay 1759; Ushant 1778; Arbuthnot&rsquo;s Action 1781; Chesapeake Bay 1781; Battle of the Saintes 1782; Glorious First of June 1794; Cape St. Vincent 1797; Kamperduin 1797; Battle of the Nile 1798; Copenhagen 1801; Algeciras 1801 (First Part); Algeciras 1801 (Second Part); Calder&rsquo;s Action 1805; Trafalgar 1805&#10;&#10;GAME TEMPLATES: Record Sheets&#10;&#10;",
+    "Categories": [
+      "American Revolutionary War",
+      "Dice",
+      "Miniatures",
+      "Napoleonic",
+      "Nautical",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Simulation"
+    ],
+    "Families": [
+      "History: Anglo-Spanish War",
+      "History: French Revolutionary Wars",
+      "History: Nine Years War",
+      "History: War of the Austrian Succession",
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Iron and Fire: Naval Rules for the American Civil War and Ironclad Period 1850-1880",
+    "ID": 25602,
+    "Year": "(2003)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "8.00",
+    "Link": "https://boardgamegeek.com/boardgame/25602/iron-and-fire-naval-rules-for-the-american-civil-w",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "120",
+    "Play Time": "120",
+    "Weight": "2",
+    "Description": "Summary of Contents&#10;&#10;&#10;    INTRODUCTION: Scales; Dice and Die Rolling Conventions; Structure Points and Buoyancy Points; Size; Gun Descriptions; Armour; Ship Design Examples; Command Quality; Crew Quality&#10;    TERRAIN, CURRENT, WIND AND VISIBILITY: Shallows; Currents; Wind; Visibility; Lines of Sight&#10;    ORDER OF PLAY AND INITIATIVE: Initiative for small actions; Initiative for Fleet actions&#10;    MOVEMENT: Turning; Collisions ; Forcing the Engines; Slowing down in an Emergency; Sail Assisted Steam; Fallen Masts; Anchoring&#10;    FIRING: The Basics; Hitting the Target; Hit Location; Penetration and Hit Location; Critical Hits; Effects of SP and BP Reduction; Steaming Hits; Fire; Flood; Effects of Damage on Speed and Gunnery; Damage to Paddle Wheels; Howitzers&#10;    GUNNERY ARCS&#10;    RAMMING AND COLLISIONS: Contact; After-effects of Rams and Collisions; Damage from Rams and Collisions; Locking; Ramming Special Effects; Spar Torpedoes&#10;    OPTIONAL RULES: Static Torpedoes (Mines); Mobile Torpedoes; Grounding; Shore Batteries; Mortars; Obstacles (Log Booms etc.); Machine Guns and Snipers; Morale; Boarding; Illumination (Searchlights and Flares); Submarines; Temporary Armour; Ships Alongside; Grapeshot; Turret Traverse; Towing; Forts and Fortresses; Movement under Sail (optional)&#10;    SCENARIOS: The Battle of Hampton Roads; The Battle of Iquiqui; The Battle of Angamos; Somewhere on the Yazoo River, 1863&#10;    REFERENCES&#10;    SHIP DATA TABLES: Union Ironclads; Union Seagoing Warships and Gunboats; Confederate Ironclads; Confederate Gunboats, Commerce raiders and Blockade Runners; Danish Vessels; Chilean Vessels; Peruvian Vessels; Austrian Vessels; Italian Vessels; British Vessels; French Vessels; Russian Vessels; Turkish Vessels; Generic Vessels&#10;    SHIP RECORD CARDS&#10;    SUGGESTED POINTS VALUE CALCULATION&#10;    FIRING ARC AND SAILING CIRCLE TEMPLATE&#10;    SALVO GUN FIRE TABLES&#10;&#10;&#10;Reimplements:&#10;&#10;     Iron & Fire: Naval Rules for the American Civil War & Ironclad Period 1850-1880&#10;&#10;&#10;",
+    "Categories": [
+      "American Civil War",
+      "Miniatures",
+      "Nautical",
+      "Post-Napoleonic",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Line of Sight",
+      "Simulation"
+    ],
+    "Families": [
+      "History: Austro-Prussian War",
+      "History: Crimean War",
+      "History: Franco-Prussian War",
+      "History: War of the Pacific (1879-1884)"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Simple GBoH Battle Manual",
+    "ID": 25603,
+    "Year": "(2006)",
+    "Geek Rating": "5.584",
+    "Avg Rating": "7.37",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/25603/simple-gboh-battle-manual",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "25",
+    "Play Time": "25",
+    "Weight": "2.7778",
+    "Description": "This special C3i Magazine (RBM) publication contains Simple GBoH versions of every GBoH battle that has been included in the back issues of C3i Magazine from issue No. 1 through 14, and also the &quot;C3i - SPQR Player's Guide&quot;.&#10;&#10;Fifty five GBoH battles are featured in this new publication. These scenarios run the gamut from the early hoplite battles from the Persian Wars (Marathon, Plataea) through the Roman disaster at Teutoburg Forest during the reign of Augustus Caesar.&#10;&#10;The C3i &quot;SimpleGBoH Battle Manual&quot; consists of a playbook in the same style as the original SBGoH packet, plus a sheet of 259 counters to include the additional leaders needed to play the C3i scenarios, along with the few markers that are unique to the Simple GBoH system. Also included is a completely updated rule book/charts folio incorporating the latest errata and clarifications.&#10;&#10;Although the rules are self-contained, one must have copies of the appropriate Great Battles of History game and/or module as well as the C3i article (the articles for the out of print back issues of C3i Magazine are available free, as PDF files, at the GMT Games website). And note that the original SGBoH packet is still available, providing conversions for the previously published GBoH games and modules.&#10;&#10;Contents:&#10;&#10;- Simple Great Battles of History Rules&#10;- Simple Great Battles of History Charts&#10;- Simple Great Battles of History Battle Manual containing SGBOH scenarios for C3i GBOH scenarios&#10;- Counter Sheet with additional units associated with C3i SGBOH scenarios&#10;&#10;Note: this item does not include the SGBOH scenarios for Alexander, SPQR, Julius Caesar, Conquest of Gaul and Cataphract. The Simple Great Battles of History Playbook contains those.&#10;&#10;",
+    "Categories": [
+      "Ancient",
+      "Expansion for Base-game",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Hexagon Grid"
+    ],
+    "Families": [
+      "Magazine: C3i",
+      "Players: Two-Player Only Games",
+      "Series: Great Battles of History (GMT Games)"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Elemental Warriors II",
+    "ID": 25604,
+    "Year": "(2006)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "3.50",
+    "Link": "https://boardgamegeek.com/boardgame/25604/elemental-warriors-ii",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "2",
+    "Description": "Elemental Warriors II is an abstract dueling game for two players with an elemental magic theme.  You start the game with a standard poker deck, an Elemental Warriors II play sheet, and a limited number of coins.  The play sheet is divided into 10 columns (number 1 to 10) and 5 rows (labeled Earth, Air, Fire, Water, and Combat).  Before the game begins, you allocate your coins to spaces on your play sheet.  During the game, you draw and play cards to activate columns on your play sheet.  Your combat value and any effects you generate are determined by the coins in the column you activate.  Earth effects tend to prevent damage.  Water effects tend to add coins to your play sheet.  Fire effects tend to deal damage to your opponent.  Air effects tend to let you move the coins on your play sheet or draw extra cards.  These special powers enable you to change your strategy during play and adapt to your opponent's behavior.  When you take damage, you lose coins from your play sheet.  If you surrender or run out of coins, you lose the game.&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy",
+      "Bluffing",
+      "Card Game",
+      "Fantasy",
+      "Fighting",
+      "Print & Play"
+    ],
+    "Mechanics": [
+      "Campaign / Battle Card Driven",
+      "Hand Management",
+      "Simultaneous Action Selection",
+      "Variable Player Powers"
+    ],
+    "Families": [
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Warbirds in Miniature",
+    "ID": 25606,
+    "Year": "(2006)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "8.25",
+    "Link": "https://boardgamegeek.com/boardgame/25606/warbirds-in-miniature",
+    "Min Players": "1",
+    "Max Players": "0",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "3.6667",
+    "Description": "Warbirds in Miniature is a game that recreates the epic struggles in the skies during World War II. The game is designed to be played by 2 or more people, although solitaire play is still very possible.&#10;&#10;Players select the maneuver that their aircraft will perform from a maneuver schedule unique to each aircraft. Once all the players have revealed their maneuvers, players move their aircraft and then the shooting begins.&#10;&#10;The game provides for the use of air/flight stands to be used with miniatures, and is played on a hexmat large enough to hold several aircraft at a time. When planes are damaged, they are marked with either counters or specially made clips resembling smoke or fire.&#10;&#10;The Warbirds in Miniature Rules package comes with a 34 page rulebook, 2 double sided sets of charts, 2 double sided sample aircraft sheets, and a CD with over 50 Aircraft sheets covering all the major combat aircraft flown in World War 2. The CD also includes some early Jets for later World War 2 and for use in Korean War scenarios.&#10;&#10;",
+    "Categories": [
+      "Aviation / Flight",
+      "Korean War",
+      "Miniatures",
+      "Wargame",
+      "World War II"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Hexagon Grid",
+      "Paper-and-Pencil",
+      "Simultaneous Action Selection"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Housewarming",
+    "ID": 25607,
+    "Year": "(2006)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/25607/housewarming",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "40",
+    "Play Time": "40",
+    "Weight": "1",
+    "Description": "Housewarming is a simple card game for two to four players.  You're trying to fill the four rooms of your house with decor, furnishings, pets, and other miscellaneous items to increase how Stylish, Comfortable and generally Cool your house is.&#10;&#10;During the game you can Work (to earn bucks to buy stuff), Tempt Fate (to roll on the events chart), Go Shopping (to look for stuff you (or other players) may want to buy), or Rearrange Furniture (to optimize your house or get rid of stuff you don't want).  Your goal is to end the game with the highest average of Style and Comfort with the lowest difference between the two.&#10;&#10;Housewarming uses a custom card deck, an events chart, and several dice and tokens.  A four-player game takes about 40 minutes to play.  Although the topic isn't nearly as relevant for them as it is for a couple buying its first home, Housewarming is appropriate for mid-teens and older.&#10;&#10;Housewarming is a free print-and-play game.  It is available at http://www.invisible-city.com/play/381/housewarming&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Dice",
+      "Humor",
+      "Print & Play"
+    ],
+    "Mechanics": [
+      "Auction / Bidding",
+      "Dice Rolling"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "PerkyGoth",
+    "ID": 25608,
+    "Year": "(2006)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/25608/perkygoth",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "1",
+    "Description": "PerkyGoth is a light and silly card game for two to four players.  In PerkyGoth, you play cards to accumulate stuff and be seen at events that increase your Perkiness and Gothiness while having the smallest difference between the two.&#10;&#10;To play PerkyGoth, you'll need the PerkyGoth card deck (available for free from http://www.invisible-city.com/play/371/perkygoth ) and about three six-sided dice.  PerkyGoth is appropriate for early teens on up.  A four-player game of PerkyGoth takes about 40 minutes.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Dice",
+      "Humor",
+      "Print & Play"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Hand Management"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Warrior Knights: Crown and Glory",
+    "ID": 25609,
+    "Year": "(2007)",
+    "Geek Rating": "6.033",
+    "Avg Rating": "7.69",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/25609/warrior-knights-crown-and-glory",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "120",
+    "Play Time": "240",
+    "Weight": "3.3766",
+    "Description": "In the war-torn land of Warrior Knights, the conflict is far from over. The new Crown and Glory expansion provides contenders to the throne with a multitude of new options, additions, and variants. In the Crown and Glory expansion, a player can actually become King and attempt to prove that he has what it takes to retain the crown! The Crown and Glory expansion also includes Mission cards, which provide players with new paths to victory.&#10;&#10;The Crown and Glory expansion features over 200 new cards including:&#10;&#10;&#10;     New actions that provide mobility and versatility&#10;     Garrisons that help defend your cities&#10;     Town levies that support your armies&#10;     New specialized mercenaries&#10;     A larger Fate deck allowing for bigger battles and new combat and Fate results&#10;     New rules for mercenary Nobles, a new resource, and much more&#10;&#10;&#10;The Crown and Glory expansion provides Barons with indispensable new resources and options for consolidating their hold over the realm of Warrior Knights.&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game",
+      "Fantasy",
+      "Political",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Area Movement",
+      "Auction / Bidding",
+      "Betting and Bluffing",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Simultaneous Action Selection",
+      "Voting"
+    ],
+    "Families": [
+      "Components: Miniatures",
+      "Mechanism: 4X"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Chronicle of the Three Kingdoms",
+    "ID": 25610,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.50",
+    "Link": "https://boardgamegeek.com/boardgame/25610/chronicle-of-the-three-kingdoms",
+    "Min Players": "3",
+    "Max Players": "7",
+    "Min Play Time": "180",
+    "Play Time": "180",
+    "Weight": "4",
+    "Description": "[Not to be confused with the 1986 game Chronicles of the Three Kingdoms ]&#10;&#10;Published in Chinese in Hong Kong, this game comes in a box, with 520 full color counters, a glossy paper area map of China, 13 pages of rules and 69 cards, mostly event cards, some probably province ownership cards.  There is also a double-sided sheet of what looks to be errata.&#10;&#10;",
+    "Categories": [
+      "Ancient",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Area Movement",
+      "Simulation"
+    ],
+    "Families": [
+      "Components: Map (Continental / National scale)",
+      "Continents: Asia",
+      "Country: China",
+      "Theme: Romance of the Three Kingdoms"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "The White House Game",
+    "ID": 25611,
+    "Year": "(2005)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.12",
+    "Link": "https://boardgamegeek.com/boardgame/25611/the-white-house-game",
+    "Min Players": "2",
+    "Max Players": "3",
+    "Min Play Time": "90",
+    "Play Time": "90",
+    "Weight": "0",
+    "Description": "Have you ever dreamed of being the most powerful person in the World? Stop dreaming, and play The White House Game! The winner becomes President of the United States of America.&#10;&#10;In The White House Game each player becomes a candidate for the nation's highest office. You have $700 million in campaign funds and you must use your skill and cunning to plan an election strategy that will win the confidence of the country.&#10;&#10;",
+    "Categories": [
+      "Educational",
+      "Political"
+    ],
+    "Mechanics": [
+      "Dice Rolling"
+    ],
+    "Families": [
+      "Country: USA"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Age of Steam Expansion: 20,000 Rails Under the Sea",
+    "ID": 25612,
+    "Year": "(2006)",
+    "Geek Rating": "5.526",
+    "Avg Rating": "7.08",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/25612/age-of-steam-expansion-20000-rails-under-the-sea",
+    "Min Players": "3",
+    "Max Players": "6",
+    "Min Play Time": "180",
+    "Play Time": "180",
+    "Weight": "4.3333",
+    "Description": "This Age of Steam Expansion expands the game to rails under the sea.&#10;&#10;The unique aspect of this expansion is its modular nature, as players build the map as the game progresses and have to lay their rail under the sea rather than on land.&#10;&#10;This expansion was produced for Essen 2006, and only 180 copies were printed.&#10;&#10;",
+    "Categories": [
+      "Economic",
+      "Expansion for Base-game",
+      "Industry / Manufacturing",
+      "Nautical",
+      "Pirates",
+      "Trains",
+      "Transportation"
+    ],
+    "Mechanics": [
+      "Auction / Bidding",
+      "Modular Board",
+      "Pick-up and Deliver",
+      "Tile Placement",
+      "Variable Phase Order"
+    ],
+    "Families": [
+      "Authors: Jules Verne",
+      "Game: Age of Steam"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "UNO: My Scene",
+    "ID": 25614,
+    "Year": "(2005)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "4.00",
+    "Link": "https://boardgamegeek.com/boardgame/25614/uno-my-scene",
+    "Min Players": "2",
+    "Max Players": "10",
+    "Min Play Time": "10",
+    "Play Time": "10",
+    "Weight": "0",
+    "Description": "UNO Fun with girls' favorite My Scene (r) characters.&#10;&#10;WHAT MAKES IT DIFFERENT FROM TRADITIONAL UNO: The Casting Couch.... uh, I mean, Casting Call card -- ????&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Children's Game",
+      "Movies / TV / Radio theme"
+    ],
+    "Mechanics": [
+      "Hand Management"
+    ],
+    "Families": [
+      "Game: UNO"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "UNO: Barbie California Girl",
+    "ID": 25615,
+    "Year": "(2004)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "4.00",
+    "Link": "https://boardgamegeek.com/boardgame/25615/uno-barbie-california-girl",
+    "Min Players": "2",
+    "Max Players": "10",
+    "Min Play Time": "10",
+    "Play Time": "10",
+    "Weight": "0",
+    "Description": "Based on the Barbie Cali Girl Line of Toys.&#10;&#10;WHAT MAKES IT DIFFERENT FROM TRADITIONAL UNO: The &quot;Beachcomber&quot; Card - When played the &quot;Beachcomber&quot; card allows a player to instantly discard one card from each color (up to four cards total) to any other player of their choice.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Children's Game"
+    ],
+    "Mechanics": [
+      "Hand Management"
+    ],
+    "Families": [
+      "Game: UNO",
+      "Theme: Dolls",
+      "Toys: Barbie",
+      "Versions & Editions: Versions with IP after the original release"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Hi-Lo: The Lift Truck Game",
+    "ID": 25616,
+    "Year": "(1968)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "3.00",
+    "Link": "https://boardgamegeek.com/boardgame/25616/hi-lo-the-lift-truck-game",
+    "Min Players": "0",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "The box says: Created for the material handling division of Allis-Chalmers by Games For Industry, Inc.  The description inside the box reads, in part:&#10;&#10;A lift truck provides unlimited power, but if it's improperly used, that power is wasted or abused.  Only the lift truck driver, the man behind the wheel, can make sure that a truck performs at its maximum capability.&#10;&#10;As you play Hi-Lo, you'll see how expert and skillful you are at operating a lift truck ... you'll appreciate why a good operator is a key asset in industry today.&#10;&#10;Roll the dice, go around the board, pick up 8 types of cards (design, equipment, job, power, safety, skill, bonus and upkeep), compete for Good Driver tokens, save your company money, and best of all - learn how to  operate your lift truck better!&#10;&#10;Power Grid or Industria, it may not be, but those games don't offer sample cards such &quot;Save $89.  Sideshifter - With this devise you'll be able to pick up and stack loads quickly and accurately&quot;, &quot;You have neglected to have faulty brakes adjusted - they failed on a ramp - you dropped a load of TV sets.  RETURN DESIGN CARD,&quot; and &quot;Save $93.  Don't play cowboy.  Never speed, always stay alert.&quot;&#10;&#10;",
+    "Categories": [
+      "Industry / Manufacturing"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Brands: Vehicles (Cars, Trucks, etc.)",
+      "Promotional: Board Games",
+      "Theme: Trucks"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Formulon",
+    "ID": 25619,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/25619/formulon",
+    "Min Players": "2",
+    "Max Players": "8",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "&quot;Formulon is designed for use in the teaching of basic inorganic chemistry to pupils aged roughly 13 to 16 years.  The game package consists of a pack of 100 cards, plus a three-page instructional leaflet; 78 of the cards represent atoms or ions (H, O, etc.), 20 multipliers (two or three) while the remaining two are Mendeleef cards (jokers) that can be used to represent any other card except a multiplier.  The basic idea of the game is that pupils have to use the cards to make up chemical formulas.&quot;&#10;&#10;Taken from the book, A Handbook of Game Design, by Henry Ellington, Eric Addinall, and Fred Percival.  Kogan Page, London: 1982.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Educational"
+    ],
+    "Mechanics": [
+      "Hand Management",
+      "Set Collection"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Monopoly: Glasgow",
+    "ID": 25620,
+    "Year": "(2000)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "4.53",
+    "Link": "https://boardgamegeek.com/boardgame/25620/monopoly-glasgow",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "1",
+    "Description": "An edition of the commercially successful board game, Monopoly.  This edition takes in the Scottish city of Glasgow.  Popular and well known Glaswegian areas are for sale including Glasgow Central Railway Station, the Burrell Collection and Hampden Park football ground.&#10;&#10;",
+    "Categories": [
+      "Economic",
+      "Negotiation"
+    ],
+    "Mechanics": [
+      "Auction / Bidding",
+      "Player Elimination",
+      "Roll / Spin and Move",
+      "Set Collection",
+      "Trading"
+    ],
+    "Families": [
+      "Cities: Glasgow (Scotland, UK)",
+      "Country: Scotland"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Gloom: Unwelcome Guests",
+    "ID": 25621,
+    "Year": "(2007)",
+    "Geek Rating": "5.881",
+    "Avg Rating": "6.66",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/25621/gloom-unwelcome-guests",
+    "Min Players": "2",
+    "Max Players": "5",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "1.8163",
+    "Description": "The Gloom: Unwelcome Guests expansion adds one player and 55 cards to the game. Here is a description of the expansion from the publisher:&#10;&#10;In the Gloom card game, you make your eccentric family of misfits suffer the greatest tragedies possible before helping them pass on to the well-deserved respite of death. Just mix the 55 transparent cards in this new set together with your copy of Gloom to add morbid new Modifiers, Events, and Untimely Deaths, and a new family - the malodorous Malone mob - including The Broken Arms Hotel as a Residence card to use with the Unhappy Homes expansion. When Boils Malone brought his family overseas to &ldquo;get away from the heat,&rdquo; he wasn&rsquo;t expecting quite so much rain!&#10;&#10;Adding an extra level of strategy, new persistent effect icons on cards allow their special effects to continue to be active even if covered by another card. A persistent effect ends only when the attached character is killed.&#10;&#10;Also inside are five Unwelcome Guest cards. Deal one or more face up to the table&rsquo;s center at the start of the game. Guests &ldquo;follow&rdquo; the card types noted on them; no matter where it currently is, a living Guest immediately moves to join the family of the character on which one of its &ldquo;trigger&rdquo; cards is played. All its Modifiers are moved with it, and it&rsquo;s considered a member of that family until it moves again. This may delay the game&rsquo;s end if a final play draws a Guest to the near-winner&rsquo;s family.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Expansion for Base-game",
+      "Fantasy",
+      "Horror",
+      "Humor"
+    ],
+    "Mechanics": [
+      "Hand Management",
+      "Role Playing",
+      "Storytelling",
+      "Take That"
+    ],
+    "Families": [
+      "Game: Gloom",
+      "Players: Expansions Changing Player Count"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Spot the Intro DVD Edition",
+    "ID": 25622,
+    "Year": "(2006)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "4.33",
+    "Link": "https://boardgamegeek.com/boardgame/25622/spot-the-intro-dvd-edition",
+    "Min Players": "2",
+    "Max Players": "8",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "1",
+    "Description": "This game is an off-shoot from the original Board Game version with CDs.&#10;&#10;The DVD comes with a thousand well-known tunes, which cover famous hits from the last 50 years, plus Musicals, TV &amp; Film themes and some Classical music, too.&#10;&#10;The DVD is instantly ready to play, and there are picture rounds in which you have to name the bands, the singers and the musician.&#10;&#10;It can be a team game where everybody gets a chance to take part at the same time or you can play as individuals, trying to recall where you've heard the tunes or seen that face before!&#10;&#10;Contents:&#10;&#10;     DVD with over 2,000 clips of music and pop-artist pictures&#10;     Score Pad with Master &amp; Team Score sheets&#10;     Answer Rule Book&#10;     Pencils&#10;     Flip Score Charts&#10;&#10;&#10;",
+    "Categories": [
+      "Music",
+      "Party Game",
+      "Trivia"
+    ],
+    "Mechanics": [
+      "Cooperative Game"
+    ],
+    "Families": [
+      "Components: DVDs"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Mutual Fundz",
+    "ID": 25624,
+    "Year": "(1997)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "4.20",
+    "Link": "https://boardgamegeek.com/boardgame/25624/mutual-fundz",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "60",
+    "Play Time": "90",
+    "Weight": "1",
+    "Description": "Each player builds a portfolio of mutual funds through purchase, sale, and trade.  Players roll dice and move around the board, landing on squares and drawing cards that make funds in their portfolios rise and fall.  Some cards allow players to swap their poor funds for the good funds of others, or cause various catastrophes in their funds.  Players can also earn bonuses for being the first to traverse each quarter of the board, or for accumulating all five funds in any of the six fund sectors.  After four quarters of the board have been completed (eight quarters in the two player version), the player with the highest value of funds plus cash wins the game.&#10;&#10;",
+    "Categories": [
+      "Economic"
+    ],
+    "Mechanics": [
+      "Commodity Speculation",
+      "Roll / Spin and Move"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Snakebite",
+    "ID": 25625,
+    "Year": "(2006)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.00",
+    "Link": "https://boardgamegeek.com/boardgame/25625/snakebite",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "15",
+    "Play Time": "15",
+    "Weight": "2",
+    "Description": "This is a press your luck game with components based on a Native American game called the Stick Game.  With the new rules it is similar to the dice game Pig Dice.&#10;&#10;Players toss the sticks.  Each snake that is shown on the result of a toss counts as a point.  A player can stop tossing and store those points or toss again.  If the player ever gets a &quot;snakebite&quot; (two snakes shown and the man), all points from that turn are lost.&#10;&#10;",
+    "Categories": [
+      "Animals",
+      "Dice"
+    ],
+    "Mechanics": [
+      "Dice Rolling"
+    ],
+    "Families": [
+      "Animals: Snakes"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Enterprise: the Elite Trading Game",
+    "ID": 25626,
+    "Year": "(1968)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.00",
+    "Link": "https://boardgamegeek.com/boardgame/25626/enterprise-the-elite-trading-game",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Enterprise is a real estate trading game, with some resemblance to Monopoly, but with elaborations. While it is designed in Australia, and uses a few Australian expressions, the content and theme are not noticeably Australian.&#10;&#10;The playing area is a simulation of a planned city, divided into two zones : an inner Residential ring and an outer Industrial ring. The play proceeds on a circular track, with each ring containing a series of &ldquo;sites&rdquo;, of which two aggregate to a &ldquo;subdivision&rdquo;.&#10;&#10;The ultimate objective is to &ldquo;evenly develop&rdquo; as many of these sites as possible, without going broke !&#10;&#10;The Residential zone can be developed by building Cottages, Mansions, and Flats(apartments), while the Industrial zone is available for a variety of uses, represented by card &ldquo;shares&rdquo;( stocks). It is NOT necessary to land on a particular site to purchase it.&#10;&#10;Players alternate between each ring according to dice throws, and pay penalties for landing on other Players&rsquo; sites. Several spaces mandate change of zone. Movement is subject to considerable randomization.&#10;&#10;Each player receives an initial land allocation of two &ldquo;subdivisions&rsquo; (two sites each of Residential and Industrial) ; plus a cash &ldquo;float&rdquo;. Players proceed to buy development items, initially from the bank. The pool of available items is limited, to induce competition.&#10;&#10;The inventory comprises: Cottages 14, Mansions 10, Flats 6 ( total 30). The space available to place these items totals 24. Prices range from a low of $100 for &ldquo;Cottages&rdquo; to $400 for a &ldquo;share&rdquo; in the &ldquo;Electronics&rdquo; factory. More expensive items eventually provide a disproportionately higher return, but may be too expensive in the beginning of the game.&#10;&#10;Players are able to increase the value of their holdings by increasing the capital investment on each site from a single unit up to two units and/or more valuable buildings and upgraded shares. Any site must contain only identical items, but any subdivision may contain a mix ( eg cottages and mansions on adjacent sites; or, say, &ldquo;railway&rdquo; shares next to &ldquo;glass works&rdquo;).Various bonuses accrue when sites are &ldquo;double developed&rdquo; and/or when sites are &ldquo;evenly developed&rdquo;.&#10;&#10;These development items are available initially from a bank, but soon become tradeable between Players. Players short of cash for Landing fees may even have to trade/sell at &ldquo;distress&rdquo; prices.&#10;&#10;When all a Player&rsquo;s sites are &ldquo;evenly developed&rdquo;, Players can attempt to buy more &#10;(vacant) land, from the bank only.&#10;&#10;The game has several unusual features:&#10;1. &ldquo;stock&rsquo; ( houses, shares etc) can be moved from one site to another, or even &ldquo;off board&rdquo; until required again.&#10;2. un-developed sites attract no landing fees (unlike Monopoly)&#10;3. there is some limited scope for trading of rationed items above their &ldquo;bank price&rdquo;, as Players seek to establish &ldquo;double developed&rdquo; sites&#10;4. The amount of cash available to any Player for buying at any one time is limited by certain arbitrary rules.&#10;&#10;Possible faults :&#10;1. The supply of in-coming cash seems too small compared to the amount leaving the Game via random penalties.&#10;2. Arbitrary limits on Players ability to spend seem unnecessary.&#10;3. The Game relies on a &ldquo;Special Lucky Seven&rdquo; rule that is easy to overlook ! &#10;4. The Rules are numbered, thus easy to reference; they are not however, arranged intuitively, and contain a few cryptic passages!&#10;&#10;",
+    "Categories": [
+      "Economic"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Point to Point Movement",
+      "Simulation",
+      "Stock Holding",
+      "Trading"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Embargo",
+    "ID": 25629,
+    "Year": "(2006)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "3.50",
+    "Link": "https://boardgamegeek.com/boardgame/25629/embargo",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "0",
+    "Description": "Embargo is an abstract strategy game for 2 or 4 players. You begin the game with your six pieces arranged in a triangle on one corner of a chess board. Pieces rest on the points of the grid, not the spaces.&#10;&#10;On your turn, you can move one of your pieces any distance in a horizontal or vertical direction, like a rook in chess. Your goal is to move all of your pieces to the opposite corner of the board.&#10;&#10;When two pieces of the same color share the same line without any other colored pieces between them, imagine an invisible wall extending between those two pieces. You cannot move your piece through any wall nor can you land a piece on a point currently occupied by a wall. (This rule applies even if you're trying to pass through a wall you created!)&#10;&#10;Because walls apply equally to all players, it becomes dangerous to be too defensive. A diplomatic atmosphere emerges from these simple mechanics as your pieces dance around the board, avoiding walls and building new walls of their own.&#10;&#10;From the Luchacabra website:&#10;&#10;This elegant abstract board game is deceptively simple. Move your pieces like chess rooks, trying to get to the opposite corner of the board. Uninterrupted lines between your pieces form imaginary walls that no pieces, not even your own, can cross. That&rsquo;s it! Embargo is a strategic game of territorial control and sharing.&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy"
+    ],
+    "Mechanics": [],
+    "Families": [
+      "Components: 9 x 9 Grids"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Legends of the Ancient World: The Island of Lost Spells",
+    "ID": 25630,
+    "Year": "(2005)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "7.31",
+    "Link": "https://boardgamegeek.com/boardgame/25630/legends-of-the-ancient-world-the-island-of-lost-sp",
+    "Min Players": "1",
+    "Max Players": "6",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "2",
+    "Description": "The Island of Lost Spells is a programmed adventure using Dark City Games Legends of the Ancient World rule set. These rules provide gameplay very similar to that of Melee and Wizard from Metagaming. This adventure is compatible with those games as well.&#10;&#10;Battles are fought with counters on a hex map that is included with the game.&#10;&#10;This series of games can be played one of three ways: Game Mastered, &quot;semi-solitaire&quot; (group play with no GM), and solitaire.&#10;&#10;",
+    "Categories": [
+      "Adventure",
+      "Fantasy",
+      "Fighting",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Hexagon Grid",
+      "Role Playing"
+    ],
+    "Families": [
+      "Series: Legends of the Ancient World (Dark City Games)"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Legends of the Ancient World: The Crown of Kings",
+    "ID": 25631,
+    "Year": "(2005)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "7.42",
+    "Link": "https://boardgamegeek.com/boardgame/25631/legends-of-the-ancient-world-the-crown-of-kings",
+    "Min Players": "1",
+    "Max Players": "6",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "2",
+    "Description": "The Crown of Kings is a programmed adventure using Dark City Games Legends of the Ancient World rule set. These rules provide gameplay very similar to that of Melee and Wizard from Metagaming. This adventure is compatible with those games as well.&#10;&#10;Battles are fought with counters on a hex map that is included with the game.&#10;&#10;From the Publisher: &quot;The Crown of Kings!  The ancient symbol of ruler ship from the legendary Federative Empire, said to have ruled this land in the misty past.  Some say that when the Crown is again brought to light, and worn by one both steadfast and strong, the Empire will rise again.  That is the work, perhaps, of generations of imaginations, but the Crown of Kings would be a prize indeed.&quot;&#10;&#10;",
+    "Categories": [
+      "Adventure",
+      "Fantasy",
+      "Fighting",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Hexagon Grid",
+      "Role Playing"
+    ],
+    "Families": [
+      "Series: Legends of the Ancient World (Dark City Games)"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Legends of the Ancient World: The Sewers of Redpoint",
+    "ID": 25632,
+    "Year": "(2006)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "7.38",
+    "Link": "https://boardgamegeek.com/boardgame/25632/legends-of-the-ancient-world-the-sewers-of-redpoin",
+    "Min Players": "1",
+    "Max Players": "4",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "2",
+    "Description": "The Sewers of Redpoint is a programmed adventure using Dark City Games Legends of the Ancient World rule set. These rules provide gameplay very similar to that of Melee and Wizard from Metagaming. This adventure is compatible with those games as well.&#10;&#10;Battles are fought with counters on a hex map that is included with the game.&#10;&#10;From the Publisher: &quot;When assassins stage a brutal raid at the Temple of the Sun Goddess, you answer the call for assistance.  But as you track the raiders through the sewers beneath the city, an ancient horror wakens from its timeless sleep.&quot;&#10;&#10;",
+    "Categories": [
+      "Adventure",
+      "Fantasy",
+      "Fighting",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Hexagon Grid",
+      "Role Playing"
+    ],
+    "Families": [
+      "Series: Legends of the Ancient World (Dark City Games)"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Das Warnem\u00fcndespiel",
+    "ID": 25633,
+    "Year": "(2005)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/25633/das-warnemundespiel",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "3",
+    "Description": "A Monopoly clone set in the coastal town of Rostock-Warnem&uuml;nde, Germany. As the game has been developed by a local radio station and sponsored by various Warnem&uuml;nde entrepreneurs, the players have to acquire and trade company shares instead of streets.&#10;&#10;The penalties for players ending their move on an already occupied field only increase with the number of company shares with identical colors; the concept of additional buildings such as hotels been dropped. Instead, this game features profit and loss statements that are triggered by certain fields. They change share values, resulting in players paying money into or getting money from a money pool. There are also pool cards triggering the profit and loss statements of shares of one color.&#10;Another non-Monopoly concept is that of shortcut fields (Warnowtunnel, Scandlines ferry) that allow the players to quickly move over a section of the board for a small fee.&#10;&#10;",
+    "Categories": [
+      "Dice",
+      "Economic",
+      "Negotiation"
+    ],
+    "Mechanics": [
+      "Player Elimination",
+      "Roll / Spin and Move",
+      "Set Collection",
+      "Stock Holding",
+      "Trading"
+    ],
+    "Families": [
+      "Country: Germany",
+      "Series: Monopoly-Like"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Island War",
+    "ID": 25635,
+    "Year": "(2006)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.80",
+    "Link": "https://boardgamegeek.com/boardgame/25635/island-war",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "90",
+    "Play Time": "90",
+    "Weight": "0",
+    "Description": "Island War is a game of skirmishes in the Pacific Theater of the Second World War. You control Squads of Japanese and&#10;Americans, machine guns, flamethrowers, and Leaders as you fight battle on Iwo Jima, and other islands.&#10;&#10;Each Island War hex represents 25-40 meters of terrain, and the turns depict from a few seconds to several minutes of action. The counters represent single characters (Leaders), Squads of men, Weapon Teams, Support Weapons and various administrative markers.&#10;&#10;Squads have three figures on the front of the counter and two on their back/reduced side. Leaders have a face on both the front and the back of the marker, and weapons teams have 2-3 men and the weapon&rsquo;s nomenclature, such as Type 92, on a larger, 3/4&quot; counter. Collectively, Squads, Leaders, and Weapon Teams are called units.  A unit&rsquo;s reduced side is indicated by lighter color. There are also administrative markers, labeled Move, Fire, etc, used to assist in playing, and finally markers that represent Support Weapons, such as the USMC&rsquo;s BAR, (that must be crewed by Squads).&#10;&#10;The game on PDF file contains the rules, counters, and two map sheets. It comes with two scenarios, both from the Iwo Jima campaign.&#10;&#10;",
+    "Categories": [
+      "Wargame",
+      "World War II"
+    ],
+    "Mechanics": [
+      "Hexagon Grid"
+    ],
+    "Families": [
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Henry Ford's River Rouge",
+    "ID": 25636,
+    "Year": "(1994)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "1.00",
+    "Link": "https://boardgamegeek.com/boardgame/25636/henry-fords-river-rouge",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "1",
+    "Description": "This educational game recreates Henry Ford's immense industrial complex outside of Detroit.  Players or teams compete to most efficiently produce Model A automobiles, while overcoming difficulties in production and management.  The game was produced in cooperation with the Henry Ford Museum &amp; Greenfield Village.&#10;&#10;",
+    "Categories": [
+      "Educational",
+      "Industry / Manufacturing"
+    ],
+    "Mechanics": [],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Sweepstakes",
+    "ID": 25637,
+    "Year": "(2000)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/25637/sweepstakes",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Sweepstakes is a simple game of horse racing in the 18th century.  Both oval track and steeplechase racing events may be wagered upon.  The game also includes a brief history of horse racing.&#10;&#10;",
+    "Categories": [
+      "Racing"
+    ],
+    "Mechanics": [
+      "Betting and Bluffing"
+    ],
+    "Families": [
+      "Sports: Horse Racing"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Motor Chase Across London",
+    "ID": 25638,
+    "Year": "(1950)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "4.00",
+    "Link": "https://boardgamegeek.com/boardgame/25638/motor-chase-across-london",
+    "Min Players": "3",
+    "Max Players": "5",
+    "Min Play Time": "45",
+    "Play Time": "45",
+    "Weight": "0",
+    "Description": "This is a roll and move game featuring a car chase through the London streets. A lead car and 4 pursuit cars are represented by small, cast metal, car model playing pieces. Game has a similarity to Scotland Yard but with much more simple rules. An earlier version of this game is called &quot;Bandit Chase across London&quot; and listed elsewhere on BGG.&#10;&#10;",
+    "Categories": [
+      "Dice",
+      "Racing",
+      "Transportation"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Cities: London (England, UK)",
+      "Country: England"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Golfette",
+    "ID": 25639,
+    "Year": "(1953)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.00",
+    "Link": "https://boardgamegeek.com/boardgame/25639/golfette",
+    "Min Players": "1",
+    "Max Players": "8",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "0",
+    "Description": "Board game based on Golf. Nine hole course on the board is played twice. The course has all the usual hazards, bunkers, water hazards, out of bounds, and rough.  Recovery from hazards is achieved using two packs of cards, distance and direction of shots from a chosen club determined by two different size dice. The game can be played by up to 8 players in pairs or two to four singles.&#10;&#10;",
+    "Categories": [
+      "Dice",
+      "Sports"
+    ],
+    "Mechanics": [
+      "Dice Rolling"
+    ],
+    "Families": [
+      "Sports: Golf"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Tumble Numble",
+    "ID": 25640,
+    "Year": "(1966)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/25640/tumble-numble",
+    "Min Players": "1",
+    "Max Players": "4",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "0",
+    "Description": "This is a revised version of the game &quot;Numble&quot; previously released in 1965, by Mag-Nif Inc., it contained flat tiles, tile holders, and a game board. It is a game similar to &quot;Scrabble&quot;, but instead of connecting letters, the player is connecting numbers. This original version of &quot;Tumble Numble&quot; was released by Mag-Nif Inc. in 1966 it contained the dice, and instruction booklet. The box itself acted as a dice shaker. It was republished in 1969 by Selchow &amp; Righter. For this edition, a score card, sand timer, and separate tumbler cup were also included. Selchow &amp; Righter rereleased the original boardgame version of &quot;Numble&quot; in 1968, while their &quot;Tumble Numble&quot; version is called a &quot;Portable Cube Edition&quot;.&#10;&#10;{Dice included.}&#10;Red numbers on cube, with (gold numbers): 1, 2, (3), 4, (5), 7&#10;Blue numbers on cube: 1, 2, 3, 4, 7, 8&#10;Green numbers cube: 1, 2, 3, 7, 8, 9&#10;{8 cubes with Black numbers;}&#10;{Blank side}, 0, 1, 7, 8, 9&#10;0, 1, 2, 7, 8, 9&#10;1, 2, 3, 4, 5, 6&#10;1, 2, 3, 4, 5, 6&#10;1, 2, 3, 4, 5, 6&#10;1, 2, 3, 4, 5, 6&#10;1, 2, 3, 4, 5, 6&#10;1, 2, 3, 4, 5, 6&#10;&#10;&quot;THE OBJECT:&#10;To compete for high score while placing numbered cubes in sequences that are divisible by three.&#10;&#10;TO BEGIN:&#10;Each player tumbles a cube.&#10;The player with the highest value starts.&#10;To start each round: place all eleven cubes in the Tumble Numble Tumbler,&#10;the first player then tumbles five cubes into his hand (without looking at their values)&#10;and passes these five cubes to the player on his left.&#10;This occurs only at the beginning of each Round.&#10;The remaining six cubes he tumbles upon the table and arranges as many as possible in a valid sequence.&#10;After declaring the score, he passes the tumbler along with any cubes he was unable to use, to the player on his left.&#10;The second player places his five cubes along with any unused cubes from the preceding player into the tumbler,&#10;tumbles them upon the table and arranges his cubes as an extension or in cross-word fashion to the previously&#10;played sequence.&#10;&#10;BASIC STRATEGY&#10;Create sequences that take best advantage of Bonus Cubes, particularly the double and triple sequence cube&#10;so that the cube will be available to either you or your partner on succeeding plays.&#10;Avoid making bonus cubes available to opponents.&#10;Remember the Zero Cube freezes further play and is of considerable strategic value in this respect.&quot;&#10;&#10;",
+    "Categories": [
+      "Math"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Hand Management"
+    ],
+    "Families": [
+      "Components: Sand Timers"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Geist Junior",
+    "ID": 25644,
+    "Year": "(2006)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "2.00",
+    "Link": "https://boardgamegeek.com/boardgame/25644/geist-junior",
+    "Min Players": "2",
+    "Max Players": "5",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "0",
+    "Description": "From the Manufacturer:&#10;&#10;GEIST Junior takes young players on a wild journey to meet the 13 adorable Pet Geists. It is the most fun and imaginative children's game yet! GEIST Junior is the first combination puzzle and board game, with 4 different puzzles for 4 times the fun!&#10;&#10;",
+    "Categories": [
+      "Children's Game",
+      "Fantasy",
+      "Horror",
+      "Humor",
+      "Puzzle"
+    ],
+    "Mechanics": [
+      "Area Movement"
+    ],
+    "Families": [
+      "Components: 9 x 9 Grids",
+      "Creatures: Ghosts"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Verflixxt nochmal",
+    "ID": 25645,
+    "Year": "(2006)",
+    "Geek Rating": "5.662",
+    "Avg Rating": "6.81",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/25645/verflixxt-nochmal",
+    "Min Players": "2",
+    "Max Players": "8",
+    "Min Play Time": "35",
+    "Play Time": "35",
+    "Weight": "1.4359",
+    "Description": "Verflixxt nochmal! is &quot;Die 1. Erweiterung&quot; (the first expansion) for Verflixxt! (That&#039;s Life!).&#10;&#10;It adds:&#10;&#10;     pieces for two more players (3 white, 3 purple)&#10;     4 more tiles for the track &#10;     an effigy of Flixxy, the bird&#10;     4 discs (+1 through +4)&#10;     10 worm tiles&#10;     an action die.&#10;&#10;&#10;Expands:&#10;&#10;     Verflixxt! (That&#039;s Life!)&#10;&#10;&#10;",
+    "Categories": [
+      "Expansion for Base-game"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Game: Verflixxt!"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "M.A.C.: Modern Armored Combat",
+    "ID": 25646,
+    "Year": "(2004)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/25646/mac-modern-armored-combat",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "120",
+    "Play Time": "120",
+    "Weight": "0",
+    "Description": "Miniature rules for modern armored combat. Rules are design for playability with emphasis on keeping game play moving. Game rules include statistics on tanks from many different countries including USA, Israel, France, Germany, Britain, China and Russia. System is designed for use on 1/285 scale but can also be scaled to 10mm, 15mm and 20MM.&#10;&#10;",
+    "Categories": [
+      "Miniatures",
+      "Modern Warfare",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Simulation"
+    ],
+    "Families": [
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Kings Keep",
+    "ID": 25647,
+    "Year": "(2006)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.22",
+    "Link": "https://boardgamegeek.com/boardgame/25647/kings-keep",
+    "Min Players": "2",
+    "Max Players": "8",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "1.75",
+    "Description": "Kings Keep is a card-based strategy game for 2-8 players where they wrestle over lands, form alliances, trade for vitally needed cards and go for full-on conquest.&#10;&#10;Try to hold the best land cards at the end of the hand while fending off archers, knights and peasants with your own carefully prepared defensive lines.&#10;&#10;Walls can protect you somewhat but watch out for siege engines. There are also spies about.... If attackers create a gap in your defenses your lands are sure to be captured.&#10;&#10;Simple design with enough strategy to keep you guessing and plotting. With a limited hand size, good timing and clever placement is essential.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Medieval",
+      "Negotiation"
+    ],
+    "Mechanics": [
+      "Hand Management",
+      "Trading"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Teddy Bear's Picnic",
+    "ID": 25648,
+    "Year": "(1984)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "3.00",
+    "Link": "https://boardgamegeek.com/boardgame/25648/teddy-bears-picnic",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "In this British card game, likely inspired by the children's song, everyone tries to get 10 teddy bears to come to his/her picnic. 54 cards show teddy bears, honey pots, food items and other objects.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Children's Game"
+    ],
+    "Mechanics": [
+      "Set Collection"
+    ],
+    "Families": [
+      "Animals: Bears"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Jambo: The World Game",
+    "ID": 25649,
+    "Year": "(2002)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "4.00",
+    "Link": "https://boardgamegeek.com/boardgame/25649/jambo-the-world-game",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "1",
+    "Description": "From the Rules: Object - Your goal is to become a Citizen of the World by moving around the board, answering questions, and completing challenges. The first person to make it around the world wins. -Contents- Game board, 3 sets of cards: Question, Action &amp; Wild, Six playing pieces, 1 Die.&#10;&#10;A Trivia game with players moving around a map of the world trying to get to the end first, with some variation such as a group questions that move everyone forward and Action &amp; Wild card options that have you do other things like say &quot;Goodbye&quot; in three different languages or leapfrog over the next player pawn.&#10;&#10;Developed with funding from the IBM Global Work/Life Fund and the AT&amp;T Family Resource Program. Jambo was created with the help of Educators for Social Responsibility, Cambridge, Massachusetts.&#10;&#10;",
+    "Categories": [
+      "Educational",
+      "Trivia"
+    ],
+    "Mechanics": [
+      "Cooperative Game",
+      "Roll / Spin and Move"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Rugby Trivia: Colin Meads",
+    "ID": 25650,
+    "Year": "(2003)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/25650/rugby-trivia-colin-meads",
+    "Min Players": "2",
+    "Max Players": "6",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Colin Meads Rugby Trivia New Zealand is a rugby board game designed for 2-6 players. It has 1,500 adult questions, 300 beginners questions and 300 childrens' questions so is great for the whole family!&#10;&#10;How to play&#10;Throw the die and move the number thrown along the board. Depending on what square is landed on as to whether a question is asked or not. If a question is asked players move ahead one space if correct and back 2 spaces if incorrect. There are penalty's bonus spaces and second chances.&#10;Winner of the game is the one who gets to the finish first.&#10;&#10;",
+    "Categories": [
+      "Sports",
+      "Trivia"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Components: Map (Global Scale)",
+      "Country: New Zealand",
+      "Region: The World",
+      "Sports: Rugby"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "War in the Forest",
+    "ID": 25651,
+    "Year": "(2005)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.00",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/25651/war-in-the-forest",
+    "Min Players": "0",
+    "Max Players": "0",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Supplement to &quot;A Good Day to Die&quot;, Skirmish-Level Miniature rules.&#10;&#10;This is a very extensive supplement detailing many of the Indian tribes of eastern United States during the period 1690-1815.  It also includes sections to support French and Indian War period.&#10;&#10;",
+    "Categories": [
+      "Age of Reason",
+      "American Indian Wars",
+      "Book",
+      "Expansion for Base-game",
+      "Miniatures",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Scenario / Mission / Campaign Game",
+      "Simulation"
+    ],
+    "Families": [
+      "History: French and Indian War",
+      "History: Northwest Indian War",
+      "History: Pontiac's War"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "A Good Day to Die",
+    "ID": 25652,
+    "Year": "(2002)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.20",
+    "Link": "https://boardgamegeek.com/boardgame/25652/a-good-day-to-die",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Skirmish-Level Miniature rules for the &quot;Old West&quot; and Turn of the Century Period.&#10;&#10;It is currently in the 2nd Edition rule book.&#10;&#10;Figures are organized into various classes: Killers, Warriors, Soldiers, Civilians, and Rabble.  Each figure is activated through the motivation of leaders.  Priority of action is variable in accordance with class.  Movement is likewise variable.&#10;&#10;",
+    "Categories": [
+      "American West",
+      "Book",
+      "Miniatures",
+      "Post-Napoleonic",
+      "Wargame"
+    ],
+    "Mechanics": [
+      "Dice Rolling",
+      "Measurement Movement",
+      "Simulation"
+    ],
+    "Families": [
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Cosmic Attack",
+    "ID": 25653,
+    "Year": "(2006)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.80",
+    "Link": "https://boardgamegeek.com/boardgame/25653/cosmic-attack",
+    "Min Players": "3",
+    "Max Players": "6",
+    "Min Play Time": "15",
+    "Play Time": "15",
+    "Weight": "1",
+    "Description": "In this game by Roberto Fraga you are an alien from the planet Krakton. You've landed on planet earth, simply because you love the blue planet and its inhabitants. The object of this journey: a search for souvenirs.&#10;&#10;By use of your legs, your breathing, your voice, your elbows and whatnot, you try to complete your mission. The challenges created by this game will seriously cause insane game nights.&#10;&#10;Game art by Sofi, ages 8 and up, published: Essen 2006.&#10;&#10;",
+    "Categories": [
+      "Action / Dexterity",
+      "Card Game",
+      "Humor",
+      "Party Game",
+      "Science Fiction"
+    ],
+    "Mechanics": [
+      "Acting"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Die wilden Fussballkerle: Das Rennen",
+    "ID": 25654,
+    "Year": "(2006)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.00",
+    "Link": "https://boardgamegeek.com/boardgame/25654/die-wilden-fussballkerle-das-rennen",
+    "Min Players": "1",
+    "Max Players": "4",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "0",
+    "Description": "You can count on cool bikes and fast tracks, because the Unbesiegbaren Sieger (Unbeatable Victors) have challenged the Wilden Kerle (Wild Boys) to a bicycle race. Round after round, the bikes race over the track, but everywhere, the low tricks of the opponents lurk. Using honey-feather-cannons, roller-bicycles and other mean things they try to push the competition out of the race. Every inch counts, and so a lot of riders lose the overview in the all-out trick-cards duel.&#10;&#10;The game consist of: 1 Gameboard, 20 Pawns, 10 Wilde Fu&szlig;ballkerle, 10 Unbesiegbare Sieger, 1 measuring stick, 20 trick cards, 10 power chips, 1 cloth bag.&#10;&#10;",
+    "Categories": [
+      "Children's Game",
+      "Movies / TV / Radio theme",
+      "Novel-based"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Series: Die wilden Fussballkerle (Kosmos)",
+      "Sports: Football / Soccer"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Country Yossi and the Shteeble-Hoppers game",
+    "ID": 25655,
+    "Year": "(1984)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/25655/country-yossi-and-the-shteeble-hoppers-game",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Mazel Tov!! You have been voted &quot;Meshulach&quot; (fund raiser&quot; for your SHTEEBLE!  You must visit all 8 neighborhood Schteebles (4 in outer circle and 4 in inner circle), collect pledges, and return to your Home Schteeble in the inner circle.  After the first two players have returned home, both players count their money pledges and the one that has the most wins.&#10;&#10;Players spin the spinner, move around, win money from the &quot;Pushka,&quot; draw cards and learn loads of Yiddish!  Cards include &quot;Flatbush Shteeble celebrates a &quot;Siyum Shas,&quot; &quot;Stare one player in the eye and say in a high, squeeky voice 'I vant Lukshin Keegel and I vant it RIGHT NOW!'  That player pays you $100&quot;, &quot;Name all the Jewish months and get $100 from bank,&quot; and &quot;Moishe Shmeel tied your tzizzis to your chair.  Pay $100 to pushka.&quot;&#10;&#10;Ages 5 and over.&#10;&#10;",
+    "Categories": [
+      "Educational",
+      "Religious"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "World Pro Tennis Tour",
+    "ID": 25656,
+    "Year": "(1975)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/25656/world-pro-tennis-tour",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "0",
+    "Description": "In this roll-and-move game, players move around the board taking part in ten major world classic tennis tournaments.  Players get money for placing in the tournaments, promoting tournaments, getting TV commercials and endorsements, and finishing with the best record of play.  The player with the most money at the end of the game wins.&#10;&#10;",
+    "Categories": [
+      "Sports"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Sports: Tennis"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Equate Junior Tile Set",
+    "ID": 25657,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.50",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/25657/equate-junior-tile-set",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "120",
+    "Play Time": "120",
+    "Weight": "0",
+    "Description": "This tile set contains 176 tiles including whole numbers with more 0s and 1s than the Original Tile Set, fractions with denominator 2, the four basic operations with more addition and subtraction tiles than multiplication and division tiles and equal symbols. Packaged in two ziplock bags.  Recommended for ages 6 and up.&#10;&#10;Expands&#10;&#10;    Equate&#10;&#10;&#10;",
+    "Categories": [
+      "Children's Game",
+      "Educational",
+      "Expansion for Base-game",
+      "Math",
+      "Number"
+    ],
+    "Mechanics": [
+      "Tile Placement"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "American Megafauna  (Second Edition): Expansion Set",
+    "ID": 25658,
+    "Year": "(2006)",
+    "Geek Rating": "5.569",
+    "Avg Rating": "7.19",
+    "Link": "https://boardgamegeek.com/boardgameexpansion/25658/american-megafauna-second-edition-expansion-set",
+    "Min Players": "1",
+    "Max Players": "5",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "3.3846",
+    "Description": "From the publisher's website:&#10;&#10;This expansion set for the American Megafauna evolutionary game adds new technology, venom, and marine adaptations. It also expands the game into a five-player game, with the addition of the Proto-Croc player, aka &ldquo;Arizonasaurus&rdquo;.&#10;&#10;This is an expansion set, you will need American Megafauna to play, preferably the second edition.&#10;&#10;Expansion set contents:&#10;&#10;&#10;     A booklet that includes errata, alternate starting biomes, and a personal commentary on the significance of the game to today&rsquo;s events, &#10;     A new creature sheet, along with a card and tents for the new fifth player,&#10;     New cards: 31 new DNA cards, 9 new biome cards, 4 new catastrophe cards, and 2 new genotype cards.&#10;&#10;&#10;Expands:&#10;&#10;    American Megafauna&#10;&#10;&#10;",
+    "Categories": [
+      "Animals",
+      "Educational",
+      "Environmental",
+      "Expansion for Base-game",
+      "Prehistoric"
+    ],
+    "Mechanics": [
+      "Auction / Bidding",
+      "Variable Player Powers"
+    ],
+    "Families": [
+      "Animals: Dinosaurs",
+      "Players: Expansions Changing Player Count",
+      "Theme: Evolution"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Armada",
+    "ID": 25659,
+    "Year": "(1925)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.00",
+    "Link": "https://boardgamegeek.com/boardgame/25659/armada",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "30",
+    "Play Time": "30",
+    "Weight": "0",
+    "Description": "This game comes from a company called Chad Valley and was produced in the mid 1920's.  The object of the game was to shoot down and therefore sink your opponents sailing ships using balls fired from two working lead cannons.&#10;&#10;",
+    "Categories": [
+      "Action / Dexterity",
+      "Wargame"
+    ],
+    "Mechanics": [],
+    "Families": [
+      "Players: Two-Player Only Games"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Speed Baseball",
+    "ID": 25660,
+    "Year": "(2006)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "7.00",
+    "Link": "https://boardgamegeek.com/boardgame/25660/speed-baseball",
+    "Min Players": "2",
+    "Max Players": "2",
+    "Min Play Time": "15",
+    "Play Time": "15",
+    "Weight": "0",
+    "Description": "All the thrills of baseball without leaving your house.&#10;&#10;Speed Baseball uses a combination of cards and a die roll to determine the outcome of each hitter. As well as normal play each person has 3 special actions a game that they can take which have a huge affect on the game. These actions range from pinch hitting to a double play.&#10;&#10;(The game was previously available for free from the publisher's official website at http://www.spunkychicken.com/baseball.shtml, but the site no longer exists.)&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy",
+      "Sports"
+    ],
+    "Mechanics": [
+      "Simulation"
+    ],
+    "Families": [
+      "Components: 2 x 2 Grids",
+      "Players: Two-Player Only Games",
+      "Sports: Baseball"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Air Race",
+    "ID": 25661,
+    "Year": "(1935)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "4.00",
+    "Link": "https://boardgamegeek.com/boardgame/25661/air-race",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "0",
+    "Play Time": "0",
+    "Weight": "0",
+    "Description": "Air Race is a game involving the delivery of mail around the world in the shortest time possible. The game is  for 2 - 4 players. Each player uses destination cards in order to determine where one needs to deliver the mail to. Finishing ones deliveries in the shortest amount of time is the goal of the game.  Rolling the dice is the method of movement. This is a Chad Valley game from the mid 1930's&#10;&#10;",
+    "Categories": [
+      "Aviation / Flight",
+      "Racing"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Sports: Aerial Racing"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Millionaire",
+    "ID": 25662,
+    "Year": "(1942)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "5.15",
+    "Link": "https://boardgamegeek.com/boardgame/25662/millionaire",
+    "Min Players": "3",
+    "Max Players": "7",
+    "Min Play Time": "60",
+    "Play Time": "60",
+    "Weight": "1.5",
+    "Description": "A board game for up to seven players, the object of the game for one of the players to become a Millionaire. The journey of players around the board is subject to advantage and penalty squares and a pack of playing cards with similar subject matter. the game features a lovely board loaded with period illustrations. The game was produced by Wm. Sessions Ltd.of York, England sometime in the early 1940s.&#10;&#10;",
+    "Categories": [
+      "Card Game",
+      "Dice",
+      "Economic"
+    ],
+    "Mechanics": [],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Rolo-Boko",
+    "ID": 25663,
+    "Year": "(1935)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.00",
+    "Link": "https://boardgamegeek.com/boardgame/25663/rolo-boko",
+    "Min Players": "2",
+    "Max Players": "4",
+    "Min Play Time": "15",
+    "Play Time": "15",
+    "Weight": "0",
+    "Description": "Unusual game consisting of six character heads and two lithographed Yo-Yo style discs. The object is to place the disc over the head and roll it it round the perimeter back to the lithographed bee start position  without it falling off. That task is a pretty difficult thing to do. Characters are Jack (sailor HMS Watt.), Punch (Punch &amp; Judy), Joey (Clown), Algy, Bertie and Colonel Bogey (cartoon or comic characters).&#10;&#10;",
+    "Categories": [
+      "Action / Dexterity"
+    ],
+    "Mechanics": [],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Py",
+    "ID": 25664,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "6.50",
+    "Link": "https://boardgamegeek.com/boardgame/25664/py",
+    "Min Players": "1",
+    "Max Players": "4",
+    "Min Play Time": "20",
+    "Play Time": "20",
+    "Weight": "1",
+    "Description": "From the box:&#10;&#10;&quot;Py is a new exciting math game.&#10;For all levels from kindergarten to college&#10;Exercise your creativity and sharpen your mind&#10;Great for family entertainment&#10;Play by yourself or with others&#10;Build a dazzling 3-D pyramid while you play&#10;Intensity piles up as the game progresses&#10;Create your own versions of the game&quot;&#10;&#10;Instructions include rules for five games: Connect color, Plus-Minus, All Operations, Combinations, &amp; Squares.&#10;&#10;Made in Bettendorf, Iowa.&#10;&#10;",
+    "Categories": [
+      "Abstract Strategy",
+      "Math"
+    ],
+    "Mechanics": [
+      "Modular Board",
+      "Team-Based Game"
+    ],
+    "Families": []
+  },
+  {
+    "Rank": "N/A",
+    "Name": "Where's the Dough?",
+    "ID": 25666,
+    "Year": null,
+    "Geek Rating": "N/A",
+    "Avg Rating": "N/A",
+    "Link": "https://boardgamegeek.com/boardgame/25666/wheres-the-dough",
+    "Min Players": "1",
+    "Max Players": "4",
+    "Min Play Time": "120",
+    "Play Time": "120",
+    "Weight": "0",
+    "Description": "This is primarily an educational tool to structure learning about starting and operating a business.  It is not intended to be played in a single sitting, but instead paces, adds random elements, and &quot;keeps score&quot; over the span of a entire business or economics class.  It was created by a student group at North Central College in Naperville IL (&quot;...just 29 miles from downtown Chicago.&quot; per to game).&#10;&#10;Students will create business goal for a cookie making firm,  eventually describing marketing, financial, and operational plans.  The game tests these plans through the use of randomly drawn cards that create variations and alternatives for the students to cope with and learn from.&#10;&#10;The production value is decent, with a fully mounted folding board.  The documentation included with the game is excellent.  There is a teacher's manual, blank and example business plans, blank cards of all four types to allow customization, and an instruction sheet for playing the game.&#10;&#10;",
+    "Categories": [
+      "Economic",
+      "Educational",
+      "Industry / Manufacturing"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "Families": [
+      "Theme: Food / Cooking"
+    ]
+  },
+  {
+    "Rank": "N/A",
+    "Name": "In Search of Identity",
+    "ID": 25667,
+    "Year": "(1983)",
+    "Geek Rating": "N/A",
+    "Avg Rating": "3.00",
+    "Link": "https://boardgamegeek.com/boardgame/25667/in-search-of-identity",
+    "Min Players": "2",
+    "Max Players": "5",
+    "Min Play Time": "90",
+    "Play Time": "90",
+    "Weight": "0",
+    "Description": "&quot;An Exciting Way to Discover Black Heritage!&quot;&#10;&#10;This is a well-produced game that tests the players' knowledge of famous black people, black history, and black culture, with a predominantly American focus.  The primary goal of the game is to score points by answering questions on the above subjects, with individual turn actions keyed by a basic roll-and-move mechanic.&#10;&#10;The significant twist in the game is that each player takes one of twenty cards sets, each set consisting of 11 cards.  Ten are clue cards related to a single black historical figure or celebrity.  Another card in each set has the person's name and picture.  During the game, the other players have the opportunity privately or publicly hear the clues and try to guess the character.  The clues are divulged based on the players answers to toss-up questions on cards (&quot;Words of Wisdom&quot; and &quot;Go Back to your Roots&quot;), drawn when they land on the corresponding squares.  Other squares allow free guessing of secret identities, answering questions for additional points, and other more typical roll-and-move actions.  Points for answers/guesses are tallied on paper for as the game progresses.&#10;&#10;This game appears to have a good balance between movement, deduction, and trivia mechanics.  An unfortunate rule is that players who have their secret identities guessed are then out of the game, so it would help to have the most obscure figure possible. (There were two of twenty I was completely unfamiliar with, and a couple more I needed a clue to recognize.)&#10;&#10;There will not be much replay after all the IDs have been used...but if that happens the game will have largely succeeded in it primary educational goal.&#10;&#10;",
+    "Categories": [
+      "Educational",
+      "Trivia"
+    ],
+    "Mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "Families": []
+  }
+]
